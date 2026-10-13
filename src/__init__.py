@@ -1,0 +1,1 @@
+"""AAVAIL revenue forecasting package."""

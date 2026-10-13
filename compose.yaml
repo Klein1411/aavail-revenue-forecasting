@@ -1,0 +1,10 @@
+services:
+  revenue-api:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      - INPUT_DIR=data/sample
+      - TRAIN_TOKEN=${TRAIN_TOKEN:-}
+      - ADMIN_TOKEN=${ADMIN_TOKEN:-}
+    restart: unless-stopped

@@ -1,0 +1,3871 @@
+country,date,actual,prediction,model
+Australia,2019-07-02,0.0,16.36757666045169,ridge
+Australia,2019-07-03,0.0,25.22121939985049,ridge
+Australia,2019-07-04,0.0,25.490709130963857,ridge
+Australia,2019-07-05,0.0,17.905022824399467,ridge
+Australia,2019-07-06,0.0,6.819572906119242,ridge
+Australia,2019-07-07,0.0,0.987754019508575,ridge
+Australia,2019-07-08,0.0,4.63255322576758,ridge
+Australia,2019-07-09,0.0,14.751895339409538,ridge
+Australia,2019-07-10,17.7,20.845076892300778,ridge
+Australia,2019-07-11,101.55,25.321867565609207,ridge
+Australia,2019-07-12,0.0,18.472855173138953,ridge
+Australia,2019-07-13,0.0,7.443470348592138,ridge
+Australia,2019-07-14,0.0,1.6374615948658615,ridge
+Australia,2019-07-15,0.0,5.248630831397732,ridge
+Australia,2019-07-16,348.38,15.144918516633298,ridge
+Australia,2019-07-17,0.0,23.911345563270874,ridge
+Australia,2019-07-18,0.0,24.65344207689,ridge
+Australia,2019-07-19,0.0,16.680117597931826,ridge
+Australia,2019-07-20,0.0,5.843420107713161,ridge
+Australia,2019-07-21,57.57,0.13197724457409699,ridge
+Australia,2019-07-22,0.0,3.693170288387776,ridge
+Australia,2019-07-23,2.71,13.695019226576793,ridge
+Australia,2019-07-24,0.0,22.49365097762186,ridge
+Australia,2019-07-25,0.0,22.387064343690653,ridge
+Australia,2019-07-26,0.0,15.86310369931135,ridge
+Australia,2019-07-27,0.0,5.007511670535434,ridge
+Australia,2019-07-28,0.0,0.0,ridge
+Australia,2019-07-29,0.0,2.8464487928848623,ridge
+Australia,2019-07-30,0.0,12.702382360990102,ridge
+Australia,2019-07-31,0.0,21.499699014066145,ridge
+Australia,2019-07-02,0.0,22.082341827333888,random_forest
+Australia,2019-07-03,0.0,29.381039383250194,random_forest
+Australia,2019-07-04,0.0,29.363624829597487,random_forest
+Australia,2019-07-05,0.0,5.55299073658743,random_forest
+Australia,2019-07-06,0.0,6.62326349204378,random_forest
+Australia,2019-07-07,0.0,3.1633800595040964,random_forest
+Australia,2019-07-08,0.0,3.2029577279294212,random_forest
+Australia,2019-07-09,0.0,13.417610141320944,random_forest
+Australia,2019-07-10,17.7,15.145065796210956,random_forest
+Australia,2019-07-11,101.55,69.13621630568507,random_forest
+Australia,2019-07-12,0.0,24.889779957374813,random_forest
+Australia,2019-07-13,0.0,6.0219637878672385,random_forest
+Australia,2019-07-14,0.0,4.415044344935744,random_forest
+Australia,2019-07-15,0.0,11.238724858946554,random_forest
+Australia,2019-07-16,348.38,16.112566079183896,random_forest
+Australia,2019-07-17,0.0,27.19894220652877,random_forest
+Australia,2019-07-18,0.0,19.157767457289488,random_forest
+Australia,2019-07-19,0.0,10.761346691974637,random_forest
+Australia,2019-07-20,0.0,8.735046726170763,random_forest
+Australia,2019-07-21,57.57,4.67688443193208,random_forest
+Australia,2019-07-22,0.0,5.195735505707199,random_forest
+Australia,2019-07-23,2.71,13.937877998463803,random_forest
+Australia,2019-07-24,0.0,26.481139046443605,random_forest
+Australia,2019-07-25,0.0,16.702637390126302,random_forest
+Australia,2019-07-26,0.0,10.937776836186792,random_forest
+Australia,2019-07-27,0.0,7.736147916646954,random_forest
+Australia,2019-07-28,0.0,3.7922885125501193,random_forest
+Australia,2019-07-29,0.0,4.197977292086555,random_forest
+Australia,2019-07-30,0.0,12.507701874253286,random_forest
+Australia,2019-07-31,0.0,16.62201847778864,random_forest
+Australia,2019-07-02,0.0,0.0,seasonal_naive
+Australia,2019-07-03,0.0,0.0,seasonal_naive
+Australia,2019-07-04,0.0,83.42,seasonal_naive
+Australia,2019-07-05,0.0,0.0,seasonal_naive
+Australia,2019-07-06,0.0,0.0,seasonal_naive
+Australia,2019-07-07,0.0,0.0,seasonal_naive
+Australia,2019-07-08,0.0,0.0,seasonal_naive
+Australia,2019-07-09,0.0,0.0,seasonal_naive
+Australia,2019-07-10,17.7,0.0,seasonal_naive
+Australia,2019-07-11,101.55,83.42,seasonal_naive
+Australia,2019-07-12,0.0,0.0,seasonal_naive
+Australia,2019-07-13,0.0,0.0,seasonal_naive
+Australia,2019-07-14,0.0,0.0,seasonal_naive
+Australia,2019-07-15,0.0,0.0,seasonal_naive
+Australia,2019-07-16,348.38,0.0,seasonal_naive
+Australia,2019-07-17,0.0,0.0,seasonal_naive
+Australia,2019-07-18,0.0,83.42,seasonal_naive
+Australia,2019-07-19,0.0,0.0,seasonal_naive
+Australia,2019-07-20,0.0,0.0,seasonal_naive
+Australia,2019-07-21,57.57,0.0,seasonal_naive
+Australia,2019-07-22,0.0,0.0,seasonal_naive
+Australia,2019-07-23,2.71,0.0,seasonal_naive
+Australia,2019-07-24,0.0,0.0,seasonal_naive
+Australia,2019-07-25,0.0,83.42,seasonal_naive
+Australia,2019-07-26,0.0,0.0,seasonal_naive
+Australia,2019-07-27,0.0,0.0,seasonal_naive
+Australia,2019-07-28,0.0,0.0,seasonal_naive
+Australia,2019-07-29,0.0,0.0,seasonal_naive
+Australia,2019-07-30,0.0,0.0,seasonal_naive
+Australia,2019-07-31,0.0,0.0,seasonal_naive
+Austria,2019-07-02,0.0,6.273458581228091,ridge
+Austria,2019-07-03,0.0,9.661039784995571,ridge
+Austria,2019-07-04,0.0,10.760241235374895,ridge
+Austria,2019-07-05,0.0,8.886400045893579,ridge
+Austria,2019-07-06,0.0,5.443736925119456,ridge
+Austria,2019-07-07,0.0,3.0104765082617315,ridge
+Austria,2019-07-08,0.0,3.404490754211012,ridge
+Austria,2019-07-09,92.63,5.8845463907553945,ridge
+Austria,2019-07-10,0.0,9.398739356253456,ridge
+Austria,2019-07-11,0.0,10.527491906163785,ridge
+Austria,2019-07-12,0.0,8.745317149997451,ridge
+Austria,2019-07-13,0.0,5.420556964115836,ridge
+Austria,2019-07-14,0.0,3.068120214232437,ridge
+Austria,2019-07-15,0.0,3.4696442028050587,ridge
+Austria,2019-07-16,0.0,7.500276204680278,ridge
+Austria,2019-07-17,0.0,11.339288876974775,ridge
+Austria,2019-07-18,0.0,12.660432086852074,ridge
+Austria,2019-07-19,0.0,10.511409350030704,ridge
+Austria,2019-07-20,0.0,6.5066127367967495,ridge
+Austria,2019-07-21,0.0,3.654466877589272,ridge
+Austria,2019-07-22,0.0,4.095121696788454,ridge
+Austria,2019-07-23,0.0,7.385102915846217,ridge
+Austria,2019-07-24,0.0,11.210557096369936,ridge
+Austria,2019-07-25,102.91,12.540347045173563,ridge
+Austria,2019-07-26,0.0,10.42492077937824,ridge
+Austria,2019-07-27,0.0,6.464175639216998,ridge
+Austria,2019-07-28,0.0,3.6422235167053403,ridge
+Austria,2019-07-29,0.0,4.084786952331733,ridge
+Austria,2019-07-30,0.0,7.4165460100243905,ridge
+Austria,2019-07-31,0.0,11.206383915012342,ridge
+Austria,2019-07-02,0.0,0.6595498251748252,random_forest
+Austria,2019-07-03,0.0,0.12392482517482517,random_forest
+Austria,2019-07-04,0.0,0.05499999999999999,random_forest
+Austria,2019-07-05,0.0,0.51625,random_forest
+Austria,2019-07-06,0.0,0.0,random_forest
+Austria,2019-07-07,0.0,0.485625,random_forest
+Austria,2019-07-08,0.0,7.642375496031746,random_forest
+Austria,2019-07-09,92.63,0.6345498251748252,random_forest
+Austria,2019-07-10,0.0,0.09892482517482519,random_forest
+Austria,2019-07-11,0.0,0.20249999999999999,random_forest
+Austria,2019-07-12,0.0,0.6637500000000001,random_forest
+Austria,2019-07-13,0.0,0.005833333333333333,random_forest
+Austria,2019-07-14,0.0,0.49145833333333333,random_forest
+Austria,2019-07-15,0.0,7.6173754960317455,random_forest
+Austria,2019-07-16,0.0,0.6403831585081585,random_forest
+Austria,2019-07-17,0.0,0.10475815850815852,random_forest
+Austria,2019-07-18,0.0,1.448472222222222,random_forest
+Austria,2019-07-19,0.0,2.621180555555555,random_forest
+Austria,2019-07-20,0.0,0.7922916666666667,random_forest
+Austria,2019-07-21,0.0,1.2779166666666666,random_forest
+Austria,2019-07-22,0.0,8.089181051587301,random_forest
+Austria,2019-07-23,0.0,1.4570988447826683,random_forest
+Austria,2019-07-24,0.0,0.9214738447826684,random_forest
+Austria,2019-07-25,102.91,2.4132638888888884,random_forest
+Austria,2019-07-26,0.0,2.6961805555555554,random_forest
+Austria,2019-07-27,0.0,0.7922916666666667,random_forest
+Austria,2019-07-28,0.0,1.2779166666666666,random_forest
+Austria,2019-07-29,0.0,8.438694940476191,random_forest
+Austria,2019-07-30,0.0,1.6401748251748252,random_forest
+Austria,2019-07-31,0.0,1.1045498251748251,random_forest
+Austria,2019-07-02,0.0,0.0,seasonal_naive
+Austria,2019-07-03,0.0,0.0,seasonal_naive
+Austria,2019-07-04,0.0,0.0,seasonal_naive
+Austria,2019-07-05,0.0,0.0,seasonal_naive
+Austria,2019-07-06,0.0,0.0,seasonal_naive
+Austria,2019-07-07,0.0,0.0,seasonal_naive
+Austria,2019-07-08,0.0,0.0,seasonal_naive
+Austria,2019-07-09,92.63,0.0,seasonal_naive
+Austria,2019-07-10,0.0,0.0,seasonal_naive
+Austria,2019-07-11,0.0,0.0,seasonal_naive
+Austria,2019-07-12,0.0,0.0,seasonal_naive
+Austria,2019-07-13,0.0,0.0,seasonal_naive
+Austria,2019-07-14,0.0,0.0,seasonal_naive
+Austria,2019-07-15,0.0,0.0,seasonal_naive
+Austria,2019-07-16,0.0,0.0,seasonal_naive
+Austria,2019-07-17,0.0,0.0,seasonal_naive
+Austria,2019-07-18,0.0,0.0,seasonal_naive
+Austria,2019-07-19,0.0,0.0,seasonal_naive
+Austria,2019-07-20,0.0,0.0,seasonal_naive
+Austria,2019-07-21,0.0,0.0,seasonal_naive
+Austria,2019-07-22,0.0,0.0,seasonal_naive
+Austria,2019-07-23,0.0,0.0,seasonal_naive
+Austria,2019-07-24,0.0,0.0,seasonal_naive
+Austria,2019-07-25,102.91,0.0,seasonal_naive
+Austria,2019-07-26,0.0,0.0,seasonal_naive
+Austria,2019-07-27,0.0,0.0,seasonal_naive
+Austria,2019-07-28,0.0,0.0,seasonal_naive
+Austria,2019-07-29,0.0,0.0,seasonal_naive
+Austria,2019-07-30,0.0,0.0,seasonal_naive
+Austria,2019-07-31,0.0,0.0,seasonal_naive
+Bahrain,2019-07-02,0.0,0.3453651375989355,ridge
+Bahrain,2019-07-03,0.0,0.4756932756818548,ridge
+Bahrain,2019-07-04,0.0,0.40332611490845305,ridge
+Bahrain,2019-07-05,0.0,0.16600446167823169,ridge
+Bahrain,2019-07-06,0.0,0.0,ridge
+Bahrain,2019-07-07,0.0,0.0,ridge
+Bahrain,2019-07-08,0.0,0.0,ridge
+Bahrain,2019-07-09,0.0,0.1941695137840198,ridge
+Bahrain,2019-07-10,0.0,0.3278178655713173,ridge
+Bahrain,2019-07-11,0.0,0.2590967625070204,ridge
+Bahrain,2019-07-12,0.0,0.026192385097010717,ridge
+Bahrain,2019-07-13,0.0,0.0,ridge
+Bahrain,2019-07-14,0.0,0.0,ridge
+Bahrain,2019-07-15,0.0,0.0,ridge
+Bahrain,2019-07-16,0.0,0.055868400507590454,ridge
+Bahrain,2019-07-17,0.0,0.19217781698976344,ridge
+Bahrain,2019-07-18,0.0,0.12622704774346793,ridge
+Bahrain,2019-07-19,0.0,0.0,ridge
+Bahrain,2019-07-20,0.0,0.0,ridge
+Bahrain,2019-07-21,0.0,0.0,ridge
+Bahrain,2019-07-22,0.0,0.0,ridge
+Bahrain,2019-07-23,0.0,0.0,ridge
+Bahrain,2019-07-24,0.0,0.0652653338982585,ridge
+Bahrain,2019-07-25,0.0,0.002201201245561002,ridge
+Bahrain,2019-07-26,0.0,0.0,ridge
+Bahrain,2019-07-27,0.0,0.0,ridge
+Bahrain,2019-07-28,0.0,0.0,ridge
+Bahrain,2019-07-29,0.0,0.0,ridge
+Bahrain,2019-07-30,0.0,0.0,ridge
+Bahrain,2019-07-31,0.0,0.0,ridge
+Bahrain,2019-07-02,0.0,0.0,random_forest
+Bahrain,2019-07-03,0.0,0.0,random_forest
+Bahrain,2019-07-04,0.0,0.7301136363636364,random_forest
+Bahrain,2019-07-05,0.0,0.7301136363636364,random_forest
+Bahrain,2019-07-06,0.0,0.0,random_forest
+Bahrain,2019-07-07,0.0,0.0,random_forest
+Bahrain,2019-07-08,0.0,0.7590277777777777,random_forest
+Bahrain,2019-07-09,0.0,0.0,random_forest
+Bahrain,2019-07-10,0.0,0.5139999999999999,random_forest
+Bahrain,2019-07-11,0.0,1.8866136363636363,random_forest
+Bahrain,2019-07-12,0.0,0.10124999999999999,random_forest
+Bahrain,2019-07-13,0.0,0.0,random_forest
+Bahrain,2019-07-14,0.0,0.0,random_forest
+Bahrain,2019-07-15,0.0,0.7590277777777777,random_forest
+Bahrain,2019-07-16,0.0,0.0,random_forest
+Bahrain,2019-07-17,0.0,0.0,random_forest
+Bahrain,2019-07-18,0.0,0.10124999999999999,random_forest
+Bahrain,2019-07-19,0.0,0.10124999999999999,random_forest
+Bahrain,2019-07-20,0.0,0.0,random_forest
+Bahrain,2019-07-21,0.0,0.0,random_forest
+Bahrain,2019-07-22,0.0,0.7590277777777777,random_forest
+Bahrain,2019-07-23,0.0,0.0,random_forest
+Bahrain,2019-07-24,0.0,0.0,random_forest
+Bahrain,2019-07-25,0.0,0.10124999999999999,random_forest
+Bahrain,2019-07-26,0.0,0.10124999999999999,random_forest
+Bahrain,2019-07-27,0.0,0.0,random_forest
+Bahrain,2019-07-28,0.0,0.0,random_forest
+Bahrain,2019-07-29,0.0,0.7590277777777777,random_forest
+Bahrain,2019-07-30,0.0,0.0,random_forest
+Bahrain,2019-07-31,0.0,0.0,random_forest
+Bahrain,2019-07-02,0.0,0.0,seasonal_naive
+Bahrain,2019-07-03,0.0,0.0,seasonal_naive
+Bahrain,2019-07-04,0.0,0.0,seasonal_naive
+Bahrain,2019-07-05,0.0,0.0,seasonal_naive
+Bahrain,2019-07-06,0.0,0.0,seasonal_naive
+Bahrain,2019-07-07,0.0,0.0,seasonal_naive
+Bahrain,2019-07-08,0.0,0.0,seasonal_naive
+Bahrain,2019-07-09,0.0,0.0,seasonal_naive
+Bahrain,2019-07-10,0.0,0.0,seasonal_naive
+Bahrain,2019-07-11,0.0,0.0,seasonal_naive
+Bahrain,2019-07-12,0.0,0.0,seasonal_naive
+Bahrain,2019-07-13,0.0,0.0,seasonal_naive
+Bahrain,2019-07-14,0.0,0.0,seasonal_naive
+Bahrain,2019-07-15,0.0,0.0,seasonal_naive
+Bahrain,2019-07-16,0.0,0.0,seasonal_naive
+Bahrain,2019-07-17,0.0,0.0,seasonal_naive
+Bahrain,2019-07-18,0.0,0.0,seasonal_naive
+Bahrain,2019-07-19,0.0,0.0,seasonal_naive
+Bahrain,2019-07-20,0.0,0.0,seasonal_naive
+Bahrain,2019-07-21,0.0,0.0,seasonal_naive
+Bahrain,2019-07-22,0.0,0.0,seasonal_naive
+Bahrain,2019-07-23,0.0,0.0,seasonal_naive
+Bahrain,2019-07-24,0.0,0.0,seasonal_naive
+Bahrain,2019-07-25,0.0,0.0,seasonal_naive
+Bahrain,2019-07-26,0.0,0.0,seasonal_naive
+Bahrain,2019-07-27,0.0,0.0,seasonal_naive
+Bahrain,2019-07-28,0.0,0.0,seasonal_naive
+Bahrain,2019-07-29,0.0,0.0,seasonal_naive
+Bahrain,2019-07-30,0.0,0.0,seasonal_naive
+Bahrain,2019-07-31,0.0,0.0,seasonal_naive
+Belgium,2019-07-02,0.0,10.278676696240048,ridge
+Belgium,2019-07-03,90.92999999999999,5.865858879975882,ridge
+Belgium,2019-07-04,96.71,0.0,ridge
+Belgium,2019-07-05,0.0,0.0,ridge
+Belgium,2019-07-06,0.0,0.0,ridge
+Belgium,2019-07-07,0.0,3.4513513006755936,ridge
+Belgium,2019-07-08,0.0,9.666308492580008,ridge
+Belgium,2019-07-09,0.0,10.834276051137103,ridge
+Belgium,2019-07-10,17.55,6.069350618345421,ridge
+Belgium,2019-07-11,0.0,0.0,ridge
+Belgium,2019-07-12,0.0,0.0,ridge
+Belgium,2019-07-13,0.0,0.0,ridge
+Belgium,2019-07-14,0.0,3.000998599562987,ridge
+Belgium,2019-07-15,0.0,9.253391193516912,ridge
+Belgium,2019-07-16,0.0,10.468297738059231,ridge
+Belgium,2019-07-17,0.0,5.207279587417528,ridge
+Belgium,2019-07-18,0.0,0.0,ridge
+Belgium,2019-07-19,0.0,0.0,ridge
+Belgium,2019-07-20,0.0,0.0,ridge
+Belgium,2019-07-21,0.0,2.8092383461023402,ridge
+Belgium,2019-07-22,0.0,9.035817265748488,ridge
+Belgium,2019-07-23,0.0,10.335143002482774,ridge
+Belgium,2019-07-24,247.49,5.648191849733031,ridge
+Belgium,2019-07-25,22.72,0.0,ridge
+Belgium,2019-07-26,0.0,0.0,ridge
+Belgium,2019-07-27,0.0,0.0,ridge
+Belgium,2019-07-28,0.0,2.154410051346119,ridge
+Belgium,2019-07-29,0.0,8.412495765119797,ridge
+Belgium,2019-07-30,171.8,9.64665698238242,ridge
+Belgium,2019-07-31,0.0,5.1062865692847055,ridge
+Belgium,2019-07-02,0.0,65.5432266251926,random_forest
+Belgium,2019-07-03,90.92999999999999,49.55071421790738,random_forest
+Belgium,2019-07-04,96.71,35.358631149138226,random_forest
+Belgium,2019-07-05,0.0,24.827601354350808,random_forest
+Belgium,2019-07-06,0.0,14.033614661142236,random_forest
+Belgium,2019-07-07,0.0,22.98424987356054,random_forest
+Belgium,2019-07-08,0.0,21.078422244062992,random_forest
+Belgium,2019-07-09,0.0,29.010942232942327,random_forest
+Belgium,2019-07-10,17.55,30.946581486075846,random_forest
+Belgium,2019-07-11,0.0,29.910422842504293,random_forest
+Belgium,2019-07-12,0.0,13.478070464075794,random_forest
+Belgium,2019-07-13,0.0,6.907694413222589,random_forest
+Belgium,2019-07-14,0.0,9.81202175527052,random_forest
+Belgium,2019-07-15,0.0,15.479376281782718,random_forest
+Belgium,2019-07-16,0.0,26.070889460010736,random_forest
+Belgium,2019-07-17,0.0,30.141621803848636,random_forest
+Belgium,2019-07-18,0.0,23.05517775421043,random_forest
+Belgium,2019-07-19,0.0,31.477981529717322,random_forest
+Belgium,2019-07-20,0.0,9.20397886994064,random_forest
+Belgium,2019-07-21,0.0,12.915868711988567,random_forest
+Belgium,2019-07-22,0.0,18.500007908681823,random_forest
+Belgium,2019-07-23,0.0,21.804134244151907,random_forest
+Belgium,2019-07-24,247.49,20.071532306530518,random_forest
+Belgium,2019-07-25,22.72,25.373169488661045,random_forest
+Belgium,2019-07-26,0.0,22.4875823438239,random_forest
+Belgium,2019-07-27,0.0,9.53496324494064,random_forest
+Belgium,2019-07-28,0.0,12.587144753655236,random_forest
+Belgium,2019-07-29,0.0,20.399577024672816,random_forest
+Belgium,2019-07-30,171.8,30.518561817905763,random_forest
+Belgium,2019-07-31,0.0,27.781397631409416,random_forest
+Belgium,2019-07-02,0.0,0.0,seasonal_naive
+Belgium,2019-07-03,90.92999999999999,1.65,seasonal_naive
+Belgium,2019-07-04,96.71,34.75,seasonal_naive
+Belgium,2019-07-05,0.0,0.0,seasonal_naive
+Belgium,2019-07-06,0.0,0.0,seasonal_naive
+Belgium,2019-07-07,0.0,0.0,seasonal_naive
+Belgium,2019-07-08,0.0,0.0,seasonal_naive
+Belgium,2019-07-09,0.0,0.0,seasonal_naive
+Belgium,2019-07-10,17.55,1.65,seasonal_naive
+Belgium,2019-07-11,0.0,34.75,seasonal_naive
+Belgium,2019-07-12,0.0,0.0,seasonal_naive
+Belgium,2019-07-13,0.0,0.0,seasonal_naive
+Belgium,2019-07-14,0.0,0.0,seasonal_naive
+Belgium,2019-07-15,0.0,0.0,seasonal_naive
+Belgium,2019-07-16,0.0,0.0,seasonal_naive
+Belgium,2019-07-17,0.0,1.65,seasonal_naive
+Belgium,2019-07-18,0.0,34.75,seasonal_naive
+Belgium,2019-07-19,0.0,0.0,seasonal_naive
+Belgium,2019-07-20,0.0,0.0,seasonal_naive
+Belgium,2019-07-21,0.0,0.0,seasonal_naive
+Belgium,2019-07-22,0.0,0.0,seasonal_naive
+Belgium,2019-07-23,0.0,0.0,seasonal_naive
+Belgium,2019-07-24,247.49,1.65,seasonal_naive
+Belgium,2019-07-25,22.72,34.75,seasonal_naive
+Belgium,2019-07-26,0.0,0.0,seasonal_naive
+Belgium,2019-07-27,0.0,0.0,seasonal_naive
+Belgium,2019-07-28,0.0,0.0,seasonal_naive
+Belgium,2019-07-29,0.0,0.0,seasonal_naive
+Belgium,2019-07-30,171.8,0.0,seasonal_naive
+Belgium,2019-07-31,0.0,1.65,seasonal_naive
+Bermuda,2019-07-02,0.0,0.0,ridge
+Bermuda,2019-07-03,0.0,0.0,ridge
+Bermuda,2019-07-04,0.0,0.006289436097459689,ridge
+Bermuda,2019-07-05,0.0,0.0,ridge
+Bermuda,2019-07-06,0.0,0.0,ridge
+Bermuda,2019-07-07,0.0,0.0,ridge
+Bermuda,2019-07-08,0.0,0.0,ridge
+Bermuda,2019-07-09,0.0,0.0,ridge
+Bermuda,2019-07-10,0.0,0.0,ridge
+Bermuda,2019-07-11,0.0,0.0,ridge
+Bermuda,2019-07-12,0.0,0.0,ridge
+Bermuda,2019-07-13,0.0,0.0,ridge
+Bermuda,2019-07-14,0.0,0.0,ridge
+Bermuda,2019-07-15,0.0,0.0,ridge
+Bermuda,2019-07-16,0.0,0.0,ridge
+Bermuda,2019-07-17,0.0,0.0,ridge
+Bermuda,2019-07-18,0.0,0.0,ridge
+Bermuda,2019-07-19,0.0,0.0,ridge
+Bermuda,2019-07-20,0.0,0.0,ridge
+Bermuda,2019-07-21,0.0,0.0,ridge
+Bermuda,2019-07-22,0.0,0.0,ridge
+Bermuda,2019-07-23,0.0,0.0,ridge
+Bermuda,2019-07-24,0.0,0.0,ridge
+Bermuda,2019-07-25,0.0,0.0,ridge
+Bermuda,2019-07-26,0.0,0.0,ridge
+Bermuda,2019-07-27,0.0,0.0,ridge
+Bermuda,2019-07-28,0.0,0.0,ridge
+Bermuda,2019-07-29,0.0,0.0,ridge
+Bermuda,2019-07-30,0.0,0.0,ridge
+Bermuda,2019-07-31,0.0,0.0,ridge
+Bermuda,2019-07-02,0.0,0.0,random_forest
+Bermuda,2019-07-03,0.0,0.0,random_forest
+Bermuda,2019-07-04,0.0,0.0,random_forest
+Bermuda,2019-07-05,0.0,0.0,random_forest
+Bermuda,2019-07-06,0.0,0.0,random_forest
+Bermuda,2019-07-07,0.0,0.0,random_forest
+Bermuda,2019-07-08,0.0,0.0,random_forest
+Bermuda,2019-07-09,0.0,0.0,random_forest
+Bermuda,2019-07-10,0.0,0.0,random_forest
+Bermuda,2019-07-11,0.0,0.0,random_forest
+Bermuda,2019-07-12,0.0,0.0,random_forest
+Bermuda,2019-07-13,0.0,0.0,random_forest
+Bermuda,2019-07-14,0.0,0.0,random_forest
+Bermuda,2019-07-15,0.0,0.0,random_forest
+Bermuda,2019-07-16,0.0,0.0,random_forest
+Bermuda,2019-07-17,0.0,0.0,random_forest
+Bermuda,2019-07-18,0.0,0.0,random_forest
+Bermuda,2019-07-19,0.0,0.0,random_forest
+Bermuda,2019-07-20,0.0,0.0,random_forest
+Bermuda,2019-07-21,0.0,0.0,random_forest
+Bermuda,2019-07-22,0.0,0.0,random_forest
+Bermuda,2019-07-23,0.0,0.0,random_forest
+Bermuda,2019-07-24,0.0,0.0,random_forest
+Bermuda,2019-07-25,0.0,0.0,random_forest
+Bermuda,2019-07-26,0.0,0.0,random_forest
+Bermuda,2019-07-27,0.0,0.0,random_forest
+Bermuda,2019-07-28,0.0,0.0,random_forest
+Bermuda,2019-07-29,0.0,0.0,random_forest
+Bermuda,2019-07-30,0.0,0.0,random_forest
+Bermuda,2019-07-31,0.0,0.0,random_forest
+Bermuda,2019-07-02,0.0,0.0,seasonal_naive
+Bermuda,2019-07-03,0.0,0.0,seasonal_naive
+Bermuda,2019-07-04,0.0,0.0,seasonal_naive
+Bermuda,2019-07-05,0.0,0.0,seasonal_naive
+Bermuda,2019-07-06,0.0,0.0,seasonal_naive
+Bermuda,2019-07-07,0.0,0.0,seasonal_naive
+Bermuda,2019-07-08,0.0,0.0,seasonal_naive
+Bermuda,2019-07-09,0.0,0.0,seasonal_naive
+Bermuda,2019-07-10,0.0,0.0,seasonal_naive
+Bermuda,2019-07-11,0.0,0.0,seasonal_naive
+Bermuda,2019-07-12,0.0,0.0,seasonal_naive
+Bermuda,2019-07-13,0.0,0.0,seasonal_naive
+Bermuda,2019-07-14,0.0,0.0,seasonal_naive
+Bermuda,2019-07-15,0.0,0.0,seasonal_naive
+Bermuda,2019-07-16,0.0,0.0,seasonal_naive
+Bermuda,2019-07-17,0.0,0.0,seasonal_naive
+Bermuda,2019-07-18,0.0,0.0,seasonal_naive
+Bermuda,2019-07-19,0.0,0.0,seasonal_naive
+Bermuda,2019-07-20,0.0,0.0,seasonal_naive
+Bermuda,2019-07-21,0.0,0.0,seasonal_naive
+Bermuda,2019-07-22,0.0,0.0,seasonal_naive
+Bermuda,2019-07-23,0.0,0.0,seasonal_naive
+Bermuda,2019-07-24,0.0,0.0,seasonal_naive
+Bermuda,2019-07-25,0.0,0.0,seasonal_naive
+Bermuda,2019-07-26,0.0,0.0,seasonal_naive
+Bermuda,2019-07-27,0.0,0.0,seasonal_naive
+Bermuda,2019-07-28,0.0,0.0,seasonal_naive
+Bermuda,2019-07-29,0.0,0.0,seasonal_naive
+Bermuda,2019-07-30,0.0,0.0,seasonal_naive
+Bermuda,2019-07-31,0.0,0.0,seasonal_naive
+Brazil,2019-07-02,0.0,1.2522495794088335,ridge
+Brazil,2019-07-03,0.0,1.4400378177169255,ridge
+Brazil,2019-07-04,0.0,1.5196215373870277,ridge
+Brazil,2019-07-05,0.0,1.4277598139209768,ridge
+Brazil,2019-07-06,0.0,1.2306704991180077,ridge
+Brazil,2019-07-07,0.0,1.0737893102064358,ridge
+Brazil,2019-07-08,0.0,1.0722535896441192,ridge
+Brazil,2019-07-09,0.0,1.223404610964265,ridge
+Brazil,2019-07-10,0.0,1.4108905415679434,ridge
+Brazil,2019-07-11,0.0,1.4898083614893456,ridge
+Brazil,2019-07-12,0.0,1.3973666139744043,ridge
+Brazil,2019-07-13,0.0,1.1997912736849599,ridge
+Brazil,2019-07-14,0.0,1.0424562587238113,ridge
+Brazil,2019-07-15,0.0,1.0404136824659587,ridge
+Brazil,2019-07-16,0.0,1.1911495498449793,ridge
+Brazil,2019-07-17,0.0,1.3783625240145367,ridge
+Brazil,2019-07-18,0.0,1.45705873141264,ridge
+Brazil,2019-07-19,0.0,1.364477074177394,ridge
+Brazil,2019-07-20,0.0,1.1668109492982037,ridge
+Brazil,2019-07-21,0.0,1.0093634986819118,ridge
+Brazil,2019-07-22,0.0,1.007131252784417,ridge
+Brazil,2019-07-23,0.0,1.1582100580964747,ridge
+Brazil,2019-07-24,0.0,1.3452267996881484,ridge
+Brazil,2019-07-25,0.0,1.4237260750117313,ridge
+Brazil,2019-07-26,0.0,1.3309464760378216,ridge
+Brazil,2019-07-27,0.0,1.1330815208657867,ridge
+Brazil,2019-07-28,0.0,0.9754345401403115,ridge
+Brazil,2019-07-29,0.0,0.9730022751378373,ridge
+Brazil,2019-07-30,0.0,1.1229200970458857,ridge
+Brazil,2019-07-31,0.0,1.3176699813179755,ridge
+Brazil,2019-07-02,0.0,0.0,random_forest
+Brazil,2019-07-03,0.0,0.0,random_forest
+Brazil,2019-07-04,0.0,0.0,random_forest
+Brazil,2019-07-05,0.0,0.0,random_forest
+Brazil,2019-07-06,0.0,0.0,random_forest
+Brazil,2019-07-07,0.0,0.0,random_forest
+Brazil,2019-07-08,0.0,0.0,random_forest
+Brazil,2019-07-09,0.0,0.0,random_forest
+Brazil,2019-07-10,0.0,0.0,random_forest
+Brazil,2019-07-11,0.0,0.0,random_forest
+Brazil,2019-07-12,0.0,0.0,random_forest
+Brazil,2019-07-13,0.0,0.0,random_forest
+Brazil,2019-07-14,0.0,0.0,random_forest
+Brazil,2019-07-15,0.0,0.0,random_forest
+Brazil,2019-07-16,0.0,0.0,random_forest
+Brazil,2019-07-17,0.0,0.0,random_forest
+Brazil,2019-07-18,0.0,0.0,random_forest
+Brazil,2019-07-19,0.0,0.0,random_forest
+Brazil,2019-07-20,0.0,0.0,random_forest
+Brazil,2019-07-21,0.0,0.0,random_forest
+Brazil,2019-07-22,0.0,0.0,random_forest
+Brazil,2019-07-23,0.0,0.0,random_forest
+Brazil,2019-07-24,0.0,0.0,random_forest
+Brazil,2019-07-25,0.0,0.0,random_forest
+Brazil,2019-07-26,0.0,0.0,random_forest
+Brazil,2019-07-27,0.0,0.0,random_forest
+Brazil,2019-07-28,0.0,0.0,random_forest
+Brazil,2019-07-29,0.0,0.0,random_forest
+Brazil,2019-07-30,0.0,0.0,random_forest
+Brazil,2019-07-31,0.0,0.0,random_forest
+Brazil,2019-07-02,0.0,0.0,seasonal_naive
+Brazil,2019-07-03,0.0,0.0,seasonal_naive
+Brazil,2019-07-04,0.0,0.0,seasonal_naive
+Brazil,2019-07-05,0.0,0.0,seasonal_naive
+Brazil,2019-07-06,0.0,0.0,seasonal_naive
+Brazil,2019-07-07,0.0,0.0,seasonal_naive
+Brazil,2019-07-08,0.0,0.0,seasonal_naive
+Brazil,2019-07-09,0.0,0.0,seasonal_naive
+Brazil,2019-07-10,0.0,0.0,seasonal_naive
+Brazil,2019-07-11,0.0,0.0,seasonal_naive
+Brazil,2019-07-12,0.0,0.0,seasonal_naive
+Brazil,2019-07-13,0.0,0.0,seasonal_naive
+Brazil,2019-07-14,0.0,0.0,seasonal_naive
+Brazil,2019-07-15,0.0,0.0,seasonal_naive
+Brazil,2019-07-16,0.0,0.0,seasonal_naive
+Brazil,2019-07-17,0.0,0.0,seasonal_naive
+Brazil,2019-07-18,0.0,0.0,seasonal_naive
+Brazil,2019-07-19,0.0,0.0,seasonal_naive
+Brazil,2019-07-20,0.0,0.0,seasonal_naive
+Brazil,2019-07-21,0.0,0.0,seasonal_naive
+Brazil,2019-07-22,0.0,0.0,seasonal_naive
+Brazil,2019-07-23,0.0,0.0,seasonal_naive
+Brazil,2019-07-24,0.0,0.0,seasonal_naive
+Brazil,2019-07-25,0.0,0.0,seasonal_naive
+Brazil,2019-07-26,0.0,0.0,seasonal_naive
+Brazil,2019-07-27,0.0,0.0,seasonal_naive
+Brazil,2019-07-28,0.0,0.0,seasonal_naive
+Brazil,2019-07-29,0.0,0.0,seasonal_naive
+Brazil,2019-07-30,0.0,0.0,seasonal_naive
+Brazil,2019-07-31,0.0,0.0,seasonal_naive
+Canada,2019-07-02,0.0,3.217267917973884,ridge
+Canada,2019-07-03,0.0,2.297920400543629,ridge
+Canada,2019-07-04,0.0,1.4103142599797358,ridge
+Canada,2019-07-05,0.0,1.1954691223621918,ridge
+Canada,2019-07-06,0.0,1.8069909065071823,ridge
+Canada,2019-07-07,0.0,2.7761412546216446,ridge
+Canada,2019-07-08,170.78,3.3649098205789105,ridge
+Canada,2019-07-09,0.0,3.0820741643815053,ridge
+Canada,2019-07-10,0.0,2.2352168165976902,ridge
+Canada,2019-07-11,0.0,1.3877799187356052,ridge
+Canada,2019-07-12,550.94,1.1931318374100457,ridge
+Canada,2019-07-13,0.0,1.811772412177972,ridge
+Canada,2019-07-14,0.0,2.791460282253449,ridge
+Canada,2019-07-15,0.0,0.0,ridge
+Canada,2019-07-16,0.0,2.8437207300501175,ridge
+Canada,2019-07-17,0.0,2.0004687994170283,ridge
+Canada,2019-07-18,0.0,1.174066761251757,ridge
+Canada,2019-07-19,0.0,0.9853008123664739,ridge
+Canada,2019-07-20,0.0,1.5911115095012478,ridge
+Canada,2019-07-21,0.0,2.5499585685941497,ridge
+Canada,2019-07-22,0.0,3.196414831317832,ridge
+Canada,2019-07-23,0.0,2.924753878096337,ridge
+Canada,2019-07-24,0.0,2.091881955185828,ridge
+Canada,2019-07-25,0.0,1.2594030205368922,ridge
+Canada,2019-07-26,0.0,1.0656162600035566,ridge
+Canada,2019-07-27,0.0,1.667046101704807,ridge
+Canada,2019-07-28,0.0,2.6213936677522494,ridge
+Canada,2019-07-29,0.0,3.2989693975629555,ridge
+Canada,2019-07-30,0.0,2.921050681963578,ridge
+Canada,2019-07-31,0.0,2.113568204136552,ridge
+Canada,2019-07-02,0.0,0.8446875,random_forest
+Canada,2019-07-03,0.0,0.00630952380952381,random_forest
+Canada,2019-07-04,0.0,0.0,random_forest
+Canada,2019-07-05,0.0,1.3515,random_forest
+Canada,2019-07-06,0.0,1.3515,random_forest
+Canada,2019-07-07,0.0,2.1961875,random_forest
+Canada,2019-07-08,170.78,17.447878472222218,random_forest
+Canada,2019-07-09,0.0,0.8446875,random_forest
+Canada,2019-07-10,0.0,1.977247023809524,random_forest
+Canada,2019-07-11,0.0,4.2234375,random_forest
+Canada,2019-07-12,550.94,10.079937500000002,random_forest
+Canada,2019-07-13,0.0,12.895562500000002,random_forest
+Canada,2019-07-14,0.0,13.740249999999998,random_forest
+Canada,2019-07-15,0.0,28.99194097222222,random_forest
+Canada,2019-07-16,0.0,12.388750000000002,random_forest
+Canada,2019-07-17,0.0,11.550372023809524,random_forest
+Canada,2019-07-18,0.0,11.5440625,random_forest
+Canada,2019-07-19,0.0,12.895562500000002,random_forest
+Canada,2019-07-20,0.0,12.895562500000002,random_forest
+Canada,2019-07-21,0.0,13.740249999999998,random_forest
+Canada,2019-07-22,0.0,28.99194097222222,random_forest
+Canada,2019-07-23,0.0,12.388750000000002,random_forest
+Canada,2019-07-24,0.0,11.550372023809524,random_forest
+Canada,2019-07-25,0.0,11.5440625,random_forest
+Canada,2019-07-26,0.0,12.895562500000002,random_forest
+Canada,2019-07-27,0.0,12.895562500000002,random_forest
+Canada,2019-07-28,0.0,13.740249999999998,random_forest
+Canada,2019-07-29,0.0,28.99194097222222,random_forest
+Canada,2019-07-30,0.0,12.388750000000002,random_forest
+Canada,2019-07-31,0.0,11.550372023809524,random_forest
+Canada,2019-07-02,0.0,0.0,seasonal_naive
+Canada,2019-07-03,0.0,0.0,seasonal_naive
+Canada,2019-07-04,0.0,0.0,seasonal_naive
+Canada,2019-07-05,0.0,0.0,seasonal_naive
+Canada,2019-07-06,0.0,0.0,seasonal_naive
+Canada,2019-07-07,0.0,0.0,seasonal_naive
+Canada,2019-07-08,170.78,0.0,seasonal_naive
+Canada,2019-07-09,0.0,0.0,seasonal_naive
+Canada,2019-07-10,0.0,0.0,seasonal_naive
+Canada,2019-07-11,0.0,0.0,seasonal_naive
+Canada,2019-07-12,550.94,0.0,seasonal_naive
+Canada,2019-07-13,0.0,0.0,seasonal_naive
+Canada,2019-07-14,0.0,0.0,seasonal_naive
+Canada,2019-07-15,0.0,0.0,seasonal_naive
+Canada,2019-07-16,0.0,0.0,seasonal_naive
+Canada,2019-07-17,0.0,0.0,seasonal_naive
+Canada,2019-07-18,0.0,0.0,seasonal_naive
+Canada,2019-07-19,0.0,0.0,seasonal_naive
+Canada,2019-07-20,0.0,0.0,seasonal_naive
+Canada,2019-07-21,0.0,0.0,seasonal_naive
+Canada,2019-07-22,0.0,0.0,seasonal_naive
+Canada,2019-07-23,0.0,0.0,seasonal_naive
+Canada,2019-07-24,0.0,0.0,seasonal_naive
+Canada,2019-07-25,0.0,0.0,seasonal_naive
+Canada,2019-07-26,0.0,0.0,seasonal_naive
+Canada,2019-07-27,0.0,0.0,seasonal_naive
+Canada,2019-07-28,0.0,0.0,seasonal_naive
+Canada,2019-07-29,0.0,0.0,seasonal_naive
+Canada,2019-07-30,0.0,0.0,seasonal_naive
+Canada,2019-07-31,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-02,0.0,17.80093029218078,ridge
+Channel Islands,2019-07-03,0.0,25.289858795551183,ridge
+Channel Islands,2019-07-04,0.0,25.847481054878855,ridge
+Channel Islands,2019-07-05,0.0,19.22683864127359,ridge
+Channel Islands,2019-07-06,0.0,10.313214544668618,ridge
+Channel Islands,2019-07-07,0.0,5.710849026964503,ridge
+Channel Islands,2019-07-08,0.0,8.778017848531583,ridge
+Channel Islands,2019-07-09,0.0,17.448301872895303,ridge
+Channel Islands,2019-07-10,0.0,24.924479970842754,ridge
+Channel Islands,2019-07-11,0.0,25.662859080783477,ridge
+Channel Islands,2019-07-12,0.0,2.3014891317774975,ridge
+Channel Islands,2019-07-13,0.0,10.898403690081064,ridge
+Channel Islands,2019-07-14,0.0,6.802422543998109,ridge
+Channel Islands,2019-07-15,0.0,9.969732000433426,ridge
+Channel Islands,2019-07-16,0.0,18.171374977402206,ridge
+Channel Islands,2019-07-17,0.0,25.478751651877424,ridge
+Channel Islands,2019-07-18,0.0,26.193753205927802,ridge
+Channel Islands,2019-07-19,0.0,19.4060787269184,ridge
+Channel Islands,2019-07-20,0.0,10.83178050043368,ridge
+Channel Islands,2019-07-21,0.0,6.3076317852963175,ridge
+Channel Islands,2019-07-22,0.0,9.414638562294332,ridge
+Channel Islands,2019-07-23,0.0,17.78764635411605,ridge
+Channel Islands,2019-07-24,0.0,25.102346251039805,ridge
+Channel Islands,2019-07-25,0.0,25.81761886308948,ridge
+Channel Islands,2019-07-26,0.0,19.675564378305904,ridge
+Channel Islands,2019-07-27,0.0,10.561429200155576,ridge
+Channel Islands,2019-07-28,0.0,6.0014001224354985,ridge
+Channel Islands,2019-07-29,58.489999999999995,9.100332391978336,ridge
+Channel Islands,2019-07-30,0.0,16.639578085988628,ridge
+Channel Islands,2019-07-31,0.0,23.639177069675267,ridge
+Channel Islands,2019-07-02,0.0,2.443792019665246,random_forest
+Channel Islands,2019-07-03,0.0,4.48399689401316,random_forest
+Channel Islands,2019-07-04,0.0,19.224525154585884,random_forest
+Channel Islands,2019-07-05,0.0,20.234303308663605,random_forest
+Channel Islands,2019-07-06,0.0,3.534598883092563,random_forest
+Channel Islands,2019-07-07,0.0,1.0683488830925627,random_forest
+Channel Islands,2019-07-08,0.0,3.4057750348540803,random_forest
+Channel Islands,2019-07-09,0.0,2.443792019665246,random_forest
+Channel Islands,2019-07-10,0.0,6.616650973874269,random_forest
+Channel Islands,2019-07-11,0.0,33.341500014879564,random_forest
+Channel Islands,2019-07-12,0.0,33.2918671841088,random_forest
+Channel Islands,2019-07-13,0.0,11.824324963339476,random_forest
+Channel Islands,2019-07-14,0.0,7.520742114502267,random_forest
+Channel Islands,2019-07-15,0.0,12.773397432930453,random_forest
+Channel Islands,2019-07-16,0.0,18.543288534884056,random_forest
+Channel Islands,2019-07-17,0.0,26.01770950459696,random_forest
+Channel Islands,2019-07-18,0.0,43.58292164084033,random_forest
+Channel Islands,2019-07-19,0.0,44.31984810943348,random_forest
+Channel Islands,2019-07-20,0.0,28.048948660714288,random_forest
+Channel Islands,2019-07-21,0.0,27.17433060515873,random_forest
+Channel Islands,2019-07-22,0.0,26.06107595334882,random_forest
+Channel Islands,2019-07-23,0.0,22.381818632604432,random_forest
+Channel Islands,2019-07-24,0.0,20.053462977842525,random_forest
+Channel Islands,2019-07-25,0.0,59.82279779927109,random_forest
+Channel Islands,2019-07-26,0.0,64.03955536803137,random_forest
+Channel Islands,2019-07-27,0.0,39.68388095238095,random_forest
+Channel Islands,2019-07-28,0.0,34.65253249007936,random_forest
+Channel Islands,2019-07-29,58.489999999999995,40.15186001419537,random_forest
+Channel Islands,2019-07-30,0.0,31.90987919408956,random_forest
+Channel Islands,2019-07-31,0.0,29.695030483772097,random_forest
+Channel Islands,2019-07-02,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-03,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-04,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-05,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-06,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-07,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-08,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-09,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-10,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-11,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-12,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-13,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-14,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-15,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-16,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-17,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-18,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-19,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-20,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-21,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-22,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-23,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-24,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-25,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-26,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-27,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-28,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-29,58.489999999999995,0.0,seasonal_naive
+Channel Islands,2019-07-30,0.0,0.0,seasonal_naive
+Channel Islands,2019-07-31,0.0,0.0,seasonal_naive
+Cyprus,2019-07-02,0.0,11.132959258085906,ridge
+Cyprus,2019-07-03,0.0,6.705962832782861,ridge
+Cyprus,2019-07-04,0.0,1.0362547220901055,ridge
+Cyprus,2019-07-05,0.0,0.0,ridge
+Cyprus,2019-07-06,0.0,0.08716998120638042,ridge
+Cyprus,2019-07-07,0.0,5.475993199756199,ridge
+Cyprus,2019-07-08,0.0,10.100461878194206,ridge
+Cyprus,2019-07-09,0.0,10.259465546505696,ridge
+Cyprus,2019-07-10,0.0,6.145225680903271,ridge
+Cyprus,2019-07-11,0.0,0.5948632269906708,ridge
+Cyprus,2019-07-12,0.0,0.0,ridge
+Cyprus,2019-07-13,0.0,0.0,ridge
+Cyprus,2019-07-14,0.0,4.980573592362118,ridge
+Cyprus,2019-07-15,0.0,9.542649690720893,ridge
+Cyprus,2019-07-16,0.0,13.70674752716896,ridge
+Cyprus,2019-07-17,0.0,7.9990882392324645,ridge
+Cyprus,2019-07-18,0.0,0.5534410967602872,ridge
+Cyprus,2019-07-19,0.0,0.0,ridge
+Cyprus,2019-07-20,0.0,0.0,ridge
+Cyprus,2019-07-21,0.0,6.517917414874673,ridge
+Cyprus,2019-07-22,0.0,12.623213577174687,ridge
+Cyprus,2019-07-23,0.0,12.952579081655914,ridge
+Cyprus,2019-07-24,0.0,7.4723124460412045,ridge
+Cyprus,2019-07-25,0.0,0.11537676197543245,ridge
+Cyprus,2019-07-26,0.0,0.0,ridge
+Cyprus,2019-07-27,0.0,0.0,ridge
+Cyprus,2019-07-28,0.0,6.062275887165969,ridge
+Cyprus,2019-07-29,0.0,12.14204688956213,ridge
+Cyprus,2019-07-30,0.0,12.562371034793605,ridge
+Cyprus,2019-07-31,0.0,7.156049645153637,ridge
+Cyprus,2019-07-02,0.0,43.40864930555557,random_forest
+Cyprus,2019-07-03,0.0,0.34270833333333334,random_forest
+Cyprus,2019-07-04,0.0,3.2083333333333335,random_forest
+Cyprus,2019-07-05,0.0,3.2083333333333335,random_forest
+Cyprus,2019-07-06,0.0,1.6041666666666667,random_forest
+Cyprus,2019-07-07,0.0,1.6041666666666667,random_forest
+Cyprus,2019-07-08,0.0,9.325833333333334,random_forest
+Cyprus,2019-07-09,0.0,3.5016041666666666,random_forest
+Cyprus,2019-07-10,0.0,0.34270833333333334,random_forest
+Cyprus,2019-07-11,0.0,4.299444444444444,random_forest
+Cyprus,2019-07-12,0.0,4.299444444444444,random_forest
+Cyprus,2019-07-13,0.0,1.6041666666666667,random_forest
+Cyprus,2019-07-14,0.0,1.6041666666666667,random_forest
+Cyprus,2019-07-15,0.0,10.3365625,random_forest
+Cyprus,2019-07-16,0.0,5.186152777777777,random_forest
+Cyprus,2019-07-17,0.0,0.0,random_forest
+Cyprus,2019-07-18,0.0,4.299444444444444,random_forest
+Cyprus,2019-07-19,0.0,4.299444444444444,random_forest
+Cyprus,2019-07-20,0.0,1.6041666666666667,random_forest
+Cyprus,2019-07-21,0.0,1.6041666666666667,random_forest
+Cyprus,2019-07-22,0.0,10.468854166666667,random_forest
+Cyprus,2019-07-23,0.0,3.5819861111111106,random_forest
+Cyprus,2019-07-24,0.0,0.0,random_forest
+Cyprus,2019-07-25,0.0,2.6952777777777777,random_forest
+Cyprus,2019-07-26,0.0,2.6952777777777777,random_forest
+Cyprus,2019-07-27,0.0,0.0,random_forest
+Cyprus,2019-07-28,0.0,0.0,random_forest
+Cyprus,2019-07-29,0.0,10.468854166666667,random_forest
+Cyprus,2019-07-30,0.0,5.506986111111111,random_forest
+Cyprus,2019-07-31,0.0,1.925,random_forest
+Cyprus,2019-07-02,0.0,0.0,seasonal_naive
+Cyprus,2019-07-03,0.0,0.0,seasonal_naive
+Cyprus,2019-07-04,0.0,0.0,seasonal_naive
+Cyprus,2019-07-05,0.0,0.0,seasonal_naive
+Cyprus,2019-07-06,0.0,0.0,seasonal_naive
+Cyprus,2019-07-07,0.0,0.0,seasonal_naive
+Cyprus,2019-07-08,0.0,0.0,seasonal_naive
+Cyprus,2019-07-09,0.0,0.0,seasonal_naive
+Cyprus,2019-07-10,0.0,0.0,seasonal_naive
+Cyprus,2019-07-11,0.0,0.0,seasonal_naive
+Cyprus,2019-07-12,0.0,0.0,seasonal_naive
+Cyprus,2019-07-13,0.0,0.0,seasonal_naive
+Cyprus,2019-07-14,0.0,0.0,seasonal_naive
+Cyprus,2019-07-15,0.0,0.0,seasonal_naive
+Cyprus,2019-07-16,0.0,0.0,seasonal_naive
+Cyprus,2019-07-17,0.0,0.0,seasonal_naive
+Cyprus,2019-07-18,0.0,0.0,seasonal_naive
+Cyprus,2019-07-19,0.0,0.0,seasonal_naive
+Cyprus,2019-07-20,0.0,0.0,seasonal_naive
+Cyprus,2019-07-21,0.0,0.0,seasonal_naive
+Cyprus,2019-07-22,0.0,0.0,seasonal_naive
+Cyprus,2019-07-23,0.0,0.0,seasonal_naive
+Cyprus,2019-07-24,0.0,0.0,seasonal_naive
+Cyprus,2019-07-25,0.0,0.0,seasonal_naive
+Cyprus,2019-07-26,0.0,0.0,seasonal_naive
+Cyprus,2019-07-27,0.0,0.0,seasonal_naive
+Cyprus,2019-07-28,0.0,0.0,seasonal_naive
+Cyprus,2019-07-29,0.0,0.0,seasonal_naive
+Cyprus,2019-07-30,0.0,0.0,seasonal_naive
+Cyprus,2019-07-31,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-02,0.0,0.14230349622317653,ridge
+Czech Republic,2019-07-03,0.0,0.06015981238202814,ridge
+Czech Republic,2019-07-04,0.0,0.0,ridge
+Czech Republic,2019-07-05,0.0,0.00035708471538281605,ridge
+Czech Republic,2019-07-06,0.0,0.06454147593990084,ridge
+Czech Republic,2019-07-07,0.0,0.14073948303729444,ridge
+Czech Republic,2019-07-08,0.0,0.1703186258873883,ridge
+Czech Republic,2019-07-09,0.0,0.12920281085291296,ridge
+Czech Republic,2019-07-10,0.0,0.04847098012946832,ridge
+Czech Republic,2019-07-11,0.0,0.0,ridge
+Czech Republic,2019-07-12,0.0,0.0,ridge
+Czech Republic,2019-07-13,0.0,0.053534991219585104,ridge
+Czech Republic,2019-07-14,0.0,0.12984926368126254,ridge
+Czech Republic,2019-07-15,0.0,0.1598496507877396,ridge
+Czech Republic,2019-07-16,0.0,0.11922875279576933,ridge
+Czech Republic,2019-07-17,0.0,0.03921270944609734,ridge
+Czech Republic,2019-07-18,0.0,0.0,ridge
+Czech Republic,2019-07-19,0.0,0.0,ridge
+Czech Republic,2019-07-20,0.0,0.04485376339397962,ridge
+Czech Republic,2019-07-21,0.0,0.12099074115482045,ridge
+Czech Republic,2019-07-22,0.0,0.15106551746788424,ridge
+Czech Republic,2019-07-23,0.0,0.11177167520669434,ridge
+Czech Republic,2019-07-24,0.0,0.031985870998770094,ridge
+Czech Republic,2019-07-25,0.0,0.0,ridge
+Czech Republic,2019-07-26,0.0,0.0,ridge
+Czech Republic,2019-07-27,0.0,0.03827428358922752,ridge
+Czech Republic,2019-07-28,0.0,0.11468057002084381,ridge
+Czech Republic,2019-07-29,0.0,0.1450014385871561,ridge
+Czech Republic,2019-07-30,0.0,0.1051519962166296,ridge
+Czech Republic,2019-07-31,0.0,0.026875345382574772,ridge
+Czech Republic,2019-07-02,0.0,0.0,random_forest
+Czech Republic,2019-07-03,0.0,0.0,random_forest
+Czech Republic,2019-07-04,0.0,0.0,random_forest
+Czech Republic,2019-07-05,0.0,0.0,random_forest
+Czech Republic,2019-07-06,0.0,0.0,random_forest
+Czech Republic,2019-07-07,0.0,0.0,random_forest
+Czech Republic,2019-07-08,0.0,0.24075000000000002,random_forest
+Czech Republic,2019-07-09,0.0,0.0,random_forest
+Czech Republic,2019-07-10,0.0,0.0,random_forest
+Czech Republic,2019-07-11,0.0,0.0,random_forest
+Czech Republic,2019-07-12,0.0,0.0,random_forest
+Czech Republic,2019-07-13,0.0,0.0,random_forest
+Czech Republic,2019-07-14,0.0,0.0,random_forest
+Czech Republic,2019-07-15,0.0,0.24075000000000002,random_forest
+Czech Republic,2019-07-16,0.0,0.0,random_forest
+Czech Republic,2019-07-17,0.0,0.0,random_forest
+Czech Republic,2019-07-18,0.0,0.0,random_forest
+Czech Republic,2019-07-19,0.0,0.0,random_forest
+Czech Republic,2019-07-20,0.0,0.0,random_forest
+Czech Republic,2019-07-21,0.0,0.0,random_forest
+Czech Republic,2019-07-22,0.0,0.24075000000000002,random_forest
+Czech Republic,2019-07-23,0.0,0.0,random_forest
+Czech Republic,2019-07-24,0.0,0.0,random_forest
+Czech Republic,2019-07-25,0.0,0.0,random_forest
+Czech Republic,2019-07-26,0.0,0.0,random_forest
+Czech Republic,2019-07-27,0.0,0.0,random_forest
+Czech Republic,2019-07-28,0.0,0.0,random_forest
+Czech Republic,2019-07-29,0.0,0.24075000000000002,random_forest
+Czech Republic,2019-07-30,0.0,0.0,random_forest
+Czech Republic,2019-07-31,0.0,0.0,random_forest
+Czech Republic,2019-07-02,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-03,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-04,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-05,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-06,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-07,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-08,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-09,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-10,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-11,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-12,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-13,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-14,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-15,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-16,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-17,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-18,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-19,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-20,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-21,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-22,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-23,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-24,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-25,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-26,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-27,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-28,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-29,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-30,0.0,0.0,seasonal_naive
+Czech Republic,2019-07-31,0.0,0.0,seasonal_naive
+Denmark,2019-07-02,0.0,0.0,ridge
+Denmark,2019-07-03,0.0,1.1042048403025064,ridge
+Denmark,2019-07-04,0.0,9.974032846268015,ridge
+Denmark,2019-07-05,0.0,4.606217938280134,ridge
+Denmark,2019-07-06,0.0,2.949718266809627,ridge
+Denmark,2019-07-07,0.0,1.9777062815426452,ridge
+Denmark,2019-07-08,0.0,2.4255014683556237,ridge
+Denmark,2019-07-09,0.0,3.9430781007420896,ridge
+Denmark,2019-07-10,0.0,5.36411125069713,ridge
+Denmark,2019-07-11,0.0,5.5225661113966,ridge
+Denmark,2019-07-12,0.0,4.3569324156063605,ridge
+Denmark,2019-07-13,0.0,2.6599061506685273,ridge
+Denmark,2019-07-14,0.0,1.6726942826625009,ridge
+Denmark,2019-07-15,0.0,4.4104181568330425,ridge
+Denmark,2019-07-16,0.0,6.35057175715575,ridge
+Denmark,2019-07-17,0.0,7.75619632342908,ridge
+Denmark,2019-07-18,0.0,10.218452936759132,ridge
+Denmark,2019-07-19,0.0,8.941373717513091,ridge
+Denmark,2019-07-20,0.0,7.034779749871404,ridge
+Denmark,2019-07-21,0.0,5.890939047272795,ridge
+Denmark,2019-07-22,43.32,6.243093649417123,ridge
+Denmark,2019-07-23,0.0,7.724042551104102,ridge
+Denmark,2019-07-24,0.0,9.099680149725398,ridge
+Denmark,2019-07-25,0.0,9.186868922693815,ridge
+Denmark,2019-07-26,0.0,7.815735036293377,ridge
+Denmark,2019-07-27,0.0,5.883975149011411,ridge
+Denmark,2019-07-28,0.0,4.7183671269624545,ridge
+Denmark,2019-07-29,0.0,5.235029778903678,ridge
+Denmark,2019-07-30,0.0,6.74819882856117,ridge
+Denmark,2019-07-31,0.0,8.151690228859012,ridge
+Denmark,2019-07-02,0.0,6.426498015873015,random_forest
+Denmark,2019-07-03,0.0,6.664596974206348,random_forest
+Denmark,2019-07-04,0.0,20.910159226190476,random_forest
+Denmark,2019-07-05,0.0,11.641145833333335,random_forest
+Denmark,2019-07-06,0.0,3.933668402777778,random_forest
+Denmark,2019-07-07,0.0,1.901932291666667,random_forest
+Denmark,2019-07-08,0.0,8.032536458333334,random_forest
+Denmark,2019-07-09,0.0,3.212265625,random_forest
+Denmark,2019-07-10,0.0,4.828255208333334,random_forest
+Denmark,2019-07-11,0.0,17.34946180555556,random_forest
+Denmark,2019-07-12,0.0,12.033003472222225,random_forest
+Denmark,2019-07-13,0.0,4.861880208333334,random_forest
+Denmark,2019-07-14,0.0,4.861880208333334,random_forest
+Denmark,2019-07-15,0.0,14.651310019841269,random_forest
+Denmark,2019-07-16,0.0,8.884140625,random_forest
+Denmark,2019-07-17,0.0,8.884140625,random_forest
+Denmark,2019-07-18,0.0,28.515206845238097,random_forest
+Denmark,2019-07-19,0.0,26.29778373015873,random_forest
+Denmark,2019-07-20,0.0,3.602317708333333,random_forest
+Denmark,2019-07-21,0.0,3.602317708333333,random_forest
+Denmark,2019-07-22,43.32,13.558390625000001,random_forest
+Denmark,2019-07-23,0.0,4.912651041666667,random_forest
+Denmark,2019-07-24,0.0,4.912651041666667,random_forest
+Denmark,2019-07-25,0.0,35.15115178571428,random_forest
+Denmark,2019-07-26,0.0,29.128117063492066,random_forest
+Denmark,2019-07-27,0.0,8.826796875000001,random_forest
+Denmark,2019-07-28,0.0,8.826796875000001,random_forest
+Denmark,2019-07-29,0.0,31.969299355158736,random_forest
+Denmark,2019-07-30,0.0,25.73562078373016,random_forest
+Denmark,2019-07-31,0.0,23.79874578373016,random_forest
+Denmark,2019-07-02,0.0,0.0,seasonal_naive
+Denmark,2019-07-03,0.0,0.0,seasonal_naive
+Denmark,2019-07-04,0.0,0.0,seasonal_naive
+Denmark,2019-07-05,0.0,0.0,seasonal_naive
+Denmark,2019-07-06,0.0,0.0,seasonal_naive
+Denmark,2019-07-07,0.0,0.0,seasonal_naive
+Denmark,2019-07-08,0.0,0.0,seasonal_naive
+Denmark,2019-07-09,0.0,0.0,seasonal_naive
+Denmark,2019-07-10,0.0,0.0,seasonal_naive
+Denmark,2019-07-11,0.0,0.0,seasonal_naive
+Denmark,2019-07-12,0.0,0.0,seasonal_naive
+Denmark,2019-07-13,0.0,0.0,seasonal_naive
+Denmark,2019-07-14,0.0,0.0,seasonal_naive
+Denmark,2019-07-15,0.0,0.0,seasonal_naive
+Denmark,2019-07-16,0.0,0.0,seasonal_naive
+Denmark,2019-07-17,0.0,0.0,seasonal_naive
+Denmark,2019-07-18,0.0,0.0,seasonal_naive
+Denmark,2019-07-19,0.0,0.0,seasonal_naive
+Denmark,2019-07-20,0.0,0.0,seasonal_naive
+Denmark,2019-07-21,0.0,0.0,seasonal_naive
+Denmark,2019-07-22,43.32,0.0,seasonal_naive
+Denmark,2019-07-23,0.0,0.0,seasonal_naive
+Denmark,2019-07-24,0.0,0.0,seasonal_naive
+Denmark,2019-07-25,0.0,0.0,seasonal_naive
+Denmark,2019-07-26,0.0,0.0,seasonal_naive
+Denmark,2019-07-27,0.0,0.0,seasonal_naive
+Denmark,2019-07-28,0.0,0.0,seasonal_naive
+Denmark,2019-07-29,0.0,0.0,seasonal_naive
+Denmark,2019-07-30,0.0,0.0,seasonal_naive
+Denmark,2019-07-31,0.0,0.0,seasonal_naive
+EIRE,2019-07-02,137.5,187.19095645603466,ridge
+EIRE,2019-07-03,0.0,237.64983188283205,ridge
+EIRE,2019-07-04,0.0,221.46977051632416,ridge
+EIRE,2019-07-05,12.75,196.14303904844803,ridge
+EIRE,2019-07-06,0.0,82.10863885932184,ridge
+EIRE,2019-07-07,0.0,77.5837187629188,ridge
+EIRE,2019-07-08,0.0,141.55807108233364,ridge
+EIRE,2019-07-09,0.0,192.09254047576823,ridge
+EIRE,2019-07-10,0.0,246.13668694742378,ridge
+EIRE,2019-07-11,359.19,227.47059755330602,ridge
+EIRE,2019-07-12,0.0,173.0432746970062,ridge
+EIRE,2019-07-13,0.0,91.52290302501979,ridge
+EIRE,2019-07-14,0.0,90.74267220064375,ridge
+EIRE,2019-07-15,146.98,532.0666331269008,ridge
+EIRE,2019-07-16,596.6899999999999,230.93655673937425,ridge
+EIRE,2019-07-17,0.0,285.4956844415912,ridge
+EIRE,2019-07-18,204.05,260.1752624603373,ridge
+EIRE,2019-07-19,0.0,273.62848671080445,ridge
+EIRE,2019-07-20,0.0,131.97079325646263,ridge
+EIRE,2019-07-21,0.0,126.4150876782899,ridge
+EIRE,2019-07-22,0.0,184.05321212819916,ridge
+EIRE,2019-07-23,73.02,235.2069940396392,ridge
+EIRE,2019-07-24,47.620000000000005,292.4957066984116,ridge
+EIRE,2019-07-25,375.15,262.2383611851212,ridge
+EIRE,2019-07-26,95.19,209.7057511326961,ridge
+EIRE,2019-07-27,0.0,128.83957704037778,ridge
+EIRE,2019-07-28,205.84,120.2812467426092,ridge
+EIRE,2019-07-29,0.0,199.4155686224405,ridge
+EIRE,2019-07-30,0.0,253.33343811786392,ridge
+EIRE,2019-07-31,0.0,298.5452511071876,ridge
+EIRE,2019-07-02,137.5,441.7555867122753,random_forest
+EIRE,2019-07-03,0.0,706.4976791161365,random_forest
+EIRE,2019-07-04,0.0,424.50258960585575,random_forest
+EIRE,2019-07-05,12.75,718.9505084991274,random_forest
+EIRE,2019-07-06,0.0,153.8206478174603,random_forest
+EIRE,2019-07-07,0.0,170.0900314558064,random_forest
+EIRE,2019-07-08,0.0,838.1743154115793,random_forest
+EIRE,2019-07-09,0.0,366.65631889811715,random_forest
+EIRE,2019-07-10,0.0,674.1078604439837,random_forest
+EIRE,2019-07-11,359.19,767.2453091564302,random_forest
+EIRE,2019-07-12,0.0,833.021932668335,random_forest
+EIRE,2019-07-13,0.0,318.031550760582,random_forest
+EIRE,2019-07-14,0.0,431.3296824676814,random_forest
+EIRE,2019-07-15,146.98,1810.2848749800442,random_forest
+EIRE,2019-07-16,596.6899999999999,794.0292727074308,random_forest
+EIRE,2019-07-17,0.0,710.2077784450665,random_forest
+EIRE,2019-07-18,204.05,863.5691978479731,random_forest
+EIRE,2019-07-19,0.0,948.6700937546447,random_forest
+EIRE,2019-07-20,0.0,457.1314747576955,random_forest
+EIRE,2019-07-21,0.0,577.014471978851,random_forest
+EIRE,2019-07-22,0.0,975.3223269309013,random_forest
+EIRE,2019-07-23,73.02,686.9467556428722,random_forest
+EIRE,2019-07-24,47.620000000000005,724.1125432505473,random_forest
+EIRE,2019-07-25,375.15,839.0095082883748,random_forest
+EIRE,2019-07-26,95.19,841.4781884967082,random_forest
+EIRE,2019-07-27,0.0,596.7462271045124,random_forest
+EIRE,2019-07-28,205.84,610.6147155830478,random_forest
+EIRE,2019-07-29,0.0,1002.5287475658216,random_forest
+EIRE,2019-07-30,0.0,820.2477208101701,random_forest
+EIRE,2019-07-31,0.0,834.4680390478056,random_forest
+EIRE,2019-07-02,137.5,0.0,seasonal_naive
+EIRE,2019-07-03,0.0,253.67000000000002,seasonal_naive
+EIRE,2019-07-04,0.0,92.16,seasonal_naive
+EIRE,2019-07-05,12.75,295.21,seasonal_naive
+EIRE,2019-07-06,0.0,0.0,seasonal_naive
+EIRE,2019-07-07,0.0,0.0,seasonal_naive
+EIRE,2019-07-08,0.0,225.83,seasonal_naive
+EIRE,2019-07-09,0.0,0.0,seasonal_naive
+EIRE,2019-07-10,0.0,253.67000000000002,seasonal_naive
+EIRE,2019-07-11,359.19,92.16,seasonal_naive
+EIRE,2019-07-12,0.0,295.21,seasonal_naive
+EIRE,2019-07-13,0.0,0.0,seasonal_naive
+EIRE,2019-07-14,0.0,0.0,seasonal_naive
+EIRE,2019-07-15,146.98,225.83,seasonal_naive
+EIRE,2019-07-16,596.6899999999999,0.0,seasonal_naive
+EIRE,2019-07-17,0.0,253.67000000000002,seasonal_naive
+EIRE,2019-07-18,204.05,92.16,seasonal_naive
+EIRE,2019-07-19,0.0,295.21,seasonal_naive
+EIRE,2019-07-20,0.0,0.0,seasonal_naive
+EIRE,2019-07-21,0.0,0.0,seasonal_naive
+EIRE,2019-07-22,0.0,225.83,seasonal_naive
+EIRE,2019-07-23,73.02,0.0,seasonal_naive
+EIRE,2019-07-24,47.620000000000005,253.67000000000002,seasonal_naive
+EIRE,2019-07-25,375.15,92.16,seasonal_naive
+EIRE,2019-07-26,95.19,295.21,seasonal_naive
+EIRE,2019-07-27,0.0,0.0,seasonal_naive
+EIRE,2019-07-28,205.84,0.0,seasonal_naive
+EIRE,2019-07-29,0.0,225.83,seasonal_naive
+EIRE,2019-07-30,0.0,0.0,seasonal_naive
+EIRE,2019-07-31,0.0,253.67000000000002,seasonal_naive
+European Community,2019-07-02,0.0,2.4044504155360014,ridge
+European Community,2019-07-03,0.0,2.182818145418147,ridge
+European Community,2019-07-04,0.0,1.861713166192657,ridge
+European Community,2019-07-05,0.0,1.805347360557807,ridge
+European Community,2019-07-06,0.0,2.18151312874476,ridge
+European Community,2019-07-07,0.0,2.5114746400269063,ridge
+European Community,2019-07-08,0.0,2.616544769243561,ridge
+European Community,2019-07-09,0.0,2.372147744203725,ridge
+European Community,2019-07-10,0.0,1.9425981688622063,ridge
+European Community,2019-07-11,0.0,1.6033077185359335,ridge
+European Community,2019-07-12,0.0,1.5686594418152624,ridge
+European Community,2019-07-13,0.0,1.8242922357265106,ridge
+European Community,2019-07-14,0.0,2.139865082280821,ridge
+European Community,2019-07-15,0.0,2.239346780564597,ridge
+European Community,2019-07-16,0.0,2.001203031168061,ridge
+European Community,2019-07-17,0.0,1.5800772683727415,ridge
+European Community,2019-07-18,92.95,1.2489537597108082,ridge
+European Community,2019-07-19,0.0,1.2210648963990658,ridge
+European Community,2019-07-20,0.0,1.482565789090411,ridge
+European Community,2019-07-21,0.0,1.8036719827348309,ridge
+European Community,2019-07-22,0.0,1.9094471608740236,ridge
+European Community,2019-07-23,0.0,1.6882138307598868,ridge
+European Community,2019-07-24,0.0,1.2749893056591195,ridge
+European Community,2019-07-25,0.0,0.9502032263504163,ridge
+European Community,2019-07-26,0.0,0.928271136752048,ridge
+European Community,2019-07-27,0.0,1.1961545637840159,ridge
+European Community,2019-07-28,0.0,1.5231552024992516,ridge
+European Community,2019-07-29,0.0,1.6346482051793094,ridge
+European Community,2019-07-30,0.0,1.4041494107235049,ridge
+European Community,2019-07-31,0.0,1.0475739598041671,ridge
+European Community,2019-07-02,0.0,14.3286966765873,random_forest
+European Community,2019-07-03,0.0,6.193993055555556,random_forest
+European Community,2019-07-04,0.0,5.886701388888889,random_forest
+European Community,2019-07-05,0.0,5.886701388888889,random_forest
+European Community,2019-07-06,0.0,6.539131944444446,random_forest
+European Community,2019-07-07,0.0,9.872349950396826,random_forest
+European Community,2019-07-08,0.0,5.812395833333333,random_forest
+European Community,2019-07-09,0.0,5.468645833333333,random_forest
+European Community,2019-07-10,0.0,5.390520833333333,random_forest
+European Community,2019-07-11,0.0,5.390520833333333,random_forest
+European Community,2019-07-12,0.0,5.390520833333333,random_forest
+European Community,2019-07-13,0.0,5.390520833333333,random_forest
+European Community,2019-07-14,0.0,5.390520833333333,random_forest
+European Community,2019-07-15,0.0,5.4426041666666665,random_forest
+European Community,2019-07-16,0.0,5.390520833333333,random_forest
+European Community,2019-07-17,0.0,5.390520833333333,random_forest
+European Community,2019-07-18,92.95,0.6794270833333332,random_forest
+European Community,2019-07-19,0.0,0.07526041666666668,random_forest
+European Community,2019-07-20,0.0,0.07526041666666668,random_forest
+European Community,2019-07-21,0.0,0.07526041666666668,random_forest
+European Community,2019-07-22,0.0,0.12734375,random_forest
+European Community,2019-07-23,0.0,0.07526041666666668,random_forest
+European Community,2019-07-24,0.0,0.07526041666666668,random_forest
+European Community,2019-07-25,0.0,0.08632812500000002,random_forest
+European Community,2019-07-26,0.0,0.11584201388888889,random_forest
+European Community,2019-07-27,0.0,0.11584201388888889,random_forest
+European Community,2019-07-28,0.0,1.2396701388888889,random_forest
+European Community,2019-07-29,0.0,1.2917534722222221,random_forest
+European Community,2019-07-30,0.0,1.2396701388888889,random_forest
+European Community,2019-07-31,0.0,5.95076388888889,random_forest
+European Community,2019-07-02,0.0,0.0,seasonal_naive
+European Community,2019-07-03,0.0,0.0,seasonal_naive
+European Community,2019-07-04,0.0,0.0,seasonal_naive
+European Community,2019-07-05,0.0,0.0,seasonal_naive
+European Community,2019-07-06,0.0,0.0,seasonal_naive
+European Community,2019-07-07,0.0,0.0,seasonal_naive
+European Community,2019-07-08,0.0,0.0,seasonal_naive
+European Community,2019-07-09,0.0,0.0,seasonal_naive
+European Community,2019-07-10,0.0,0.0,seasonal_naive
+European Community,2019-07-11,0.0,0.0,seasonal_naive
+European Community,2019-07-12,0.0,0.0,seasonal_naive
+European Community,2019-07-13,0.0,0.0,seasonal_naive
+European Community,2019-07-14,0.0,0.0,seasonal_naive
+European Community,2019-07-15,0.0,0.0,seasonal_naive
+European Community,2019-07-16,0.0,0.0,seasonal_naive
+European Community,2019-07-17,0.0,0.0,seasonal_naive
+European Community,2019-07-18,92.95,0.0,seasonal_naive
+European Community,2019-07-19,0.0,0.0,seasonal_naive
+European Community,2019-07-20,0.0,0.0,seasonal_naive
+European Community,2019-07-21,0.0,0.0,seasonal_naive
+European Community,2019-07-22,0.0,0.0,seasonal_naive
+European Community,2019-07-23,0.0,0.0,seasonal_naive
+European Community,2019-07-24,0.0,0.0,seasonal_naive
+European Community,2019-07-25,0.0,0.0,seasonal_naive
+European Community,2019-07-26,0.0,0.0,seasonal_naive
+European Community,2019-07-27,0.0,0.0,seasonal_naive
+European Community,2019-07-28,0.0,0.0,seasonal_naive
+European Community,2019-07-29,0.0,0.0,seasonal_naive
+European Community,2019-07-30,0.0,0.0,seasonal_naive
+European Community,2019-07-31,0.0,0.0,seasonal_naive
+Finland,2019-07-02,103.85,10.319737704732848,ridge
+Finland,2019-07-03,0.0,9.847383844560426,ridge
+Finland,2019-07-04,0.0,4.991831287848941,ridge
+Finland,2019-07-05,0.0,2.231920282205073,ridge
+Finland,2019-07-06,0.0,0.5351491165706159,ridge
+Finland,2019-07-07,0.0,2.5278839646321876,ridge
+Finland,2019-07-08,0.0,6.630690182698983,ridge
+Finland,2019-07-09,0.0,9.482273619800045,ridge
+Finland,2019-07-10,0.0,9.148886646043845,ridge
+Finland,2019-07-11,191.39000000000001,5.706390286707892,ridge
+Finland,2019-07-12,0.0,1.632711518950254,ridge
+Finland,2019-07-13,0.0,0.0005474812986676625,ridge
+Finland,2019-07-14,0.0,1.9553531108600195,ridge
+Finland,2019-07-15,0.0,5.971090272477666,ridge
+Finland,2019-07-16,57.900000000000006,8.781213055401054,ridge
+Finland,2019-07-17,0.0,8.466024360954698,ridge
+Finland,2019-07-18,0.0,3.6557292132376036,ridge
+Finland,2019-07-19,0.0,1.6664213176193154,ridge
+Finland,2019-07-20,0.0,0.030439497202927157,ridge
+Finland,2019-07-21,0.0,1.9566096209065886,ridge
+Finland,2019-07-22,0.0,5.90608604303545,ridge
+Finland,2019-07-23,0.0,8.867071112286947,ridge
+Finland,2019-07-24,0.0,8.554156217662111,ridge
+Finland,2019-07-25,0.0,5.194198034303858,ridge
+Finland,2019-07-26,0.0,1.1976612159567832,ridge
+Finland,2019-07-27,0.0,0.0,ridge
+Finland,2019-07-28,0.0,1.5355044355716787,ridge
+Finland,2019-07-29,0.0,5.504783335366355,ridge
+Finland,2019-07-30,0.0,8.263160812142763,ridge
+Finland,2019-07-31,0.0,8.049188825713365,ridge
+Finland,2019-07-02,103.85,4.747236268939393,random_forest
+Finland,2019-07-03,0.0,4.747236268939393,random_forest
+Finland,2019-07-04,0.0,4.628954861111111,random_forest
+Finland,2019-07-05,0.0,3.092892361111111,random_forest
+Finland,2019-07-06,0.0,0.9055902777777778,random_forest
+Finland,2019-07-07,0.0,1.6962847222222222,random_forest
+Finland,2019-07-08,0.0,4.425736111111112,random_forest
+Finland,2019-07-09,0.0,6.5274584911616165,random_forest
+Finland,2019-07-10,0.0,11.318413352272726,random_forest
+Finland,2019-07-11,191.39000000000001,5.414496527777778,random_forest
+Finland,2019-07-12,0.0,4.080809027777778,random_forest
+Finland,2019-07-13,0.0,4.079965277777778,random_forest
+Finland,2019-07-14,0.0,4.079965277777778,random_forest
+Finland,2019-07-15,0.0,6.521743055555555,random_forest
+Finland,2019-07-16,57.900000000000006,9.745989583333332,random_forest
+Finland,2019-07-17,0.0,8.26315972222222,random_forest
+Finland,2019-07-18,0.0,10.060479166666664,random_forest
+Finland,2019-07-19,0.0,5.2520243055555556,random_forest
+Finland,2019-07-20,0.0,2.7410069444444445,random_forest
+Finland,2019-07-21,0.0,2.7410069444444445,random_forest
+Finland,2019-07-22,0.0,11.815833333333332,random_forest
+Finland,2019-07-23,0.0,9.973414351851849,random_forest
+Finland,2019-07-24,0.0,8.698622685185184,random_forest
+Finland,2019-07-25,0.0,11.703598379629627,random_forest
+Finland,2019-07-26,0.0,7.956027777777776,random_forest
+Finland,2019-07-27,0.0,2.084131944444444,random_forest
+Finland,2019-07-28,0.0,2.084131944444444,random_forest
+Finland,2019-07-29,0.0,10.031909722222219,random_forest
+Finland,2019-07-30,0.0,9.973414351851849,random_forest
+Finland,2019-07-31,0.0,8.698622685185184,random_forest
+Finland,2019-07-02,103.85,0.0,seasonal_naive
+Finland,2019-07-03,0.0,0.0,seasonal_naive
+Finland,2019-07-04,0.0,0.0,seasonal_naive
+Finland,2019-07-05,0.0,0.0,seasonal_naive
+Finland,2019-07-06,0.0,0.0,seasonal_naive
+Finland,2019-07-07,0.0,0.0,seasonal_naive
+Finland,2019-07-08,0.0,0.0,seasonal_naive
+Finland,2019-07-09,0.0,0.0,seasonal_naive
+Finland,2019-07-10,0.0,0.0,seasonal_naive
+Finland,2019-07-11,191.39000000000001,0.0,seasonal_naive
+Finland,2019-07-12,0.0,0.0,seasonal_naive
+Finland,2019-07-13,0.0,0.0,seasonal_naive
+Finland,2019-07-14,0.0,0.0,seasonal_naive
+Finland,2019-07-15,0.0,0.0,seasonal_naive
+Finland,2019-07-16,57.900000000000006,0.0,seasonal_naive
+Finland,2019-07-17,0.0,0.0,seasonal_naive
+Finland,2019-07-18,0.0,0.0,seasonal_naive
+Finland,2019-07-19,0.0,0.0,seasonal_naive
+Finland,2019-07-20,0.0,0.0,seasonal_naive
+Finland,2019-07-21,0.0,0.0,seasonal_naive
+Finland,2019-07-22,0.0,0.0,seasonal_naive
+Finland,2019-07-23,0.0,0.0,seasonal_naive
+Finland,2019-07-24,0.0,0.0,seasonal_naive
+Finland,2019-07-25,0.0,0.0,seasonal_naive
+Finland,2019-07-26,0.0,0.0,seasonal_naive
+Finland,2019-07-27,0.0,0.0,seasonal_naive
+Finland,2019-07-28,0.0,0.0,seasonal_naive
+Finland,2019-07-29,0.0,0.0,seasonal_naive
+Finland,2019-07-30,0.0,0.0,seasonal_naive
+Finland,2019-07-31,0.0,0.0,seasonal_naive
+France,2019-07-02,118.35,136.32277419531948,ridge
+France,2019-07-03,153.84,164.7326320499256,ridge
+France,2019-07-04,0.0,159.42064211511206,ridge
+France,2019-07-05,207.43,125.14522887018929,ridge
+France,2019-07-06,0.0,82.07328468809298,ridge
+France,2019-07-07,0.0,71.12521420045891,ridge
+France,2019-07-08,132.39000000000001,103.24964036289802,ridge
+France,2019-07-09,256.96,151.55978571081187,ridge
+France,2019-07-10,159.4,178.8010308431617,ridge
+France,2019-07-11,0.0,171.49809653401127,ridge
+France,2019-07-12,0.0,132.605613452205,ridge
+France,2019-07-13,0.0,90.78700351158523,ridge
+France,2019-07-14,33.05,78.36728798508899,ridge
+France,2019-07-15,132.25,104.85383244387168,ridge
+France,2019-07-16,28.7,148.34112240495637,ridge
+France,2019-07-17,0.0,174.17748548805918,ridge
+France,2019-07-18,29.7,162.3095585490647,ridge
+France,2019-07-19,0.0,120.34452126336345,ridge
+France,2019-07-20,0.0,78.82613175720826,ridge
+France,2019-07-21,60.52,65.93519399948201,ridge
+France,2019-07-22,0.0,90.96335541403579,ridge
+France,2019-07-23,0.0,132.88827969752202,ridge
+France,2019-07-24,50.74,157.3920589830301,ridge
+France,2019-07-25,29.7,144.17643821184885,ridge
+France,2019-07-26,104.3,102.52218801296223,ridge
+France,2019-07-27,0.0,61.428991780086776,ridge
+France,2019-07-28,0.0,48.985183666882236,ridge
+France,2019-07-29,0.0,74.58154693422063,ridge
+France,2019-07-30,8.25,118.79019392850523,ridge
+France,2019-07-31,27.71,148.2060437692506,ridge
+France,2019-07-02,118.35,37.43047953190679,random_forest
+France,2019-07-03,153.84,59.98460888235049,random_forest
+France,2019-07-04,0.0,82.09830964244034,random_forest
+France,2019-07-05,207.43,71.56028162151819,random_forest
+France,2019-07-06,0.0,0.3845697720125785,random_forest
+France,2019-07-07,0.0,34.115946695084354,random_forest
+France,2019-07-08,132.39000000000001,96.05837850682273,random_forest
+France,2019-07-09,256.96,67.3783782800344,random_forest
+France,2019-07-10,159.4,134.68432069346434,random_forest
+France,2019-07-11,0.0,97.82797746268766,random_forest
+France,2019-07-12,0.0,93.29768029428159,random_forest
+France,2019-07-13,0.0,1.226028105345912,random_forest
+France,2019-07-14,33.05,44.71263546326565,random_forest
+France,2019-07-15,132.25,86.843459830251,random_forest
+France,2019-07-16,28.7,81.89554667117,random_forest
+France,2019-07-17,0.0,90.1225596886131,random_forest
+France,2019-07-18,29.7,65.8328336435412,random_forest
+France,2019-07-19,0.0,86.75565480173253,random_forest
+France,2019-07-20,0.0,1.226028105345912,random_forest
+France,2019-07-21,60.52,22.80195423075678,random_forest
+France,2019-07-22,0.0,62.165799275759205,random_forest
+France,2019-07-23,0.0,65.0607131573716,random_forest
+France,2019-07-24,50.74,57.07527488133437,random_forest
+France,2019-07-25,29.7,52.08444475591573,random_forest
+France,2019-07-26,104.3,114.15063414152331,random_forest
+France,2019-07-27,0.0,26.300385416666668,random_forest
+France,2019-07-28,0.0,24.71681391146238,random_forest
+France,2019-07-29,0.0,83.09028584150609,random_forest
+France,2019-07-30,8.25,68.23045516373979,random_forest
+France,2019-07-31,27.71,74.13305695551018,random_forest
+France,2019-07-02,118.35,26.619999999999997,seasonal_naive
+France,2019-07-03,153.84,0.0,seasonal_naive
+France,2019-07-04,0.0,1.25,seasonal_naive
+France,2019-07-05,207.43,79.75,seasonal_naive
+France,2019-07-06,0.0,0.0,seasonal_naive
+France,2019-07-07,0.0,0.0,seasonal_naive
+France,2019-07-08,132.39000000000001,46.43,seasonal_naive
+France,2019-07-09,256.96,26.619999999999997,seasonal_naive
+France,2019-07-10,159.4,0.0,seasonal_naive
+France,2019-07-11,0.0,1.25,seasonal_naive
+France,2019-07-12,0.0,79.75,seasonal_naive
+France,2019-07-13,0.0,0.0,seasonal_naive
+France,2019-07-14,33.05,0.0,seasonal_naive
+France,2019-07-15,132.25,46.43,seasonal_naive
+France,2019-07-16,28.7,26.619999999999997,seasonal_naive
+France,2019-07-17,0.0,0.0,seasonal_naive
+France,2019-07-18,29.7,1.25,seasonal_naive
+France,2019-07-19,0.0,79.75,seasonal_naive
+France,2019-07-20,0.0,0.0,seasonal_naive
+France,2019-07-21,60.52,0.0,seasonal_naive
+France,2019-07-22,0.0,46.43,seasonal_naive
+France,2019-07-23,0.0,26.619999999999997,seasonal_naive
+France,2019-07-24,50.74,0.0,seasonal_naive
+France,2019-07-25,29.7,1.25,seasonal_naive
+France,2019-07-26,104.3,79.75,seasonal_naive
+France,2019-07-27,0.0,0.0,seasonal_naive
+France,2019-07-28,0.0,0.0,seasonal_naive
+France,2019-07-29,0.0,46.43,seasonal_naive
+France,2019-07-30,8.25,26.619999999999997,seasonal_naive
+France,2019-07-31,27.71,0.0,seasonal_naive
+Germany,2019-07-02,0.0,82.63486114012875,ridge
+Germany,2019-07-03,0.0,131.35394302101625,ridge
+Germany,2019-07-04,175.46,141.8559082914994,ridge
+Germany,2019-07-05,157.74,114.36476827293139,ridge
+Germany,2019-07-06,0.0,89.8277834936518,ridge
+Germany,2019-07-07,0.0,93.1063214069598,ridge
+Germany,2019-07-08,0.0,170.93329301774833,ridge
+Germany,2019-07-09,66.22,104.05071192185054,ridge
+Germany,2019-07-10,64.88,119.72348124251644,ridge
+Germany,2019-07-11,76.63,127.65846917814997,ridge
+Germany,2019-07-12,189.47,92.692784363473,ridge
+Germany,2019-07-13,0.0,69.1268507050566,ridge
+Germany,2019-07-14,42.830000000000005,66.70293872451153,ridge
+Germany,2019-07-15,0.0,183.96224700342728,ridge
+Germany,2019-07-16,466.89,107.19463542073848,ridge
+Germany,2019-07-17,186.66,123.68156443799487,ridge
+Germany,2019-07-18,242.49,118.3093797585704,ridge
+Germany,2019-07-19,135.53,93.64462967258919,ridge
+Germany,2019-07-20,0.0,71.34351847371767,ridge
+Germany,2019-07-21,90.57000000000001,69.82145245922557,ridge
+Germany,2019-07-22,188.35999999999999,96.44667069289028,ridge
+Germany,2019-07-23,27.75,101.09804366924388,ridge
+Germany,2019-07-24,32.0,112.25474485127225,ridge
+Germany,2019-07-25,73.26,111.1582786006839,ridge
+Germany,2019-07-26,54.24,82.80889009064586,ridge
+Germany,2019-07-27,0.0,60.460501191036826,ridge
+Germany,2019-07-28,0.0,57.980419233617326,ridge
+Germany,2019-07-29,191.23,130.08646403308217,ridge
+Germany,2019-07-30,198.41,111.94342909185909,ridge
+Germany,2019-07-31,18.48,128.1568943714088,ridge
+Germany,2019-07-02,0.0,668.787754283432,random_forest
+Germany,2019-07-03,0.0,463.8514971139971,random_forest
+Germany,2019-07-04,175.46,591.604419237013,random_forest
+Germany,2019-07-05,157.74,468.0618666801949,random_forest
+Germany,2019-07-06,0.0,5.45282196969697,random_forest
+Germany,2019-07-07,0.0,48.87718007734099,random_forest
+Germany,2019-07-08,0.0,129.96754073669993,random_forest
+Germany,2019-07-09,66.22,98.19510535399866,random_forest
+Germany,2019-07-10,64.88,93.00623934457407,random_forest
+Germany,2019-07-11,76.63,93.01671305888009,random_forest
+Germany,2019-07-12,189.47,71.02988045002635,random_forest
+Germany,2019-07-13,0.0,5.45282196969697,random_forest
+Germany,2019-07-14,42.830000000000005,62.74765304958796,random_forest
+Germany,2019-07-15,0.0,111.8961176770863,random_forest
+Germany,2019-07-16,466.89,80.62345831135657,random_forest
+Germany,2019-07-17,186.66,86.30951414259538,random_forest
+Germany,2019-07-18,242.49,90.0139673422705,random_forest
+Germany,2019-07-19,135.53,89.8092478664464,random_forest
+Germany,2019-07-20,0.0,5.45282196969697,random_forest
+Germany,2019-07-21,90.57000000000001,66.61414640744105,random_forest
+Germany,2019-07-22,188.35999999999999,107.80085387051686,random_forest
+Germany,2019-07-23,27.75,81.42071637189714,random_forest
+Germany,2019-07-24,32.0,76.46498712999569,random_forest
+Germany,2019-07-25,73.26,100.01181925770248,random_forest
+Germany,2019-07-26,54.24,89.138963510115,random_forest
+Germany,2019-07-27,0.0,8.807321969696972,random_forest
+Germany,2019-07-28,0.0,73.95292720941238,random_forest
+Germany,2019-07-29,191.23,153.5206944619101,random_forest
+Germany,2019-07-30,198.41,166.79714125166723,random_forest
+Germany,2019-07-31,18.48,202.46581123708083,random_forest
+Germany,2019-07-02,0.0,0.0,seasonal_naive
+Germany,2019-07-03,0.0,0.0,seasonal_naive
+Germany,2019-07-04,175.46,159.78,seasonal_naive
+Germany,2019-07-05,157.74,51.89,seasonal_naive
+Germany,2019-07-06,0.0,0.0,seasonal_naive
+Germany,2019-07-07,0.0,0.0,seasonal_naive
+Germany,2019-07-08,0.0,941.46,seasonal_naive
+Germany,2019-07-09,66.22,0.0,seasonal_naive
+Germany,2019-07-10,64.88,0.0,seasonal_naive
+Germany,2019-07-11,76.63,159.78,seasonal_naive
+Germany,2019-07-12,189.47,51.89,seasonal_naive
+Germany,2019-07-13,0.0,0.0,seasonal_naive
+Germany,2019-07-14,42.830000000000005,0.0,seasonal_naive
+Germany,2019-07-15,0.0,941.46,seasonal_naive
+Germany,2019-07-16,466.89,0.0,seasonal_naive
+Germany,2019-07-17,186.66,0.0,seasonal_naive
+Germany,2019-07-18,242.49,159.78,seasonal_naive
+Germany,2019-07-19,135.53,51.89,seasonal_naive
+Germany,2019-07-20,0.0,0.0,seasonal_naive
+Germany,2019-07-21,90.57000000000001,0.0,seasonal_naive
+Germany,2019-07-22,188.35999999999999,941.46,seasonal_naive
+Germany,2019-07-23,27.75,0.0,seasonal_naive
+Germany,2019-07-24,32.0,0.0,seasonal_naive
+Germany,2019-07-25,73.26,159.78,seasonal_naive
+Germany,2019-07-26,54.24,51.89,seasonal_naive
+Germany,2019-07-27,0.0,0.0,seasonal_naive
+Germany,2019-07-28,0.0,0.0,seasonal_naive
+Germany,2019-07-29,191.23,941.46,seasonal_naive
+Germany,2019-07-30,198.41,0.0,seasonal_naive
+Germany,2019-07-31,18.48,0.0,seasonal_naive
+Greece,2019-07-02,0.0,1.7732251310966411,ridge
+Greece,2019-07-03,0.0,4.690511536405095,ridge
+Greece,2019-07-04,0.0,5.620764187777297,ridge
+Greece,2019-07-05,0.0,3.886930125483679,ridge
+Greece,2019-07-06,0.0,0.8073355110549478,ridge
+Greece,2019-07-07,0.0,0.0,ridge
+Greece,2019-07-08,145.03,0.0,ridge
+Greece,2019-07-09,0.0,1.8976474632548346,ridge
+Greece,2019-07-10,0.0,4.867858540858804,ridge
+Greece,2019-07-11,0.0,5.812412083118031,ridge
+Greece,2019-07-12,0.0,4.043528965949847,ridge
+Greece,2019-07-13,0.0,0.9064903902397763,ridge
+Greece,2019-07-14,0.0,0.0,ridge
+Greece,2019-07-15,0.0,0.0,ridge
+Greece,2019-07-16,0.0,2.0206512319732646,ridge
+Greece,2019-07-17,0.0,5.034804168062724,ridge
+Greece,2019-07-18,0.0,5.993349443525037,ridge
+Greece,2019-07-19,0.0,4.198240169453495,ridge
+Greece,2019-07-20,0.0,1.0154551723329526,ridge
+Greece,2019-07-21,0.0,0.0,ridge
+Greece,2019-07-22,0.0,0.0,ridge
+Greece,2019-07-23,0.0,2.1278796834467464,ridge
+Greece,2019-07-24,0.0,5.1430703080831695,ridge
+Greece,2019-07-25,0.0,6.102559508004932,ridge
+Greece,2019-07-26,0.0,4.306775316028305,ridge
+Greece,2019-07-27,0.0,1.1225436525151995,ridge
+Greece,2019-07-28,0.0,0.0,ridge
+Greece,2019-07-29,0.0,0.0,ridge
+Greece,2019-07-30,0.0,2.218550815150895,ridge
+Greece,2019-07-31,0.0,5.225979337236051,ridge
+Greece,2019-07-02,0.0,4.777459077380951,random_forest
+Greece,2019-07-03,0.0,1.468102678571429,random_forest
+Greece,2019-07-04,0.0,0.7727901785714287,random_forest
+Greece,2019-07-05,0.0,0.7727901785714287,random_forest
+Greece,2019-07-06,0.0,0.9813839285714288,random_forest
+Greece,2019-07-07,0.0,0.0,random_forest
+Greece,2019-07-08,145.03,0.0,random_forest
+Greece,2019-07-09,0.0,0.0,random_forest
+Greece,2019-07-10,0.0,0.0,random_forest
+Greece,2019-07-11,0.0,0.05948333333333333,random_forest
+Greece,2019-07-12,0.0,0.05948333333333333,random_forest
+Greece,2019-07-13,0.0,0.0,random_forest
+Greece,2019-07-14,0.0,0.0,random_forest
+Greece,2019-07-15,0.0,0.0,random_forest
+Greece,2019-07-16,0.0,0.0,random_forest
+Greece,2019-07-17,0.0,0.0,random_forest
+Greece,2019-07-18,0.0,0.05948333333333333,random_forest
+Greece,2019-07-19,0.0,0.05948333333333333,random_forest
+Greece,2019-07-20,0.0,0.0,random_forest
+Greece,2019-07-21,0.0,0.0,random_forest
+Greece,2019-07-22,0.0,0.0,random_forest
+Greece,2019-07-23,0.0,0.0,random_forest
+Greece,2019-07-24,0.0,0.0,random_forest
+Greece,2019-07-25,0.0,0.05948333333333333,random_forest
+Greece,2019-07-26,0.0,0.05948333333333333,random_forest
+Greece,2019-07-27,0.0,0.0,random_forest
+Greece,2019-07-28,0.0,0.0,random_forest
+Greece,2019-07-29,0.0,0.0,random_forest
+Greece,2019-07-30,0.0,0.0,random_forest
+Greece,2019-07-31,0.0,0.0,random_forest
+Greece,2019-07-02,0.0,0.0,seasonal_naive
+Greece,2019-07-03,0.0,0.0,seasonal_naive
+Greece,2019-07-04,0.0,0.0,seasonal_naive
+Greece,2019-07-05,0.0,0.0,seasonal_naive
+Greece,2019-07-06,0.0,0.0,seasonal_naive
+Greece,2019-07-07,0.0,0.0,seasonal_naive
+Greece,2019-07-08,145.03,0.0,seasonal_naive
+Greece,2019-07-09,0.0,0.0,seasonal_naive
+Greece,2019-07-10,0.0,0.0,seasonal_naive
+Greece,2019-07-11,0.0,0.0,seasonal_naive
+Greece,2019-07-12,0.0,0.0,seasonal_naive
+Greece,2019-07-13,0.0,0.0,seasonal_naive
+Greece,2019-07-14,0.0,0.0,seasonal_naive
+Greece,2019-07-15,0.0,0.0,seasonal_naive
+Greece,2019-07-16,0.0,0.0,seasonal_naive
+Greece,2019-07-17,0.0,0.0,seasonal_naive
+Greece,2019-07-18,0.0,0.0,seasonal_naive
+Greece,2019-07-19,0.0,0.0,seasonal_naive
+Greece,2019-07-20,0.0,0.0,seasonal_naive
+Greece,2019-07-21,0.0,0.0,seasonal_naive
+Greece,2019-07-22,0.0,0.0,seasonal_naive
+Greece,2019-07-23,0.0,0.0,seasonal_naive
+Greece,2019-07-24,0.0,0.0,seasonal_naive
+Greece,2019-07-25,0.0,0.0,seasonal_naive
+Greece,2019-07-26,0.0,0.0,seasonal_naive
+Greece,2019-07-27,0.0,0.0,seasonal_naive
+Greece,2019-07-28,0.0,0.0,seasonal_naive
+Greece,2019-07-29,0.0,0.0,seasonal_naive
+Greece,2019-07-30,0.0,0.0,seasonal_naive
+Greece,2019-07-31,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-02,0.0,93.59575703637907,ridge
+Hong Kong,2019-07-03,0.0,96.45215446832334,ridge
+Hong Kong,2019-07-04,0.0,68.69899654588974,ridge
+Hong Kong,2019-07-05,0.0,28.897424024335045,ridge
+Hong Kong,2019-07-06,0.0,7.145722957687099,ridge
+Hong Kong,2019-07-07,0.0,19.337289680695342,ridge
+Hong Kong,2019-07-08,0.0,55.8091207280023,ridge
+Hong Kong,2019-07-09,0.0,87.4945848141653,ridge
+Hong Kong,2019-07-10,0.0,91.23093912271283,ridge
+Hong Kong,2019-07-11,0.0,63.00503110120083,ridge
+Hong Kong,2019-07-12,0.0,23.533990471067494,ridge
+Hong Kong,2019-07-13,0.0,1.971592494058477,ridge
+Hong Kong,2019-07-14,0.0,13.992698767698492,ridge
+Hong Kong,2019-07-15,0.0,49.98337642177422,ridge
+Hong Kong,2019-07-16,0.0,81.37160055474953,ridge
+Hong Kong,2019-07-17,0.0,85.04248756711765,ridge
+Hong Kong,2019-07-18,0.0,57.713663700950576,ridge
+Hong Kong,2019-07-19,0.0,18.630928990584586,ridge
+Hong Kong,2019-07-20,0.0,0.0,ridge
+Hong Kong,2019-07-21,0.0,9.143621558647219,ridge
+Hong Kong,2019-07-22,0.0,44.81090180528607,ridge
+Hong Kong,2019-07-23,0.0,76.82535235982026,ridge
+Hong Kong,2019-07-24,0.0,80.53226734360604,ridge
+Hong Kong,2019-07-25,0.0,52.59949274387306,ridge
+Hong Kong,2019-07-26,0.0,13.524482829854815,ridge
+Hong Kong,2019-07-27,0.0,0.0,ridge
+Hong Kong,2019-07-28,0.0,3.970505333140366,ridge
+Hong Kong,2019-07-29,0.0,39.70275317344624,ridge
+Hong Kong,2019-07-30,0.0,71.65812585498946,ridge
+Hong Kong,2019-07-31,0.0,76.26190186548358,ridge
+Hong Kong,2019-07-02,0.0,3.3493968253968256,random_forest
+Hong Kong,2019-07-03,0.0,9.685535714285715,random_forest
+Hong Kong,2019-07-04,0.0,0.455,random_forest
+Hong Kong,2019-07-05,0.0,0.0,random_forest
+Hong Kong,2019-07-06,0.0,0.0,random_forest
+Hong Kong,2019-07-07,0.0,0.0,random_forest
+Hong Kong,2019-07-08,0.0,0.0,random_forest
+Hong Kong,2019-07-09,0.0,3.3493968253968256,random_forest
+Hong Kong,2019-07-10,0.0,9.685535714285715,random_forest
+Hong Kong,2019-07-11,0.0,1.7252083333333335,random_forest
+Hong Kong,2019-07-12,0.0,2.028541666666667,random_forest
+Hong Kong,2019-07-13,0.0,0.37916666666666665,random_forest
+Hong Kong,2019-07-14,0.0,0.0,random_forest
+Hong Kong,2019-07-15,0.0,0.0,random_forest
+Hong Kong,2019-07-16,0.0,3.3493968253968256,random_forest
+Hong Kong,2019-07-17,0.0,8.306474206349208,random_forest
+Hong Kong,2019-07-18,0.0,0.0,random_forest
+Hong Kong,2019-07-19,0.0,0.0,random_forest
+Hong Kong,2019-07-20,0.0,0.0,random_forest
+Hong Kong,2019-07-21,0.0,0.0,random_forest
+Hong Kong,2019-07-22,0.0,0.0,random_forest
+Hong Kong,2019-07-23,0.0,3.3493968253968256,random_forest
+Hong Kong,2019-07-24,0.0,33.273376984126976,random_forest
+Hong Kong,2019-07-25,0.0,0.0,random_forest
+Hong Kong,2019-07-26,0.0,0.0,random_forest
+Hong Kong,2019-07-27,0.0,0.0,random_forest
+Hong Kong,2019-07-28,0.0,0.0,random_forest
+Hong Kong,2019-07-29,0.0,0.0,random_forest
+Hong Kong,2019-07-30,0.0,69.56666765873017,random_forest
+Hong Kong,2019-07-31,0.0,255.8190089285715,random_forest
+Hong Kong,2019-07-02,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-03,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-04,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-05,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-06,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-07,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-08,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-09,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-10,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-11,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-12,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-13,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-14,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-15,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-16,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-17,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-18,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-19,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-20,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-21,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-22,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-23,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-24,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-25,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-26,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-27,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-28,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-29,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-30,0.0,0.0,seasonal_naive
+Hong Kong,2019-07-31,0.0,0.0,seasonal_naive
+Iceland,2019-07-02,0.0,1.1403162598452727,ridge
+Iceland,2019-07-03,0.0,1.1551815476902032,ridge
+Iceland,2019-07-04,0.0,0.5136025298935669,ridge
+Iceland,2019-07-05,0.0,1.4138392598623903,ridge
+Iceland,2019-07-06,0.0,1.097530816894797,ridge
+Iceland,2019-07-07,0.0,1.3390423733360177,ridge
+Iceland,2019-07-08,0.0,1.9328369430327723,ridge
+Iceland,2019-07-09,0.0,2.4087548696937024,ridge
+Iceland,2019-07-10,0.0,2.396226335731816,ridge
+Iceland,2019-07-11,0.0,1.8858697760673824,ridge
+Iceland,2019-07-12,0.0,1.2387701375802536,ridge
+Iceland,2019-07-13,0.0,0.9346933116527016,ridge
+Iceland,2019-07-14,0.0,1.1815431020626592,ridge
+Iceland,2019-07-15,0.0,1.7790160785006988,ridge
+Iceland,2019-07-16,0.0,2.2591279321189788,ridge
+Iceland,2019-07-17,0.0,2.25251191557217,ridge
+Iceland,2019-07-18,0.0,1.7497068845445254,ridge
+Iceland,2019-07-19,0.0,1.1109284314224865,ridge
+Iceland,2019-07-20,0.0,0.8136811661811079,ridge
+Iceland,2019-07-21,0.0,1.0650913179897756,ridge
+Iceland,2019-07-22,0.0,1.6656649453026735,ridge
+Iceland,2019-07-23,0.0,2.1534790502873005,ridge
+Iceland,2019-07-24,0.0,2.1519259952952794,ridge
+Iceland,2019-07-25,0.0,1.6534229162528016,ridge
+Iceland,2019-07-26,0.0,1.0250872523105339,ridge
+Iceland,2019-07-27,0.0,0.7321226086375288,ridge
+Iceland,2019-07-28,0.0,0.9877176699152828,ridge
+Iceland,2019-07-29,0.0,1.592341061961747,ridge
+Iceland,2019-07-30,68.24,2.08069943493396,ridge
+Iceland,2019-07-31,0.0,2.1117502157893906,ridge
+Iceland,2019-07-02,0.0,0.0,random_forest
+Iceland,2019-07-03,0.0,0.0,random_forest
+Iceland,2019-07-04,0.0,0.0,random_forest
+Iceland,2019-07-05,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-06,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-07,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-08,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-09,0.0,2.1869652777777775,random_forest
+Iceland,2019-07-10,0.0,2.1869652777777775,random_forest
+Iceland,2019-07-11,0.0,2.1869652777777775,random_forest
+Iceland,2019-07-12,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-13,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-14,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-15,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-16,0.0,2.1869652777777775,random_forest
+Iceland,2019-07-17,0.0,2.1869652777777775,random_forest
+Iceland,2019-07-18,0.0,2.1869652777777775,random_forest
+Iceland,2019-07-19,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-20,0.0,0.6516319444444444,random_forest
+Iceland,2019-07-21,0.0,1.0984652777777777,random_forest
+Iceland,2019-07-22,0.0,1.0984652777777777,random_forest
+Iceland,2019-07-23,0.0,3.6019375,random_forest
+Iceland,2019-07-24,0.0,4.998291666666667,random_forest
+Iceland,2019-07-25,0.0,4.899208333333333,random_forest
+Iceland,2019-07-26,0.0,5.645791666666667,random_forest
+Iceland,2019-07-27,0.0,5.645791666666667,random_forest
+Iceland,2019-07-28,0.0,6.392374999999999,random_forest
+Iceland,2019-07-29,0.0,10.436368055555555,random_forest
+Iceland,2019-07-30,68.24,9.192062499999999,random_forest
+Iceland,2019-07-31,0.0,7.886472222222221,random_forest
+Iceland,2019-07-02,0.0,0.0,seasonal_naive
+Iceland,2019-07-03,0.0,0.0,seasonal_naive
+Iceland,2019-07-04,0.0,0.0,seasonal_naive
+Iceland,2019-07-05,0.0,0.0,seasonal_naive
+Iceland,2019-07-06,0.0,0.0,seasonal_naive
+Iceland,2019-07-07,0.0,0.0,seasonal_naive
+Iceland,2019-07-08,0.0,0.0,seasonal_naive
+Iceland,2019-07-09,0.0,0.0,seasonal_naive
+Iceland,2019-07-10,0.0,0.0,seasonal_naive
+Iceland,2019-07-11,0.0,0.0,seasonal_naive
+Iceland,2019-07-12,0.0,0.0,seasonal_naive
+Iceland,2019-07-13,0.0,0.0,seasonal_naive
+Iceland,2019-07-14,0.0,0.0,seasonal_naive
+Iceland,2019-07-15,0.0,0.0,seasonal_naive
+Iceland,2019-07-16,0.0,0.0,seasonal_naive
+Iceland,2019-07-17,0.0,0.0,seasonal_naive
+Iceland,2019-07-18,0.0,0.0,seasonal_naive
+Iceland,2019-07-19,0.0,0.0,seasonal_naive
+Iceland,2019-07-20,0.0,0.0,seasonal_naive
+Iceland,2019-07-21,0.0,0.0,seasonal_naive
+Iceland,2019-07-22,0.0,0.0,seasonal_naive
+Iceland,2019-07-23,0.0,0.0,seasonal_naive
+Iceland,2019-07-24,0.0,0.0,seasonal_naive
+Iceland,2019-07-25,0.0,0.0,seasonal_naive
+Iceland,2019-07-26,0.0,0.0,seasonal_naive
+Iceland,2019-07-27,0.0,0.0,seasonal_naive
+Iceland,2019-07-28,0.0,0.0,seasonal_naive
+Iceland,2019-07-29,0.0,0.0,seasonal_naive
+Iceland,2019-07-30,68.24,0.0,seasonal_naive
+Iceland,2019-07-31,0.0,0.0,seasonal_naive
+Israel,2019-07-02,0.0,1.49714563144226,ridge
+Israel,2019-07-03,0.0,2.0004988106998463,ridge
+Israel,2019-07-04,0.0,1.8809530201357731,ridge
+Israel,2019-07-05,0.0,1.2230166566619767,ridge
+Israel,2019-07-06,0.0,0.5207403647745217,ridge
+Israel,2019-07-07,0.0,0.3016030061251863,ridge
+Israel,2019-07-08,0.0,0.7293286792131396,ridge
+Israel,2019-07-09,0.0,1.4691932677946062,ridge
+Israel,2019-07-10,0.0,1.9726565250686972,ridge
+Israel,2019-07-11,64.61,1.8536524328829842,ridge
+Israel,2019-07-12,0.0,1.2003952442226218,ridge
+Israel,2019-07-13,0.0,0.5033941350907406,ridge
+Israel,2019-07-14,0.0,0.2861463445187764,ridge
+Israel,2019-07-15,0.0,0.710930079643996,ridge
+Israel,2019-07-16,0.0,1.4460371602265711,ridge
+Israel,2019-07-17,0.0,1.9464841907892156,ridge
+Israel,2019-07-18,0.0,1.8288954360197105,ridge
+Israel,2019-07-19,0.0,1.1807955239254784,ridge
+Israel,2019-07-20,0.0,0.4891682190554749,ridge
+Israel,2019-07-21,0.0,0.2738039670286163,ridge
+Israel,2019-07-22,0.0,0.6958842567737411,ridge
+Israel,2019-07-23,0.0,1.4367679512192444,ridge
+Israel,2019-07-24,0.0,1.937467881343801,ridge
+Israel,2019-07-25,0.0,1.8201041343765298,ridge
+Israel,2019-07-26,0.0,1.172148903963372,ridge
+Israel,2019-07-27,0.0,0.48063710203836185,ridge
+Israel,2019-07-28,0.0,0.2654156235115894,ridge
+Israel,2019-07-29,0.0,0.6876858360863987,ridge
+Israel,2019-07-30,0.0,1.4181839625243837,ridge
+Israel,2019-07-31,0.0,1.9317895952365063,ridge
+Israel,2019-07-02,0.0,6.898560515873015,random_forest
+Israel,2019-07-03,0.0,6.354254960317459,random_forest
+Israel,2019-07-04,0.0,10.201921626984127,random_forest
+Israel,2019-07-05,0.0,12.157859126984127,random_forest
+Israel,2019-07-06,0.0,0.0,random_forest
+Israel,2019-07-07,0.0,0.0,random_forest
+Israel,2019-07-08,0.0,0.0,random_forest
+Israel,2019-07-09,0.0,0.0,random_forest
+Israel,2019-07-10,0.0,0.325,random_forest
+Israel,2019-07-11,64.61,0.0,random_forest
+Israel,2019-07-12,0.0,0.0,random_forest
+Israel,2019-07-13,0.0,0.0,random_forest
+Israel,2019-07-14,0.0,0.0,random_forest
+Israel,2019-07-15,0.0,0.0,random_forest
+Israel,2019-07-16,0.0,0.0,random_forest
+Israel,2019-07-17,0.0,0.325,random_forest
+Israel,2019-07-18,0.0,0.0,random_forest
+Israel,2019-07-19,0.0,0.0,random_forest
+Israel,2019-07-20,0.0,0.0,random_forest
+Israel,2019-07-21,0.0,0.0,random_forest
+Israel,2019-07-22,0.0,0.0,random_forest
+Israel,2019-07-23,0.0,0.0,random_forest
+Israel,2019-07-24,0.0,0.4789236111111111,random_forest
+Israel,2019-07-25,0.0,0.0,random_forest
+Israel,2019-07-26,0.0,0.0,random_forest
+Israel,2019-07-27,0.0,0.0,random_forest
+Israel,2019-07-28,0.0,0.0,random_forest
+Israel,2019-07-29,0.0,0.0,random_forest
+Israel,2019-07-30,0.0,0.0,random_forest
+Israel,2019-07-31,0.0,0.4789236111111111,random_forest
+Israel,2019-07-02,0.0,0.0,seasonal_naive
+Israel,2019-07-03,0.0,0.0,seasonal_naive
+Israel,2019-07-04,0.0,0.0,seasonal_naive
+Israel,2019-07-05,0.0,0.0,seasonal_naive
+Israel,2019-07-06,0.0,0.0,seasonal_naive
+Israel,2019-07-07,0.0,0.0,seasonal_naive
+Israel,2019-07-08,0.0,0.0,seasonal_naive
+Israel,2019-07-09,0.0,0.0,seasonal_naive
+Israel,2019-07-10,0.0,0.0,seasonal_naive
+Israel,2019-07-11,64.61,0.0,seasonal_naive
+Israel,2019-07-12,0.0,0.0,seasonal_naive
+Israel,2019-07-13,0.0,0.0,seasonal_naive
+Israel,2019-07-14,0.0,0.0,seasonal_naive
+Israel,2019-07-15,0.0,0.0,seasonal_naive
+Israel,2019-07-16,0.0,0.0,seasonal_naive
+Israel,2019-07-17,0.0,0.0,seasonal_naive
+Israel,2019-07-18,0.0,0.0,seasonal_naive
+Israel,2019-07-19,0.0,0.0,seasonal_naive
+Israel,2019-07-20,0.0,0.0,seasonal_naive
+Israel,2019-07-21,0.0,0.0,seasonal_naive
+Israel,2019-07-22,0.0,0.0,seasonal_naive
+Israel,2019-07-23,0.0,0.0,seasonal_naive
+Israel,2019-07-24,0.0,0.0,seasonal_naive
+Israel,2019-07-25,0.0,0.0,seasonal_naive
+Israel,2019-07-26,0.0,0.0,seasonal_naive
+Israel,2019-07-27,0.0,0.0,seasonal_naive
+Israel,2019-07-28,0.0,0.0,seasonal_naive
+Israel,2019-07-29,0.0,0.0,seasonal_naive
+Israel,2019-07-30,0.0,0.0,seasonal_naive
+Israel,2019-07-31,0.0,0.0,seasonal_naive
+Italy,2019-07-02,0.0,3.105530613490915,ridge
+Italy,2019-07-03,0.0,13.071293846418097,ridge
+Italy,2019-07-04,0.0,8.926226689069232,ridge
+Italy,2019-07-05,0.0,5.307793352674891,ridge
+Italy,2019-07-06,0.0,2.161364529051955,ridge
+Italy,2019-07-07,0.0,1.7011426550027098,ridge
+Italy,2019-07-08,0.0,4.282135312889712,ridge
+Italy,2019-07-09,0.0,8.343812499867528,ridge
+Italy,2019-07-10,0.0,10.20868509016492,ridge
+Italy,2019-07-11,0.0,10.245797042801396,ridge
+Italy,2019-07-12,0.0,6.662669455272679,ridge
+Italy,2019-07-13,0.0,3.2409257530060342,ridge
+Italy,2019-07-14,0.0,2.7363890272488716,ridge
+Italy,2019-07-15,0.0,5.639039957296569,ridge
+Italy,2019-07-16,0.0,9.7893876442959,ridge
+Italy,2019-07-17,0.0,11.854711070204829,ridge
+Italy,2019-07-18,0.0,11.077262573207154,ridge
+Italy,2019-07-19,0.0,7.583027895417166,ridge
+Italy,2019-07-20,0.0,4.281828362633595,ridge
+Italy,2019-07-21,0.0,3.8185891953997353,ridge
+Italy,2019-07-22,0.0,6.678332629738072,ridge
+Italy,2019-07-23,48.8,10.819099214438078,ridge
+Italy,2019-07-24,0.0,10.929603921925022,ridge
+Italy,2019-07-25,0.0,11.48582744380833,ridge
+Italy,2019-07-26,0.0,8.139791778071592,ridge
+Italy,2019-07-27,0.0,4.891624279668686,ridge
+Italy,2019-07-28,0.0,4.456086396174971,ridge
+Italy,2019-07-29,0.0,7.317739086107247,ridge
+Italy,2019-07-30,0.0,11.27504783313444,ridge
+Italy,2019-07-31,0.0,12.791259897892552,ridge
+Italy,2019-07-02,0.0,9.829392489713356,random_forest
+Italy,2019-07-03,0.0,23.665587866231316,random_forest
+Italy,2019-07-04,0.0,10.899260937821074,random_forest
+Italy,2019-07-05,0.0,3.144944469567108,random_forest
+Italy,2019-07-06,0.0,3.1402569695671083,random_forest
+Italy,2019-07-07,0.0,3.1402569695671083,random_forest
+Italy,2019-07-08,0.0,3.6683811980098935,random_forest
+Italy,2019-07-09,0.0,20.15104083366018,random_forest
+Italy,2019-07-10,0.0,15.258249848187901,random_forest
+Italy,2019-07-11,0.0,11.10861135782674,random_forest
+Italy,2019-07-12,0.0,3.4779711066477685,random_forest
+Italy,2019-07-13,0.0,3.4514433288699906,random_forest
+Italy,2019-07-14,0.0,3.4514433288699906,random_forest
+Italy,2019-07-15,0.0,9.242203091015496,random_forest
+Italy,2019-07-16,0.0,29.924596298051075,random_forest
+Italy,2019-07-17,0.0,17.24135964345984,random_forest
+Italy,2019-07-18,0.0,33.64463499532222,random_forest
+Italy,2019-07-19,0.0,15.298782430732857,random_forest
+Italy,2019-07-20,0.0,12.406679140773457,random_forest
+Italy,2019-07-21,0.0,7.601801137504328,random_forest
+Italy,2019-07-22,0.0,15.014862046627739,random_forest
+Italy,2019-07-23,48.8,16.416129494021767,random_forest
+Italy,2019-07-24,0.0,22.391605858779382,random_forest
+Italy,2019-07-25,0.0,29.031821999290468,random_forest
+Italy,2019-07-26,0.0,11.872727260427181,random_forest
+Italy,2019-07-27,0.0,9.971314675595991,random_forest
+Italy,2019-07-28,0.0,9.390240513516284,random_forest
+Italy,2019-07-29,0.0,30.375790482196454,random_forest
+Italy,2019-07-30,0.0,26.79268621592224,random_forest
+Italy,2019-07-31,0.0,31.28664454925557,random_forest
+Italy,2019-07-02,0.0,0.0,seasonal_naive
+Italy,2019-07-03,0.0,36.85,seasonal_naive
+Italy,2019-07-04,0.0,0.0,seasonal_naive
+Italy,2019-07-05,0.0,0.0,seasonal_naive
+Italy,2019-07-06,0.0,0.0,seasonal_naive
+Italy,2019-07-07,0.0,0.0,seasonal_naive
+Italy,2019-07-08,0.0,0.0,seasonal_naive
+Italy,2019-07-09,0.0,0.0,seasonal_naive
+Italy,2019-07-10,0.0,36.85,seasonal_naive
+Italy,2019-07-11,0.0,0.0,seasonal_naive
+Italy,2019-07-12,0.0,0.0,seasonal_naive
+Italy,2019-07-13,0.0,0.0,seasonal_naive
+Italy,2019-07-14,0.0,0.0,seasonal_naive
+Italy,2019-07-15,0.0,0.0,seasonal_naive
+Italy,2019-07-16,0.0,0.0,seasonal_naive
+Italy,2019-07-17,0.0,36.85,seasonal_naive
+Italy,2019-07-18,0.0,0.0,seasonal_naive
+Italy,2019-07-19,0.0,0.0,seasonal_naive
+Italy,2019-07-20,0.0,0.0,seasonal_naive
+Italy,2019-07-21,0.0,0.0,seasonal_naive
+Italy,2019-07-22,0.0,0.0,seasonal_naive
+Italy,2019-07-23,48.8,0.0,seasonal_naive
+Italy,2019-07-24,0.0,36.85,seasonal_naive
+Italy,2019-07-25,0.0,0.0,seasonal_naive
+Italy,2019-07-26,0.0,0.0,seasonal_naive
+Italy,2019-07-27,0.0,0.0,seasonal_naive
+Italy,2019-07-28,0.0,0.0,seasonal_naive
+Italy,2019-07-29,0.0,0.0,seasonal_naive
+Italy,2019-07-30,0.0,0.0,seasonal_naive
+Italy,2019-07-31,0.0,36.85,seasonal_naive
+Japan,2019-07-02,0.0,2.9437589816537053,ridge
+Japan,2019-07-03,0.0,2.22197864090507,ridge
+Japan,2019-07-04,0.0,1.6359061293747263,ridge
+Japan,2019-07-05,0.0,1.0433285337028155,ridge
+Japan,2019-07-06,0.0,1.129883039307507,ridge
+Japan,2019-07-07,0.0,1.8323356026990374,ridge
+Japan,2019-07-08,0.0,2.6339081486678753,ridge
+Japan,2019-07-09,0.0,3.1767774074610005,ridge
+Japan,2019-07-10,0.0,2.6700845285779558,ridge
+Japan,2019-07-11,0.0,1.8004960224242028,ridge
+Japan,2019-07-12,0.0,1.1549218276622755,ridge
+Japan,2019-07-13,0.0,1.2397835214842061,ridge
+Japan,2019-07-14,0.0,1.9861605832242484,ridge
+Japan,2019-07-15,0.0,2.828987385953045,ridge
+Japan,2019-07-16,0.0,3.0233865102335993,ridge
+Japan,2019-07-17,0.0,2.462811048626005,ridge
+Japan,2019-07-18,0.0,1.7258876599625936,ridge
+Japan,2019-07-19,0.0,1.0946429768614223,ridge
+Japan,2019-07-20,0.0,1.1747390845043828,ridge
+Japan,2019-07-21,2.9,1.894478369339565,ridge
+Japan,2019-07-22,0.0,2.70636079964071,ridge
+Japan,2019-07-23,0.0,2.9749380709933972,ridge
+Japan,2019-07-24,70.74,2.514757513647502,ridge
+Japan,2019-07-25,0.0,1.667150474846574,ridge
+Japan,2019-07-26,0.0,1.0460696676935823,ridge
+Japan,2019-07-27,0.0,1.1274113710500413,ridge
+Japan,2019-07-28,0.0,1.8451614771573221,ridge
+Japan,2019-07-29,0.0,2.655286671422963,ridge
+Japan,2019-07-30,0.0,2.877653266888117,ridge
+Japan,2019-07-31,0.0,2.460474657403066,ridge
+Japan,2019-07-02,0.0,1.9811781400966184,random_forest
+Japan,2019-07-03,0.0,3.494379528985507,random_forest
+Japan,2019-07-04,0.0,0.9950150462962961,random_forest
+Japan,2019-07-05,0.0,1.1725324074074073,random_forest
+Japan,2019-07-06,0.0,0.3254420289855072,random_forest
+Japan,2019-07-07,0.0,0.3254420289855072,random_forest
+Japan,2019-07-08,0.0,1.9077212948585236,random_forest
+Japan,2019-07-09,0.0,2.645784722222222,random_forest
+Japan,2019-07-10,0.0,4.710131944444444,random_forest
+Japan,2019-07-11,0.0,1.0888975694444443,random_forest
+Japan,2019-07-12,0.0,1.7441232638888888,random_forest
+Japan,2019-07-13,0.0,1.1603327546296296,random_forest
+Japan,2019-07-14,0.0,1.284152199074074,random_forest
+Japan,2019-07-15,0.0,1.4971804728835976,random_forest
+Japan,2019-07-16,0.0,3.727718902290448,random_forest
+Japan,2019-07-17,0.0,5.553603905597327,random_forest
+Japan,2019-07-18,0.0,4.488332918929306,random_forest
+Japan,2019-07-19,0.0,7.056662532024544,random_forest
+Japan,2019-07-20,0.0,4.810236872086656,random_forest
+Japan,2019-07-21,2.9,3.4226353007773493,random_forest
+Japan,2019-07-22,0.0,10.19626329221302,random_forest
+Japan,2019-07-23,0.0,1.206927713683363,random_forest
+Japan,2019-07-24,70.74,4.546640015270664,random_forest
+Japan,2019-07-25,0.0,1.374204594255611,random_forest
+Japan,2019-07-26,0.0,1.4813587652706646,random_forest
+Japan,2019-07-27,0.0,1.387964633330043,random_forest
+Japan,2019-07-28,0.0,1.7150209029518237,random_forest
+Japan,2019-07-29,0.0,3.774940375546354,random_forest
+Japan,2019-07-30,0.0,1.5796157420650054,random_forest
+Japan,2019-07-31,0.0,1.5728697103189735,random_forest
+Japan,2019-07-02,0.0,0.0,seasonal_naive
+Japan,2019-07-03,0.0,0.0,seasonal_naive
+Japan,2019-07-04,0.0,0.0,seasonal_naive
+Japan,2019-07-05,0.0,0.0,seasonal_naive
+Japan,2019-07-06,0.0,0.0,seasonal_naive
+Japan,2019-07-07,0.0,0.0,seasonal_naive
+Japan,2019-07-08,0.0,0.0,seasonal_naive
+Japan,2019-07-09,0.0,0.0,seasonal_naive
+Japan,2019-07-10,0.0,0.0,seasonal_naive
+Japan,2019-07-11,0.0,0.0,seasonal_naive
+Japan,2019-07-12,0.0,0.0,seasonal_naive
+Japan,2019-07-13,0.0,0.0,seasonal_naive
+Japan,2019-07-14,0.0,0.0,seasonal_naive
+Japan,2019-07-15,0.0,0.0,seasonal_naive
+Japan,2019-07-16,0.0,0.0,seasonal_naive
+Japan,2019-07-17,0.0,0.0,seasonal_naive
+Japan,2019-07-18,0.0,0.0,seasonal_naive
+Japan,2019-07-19,0.0,0.0,seasonal_naive
+Japan,2019-07-20,0.0,0.0,seasonal_naive
+Japan,2019-07-21,2.9,0.0,seasonal_naive
+Japan,2019-07-22,0.0,0.0,seasonal_naive
+Japan,2019-07-23,0.0,0.0,seasonal_naive
+Japan,2019-07-24,70.74,0.0,seasonal_naive
+Japan,2019-07-25,0.0,0.0,seasonal_naive
+Japan,2019-07-26,0.0,0.0,seasonal_naive
+Japan,2019-07-27,0.0,0.0,seasonal_naive
+Japan,2019-07-28,0.0,0.0,seasonal_naive
+Japan,2019-07-29,0.0,0.0,seasonal_naive
+Japan,2019-07-30,0.0,0.0,seasonal_naive
+Japan,2019-07-31,0.0,0.0,seasonal_naive
+Korea,2019-07-02,0.0,0.709918833604509,ridge
+Korea,2019-07-03,0.0,0.3832379789545813,ridge
+Korea,2019-07-04,0.0,0.057726838843257466,ridge
+Korea,2019-07-05,0.0,0.0,ridge
+Korea,2019-07-06,0.0,0.21403240921072436,ridge
+Korea,2019-07-07,0.0,0.5893058616072829,ridge
+Korea,2019-07-08,0.0,0.8282945086707666,ridge
+Korea,2019-07-09,0.0,0.7518817574020933,ridge
+Korea,2019-07-10,0.0,0.4342099365702246,ridge
+Korea,2019-07-11,0.0,0.1122669033969132,ridge
+Korea,2019-07-12,0.0,0.03500817395009492,ridge
+Korea,2019-07-13,0.0,0.2675388293649051,ridge
+Korea,2019-07-14,0.0,0.6408545994341177,ridge
+Korea,2019-07-15,0.0,0.880545157608709,ridge
+Korea,2019-07-16,0.0,0.8042149660468056,ridge
+Korea,2019-07-17,0.0,0.49010926809883226,ridge
+Korea,2019-07-18,0.0,0.1716932857605335,ridge
+Korea,2019-07-19,0.0,0.09488840606883475,ridge
+Korea,2019-07-20,0.0,0.3243115641011593,ridge
+Korea,2019-07-21,0.0,0.6928732943770954,ridge
+Korea,2019-07-22,0.0,0.9294455268764912,ridge
+Korea,2019-07-23,0.0,0.8621068368657465,ridge
+Korea,2019-07-24,0.0,0.5473635320812662,ridge
+Korea,2019-07-25,0.0,0.2284180377720172,ridge
+Korea,2019-07-26,0.0,0.15137123564576255,ridge
+Korea,2019-07-27,0.0,0.3801034276099878,ridge
+Korea,2019-07-28,0.0,0.7481969919222599,ridge
+Korea,2019-07-29,0.0,0.9842156435497743,ridge
+Korea,2019-07-30,0.0,0.9092337909047012,ridge
+Korea,2019-07-31,0.0,0.6053279872691215,ridge
+Korea,2019-07-02,0.0,0.0,random_forest
+Korea,2019-07-03,0.0,0.0,random_forest
+Korea,2019-07-04,0.0,0.0,random_forest
+Korea,2019-07-05,0.0,0.0,random_forest
+Korea,2019-07-06,0.0,0.0,random_forest
+Korea,2019-07-07,0.0,0.0,random_forest
+Korea,2019-07-08,0.0,0.0,random_forest
+Korea,2019-07-09,0.0,0.0,random_forest
+Korea,2019-07-10,0.0,0.0,random_forest
+Korea,2019-07-11,0.0,0.0,random_forest
+Korea,2019-07-12,0.0,0.0,random_forest
+Korea,2019-07-13,0.0,0.0,random_forest
+Korea,2019-07-14,0.0,0.0,random_forest
+Korea,2019-07-15,0.0,0.0,random_forest
+Korea,2019-07-16,0.0,0.0,random_forest
+Korea,2019-07-17,0.0,0.0,random_forest
+Korea,2019-07-18,0.0,0.0,random_forest
+Korea,2019-07-19,0.0,0.0,random_forest
+Korea,2019-07-20,0.0,0.0,random_forest
+Korea,2019-07-21,0.0,0.0,random_forest
+Korea,2019-07-22,0.0,0.0,random_forest
+Korea,2019-07-23,0.0,0.0,random_forest
+Korea,2019-07-24,0.0,0.0,random_forest
+Korea,2019-07-25,0.0,0.0,random_forest
+Korea,2019-07-26,0.0,0.0,random_forest
+Korea,2019-07-27,0.0,0.0,random_forest
+Korea,2019-07-28,0.0,0.0,random_forest
+Korea,2019-07-29,0.0,0.7506666666666666,random_forest
+Korea,2019-07-30,0.0,0.0,random_forest
+Korea,2019-07-31,0.0,0.0,random_forest
+Korea,2019-07-02,0.0,0.0,seasonal_naive
+Korea,2019-07-03,0.0,0.0,seasonal_naive
+Korea,2019-07-04,0.0,0.0,seasonal_naive
+Korea,2019-07-05,0.0,0.0,seasonal_naive
+Korea,2019-07-06,0.0,0.0,seasonal_naive
+Korea,2019-07-07,0.0,0.0,seasonal_naive
+Korea,2019-07-08,0.0,0.0,seasonal_naive
+Korea,2019-07-09,0.0,0.0,seasonal_naive
+Korea,2019-07-10,0.0,0.0,seasonal_naive
+Korea,2019-07-11,0.0,0.0,seasonal_naive
+Korea,2019-07-12,0.0,0.0,seasonal_naive
+Korea,2019-07-13,0.0,0.0,seasonal_naive
+Korea,2019-07-14,0.0,0.0,seasonal_naive
+Korea,2019-07-15,0.0,0.0,seasonal_naive
+Korea,2019-07-16,0.0,0.0,seasonal_naive
+Korea,2019-07-17,0.0,0.0,seasonal_naive
+Korea,2019-07-18,0.0,0.0,seasonal_naive
+Korea,2019-07-19,0.0,0.0,seasonal_naive
+Korea,2019-07-20,0.0,0.0,seasonal_naive
+Korea,2019-07-21,0.0,0.0,seasonal_naive
+Korea,2019-07-22,0.0,0.0,seasonal_naive
+Korea,2019-07-23,0.0,0.0,seasonal_naive
+Korea,2019-07-24,0.0,0.0,seasonal_naive
+Korea,2019-07-25,0.0,0.0,seasonal_naive
+Korea,2019-07-26,0.0,0.0,seasonal_naive
+Korea,2019-07-27,0.0,0.0,seasonal_naive
+Korea,2019-07-28,0.0,0.0,seasonal_naive
+Korea,2019-07-29,0.0,0.0,seasonal_naive
+Korea,2019-07-30,0.0,0.0,seasonal_naive
+Korea,2019-07-31,0.0,0.0,seasonal_naive
+Lebanon,2019-07-02,0.0,0.8516738000297936,ridge
+Lebanon,2019-07-03,0.0,1.2933664442430954,ridge
+Lebanon,2019-07-04,0.0,1.3130381388092967,ridge
+Lebanon,2019-07-05,0.0,0.8981064832656614,ridge
+Lebanon,2019-07-06,0.0,0.36396229920683776,ridge
+Lebanon,2019-07-07,0.0,0.11594452972476776,ridge
+Lebanon,2019-07-08,0.0,0.3441094502203276,ridge
+Lebanon,2019-07-09,0.0,0.8781956867842464,ridge
+Lebanon,2019-07-10,0.0,1.3209336008353487,ridge
+Lebanon,2019-07-11,0.0,1.3419795500791682,ridge
+Lebanon,2019-07-12,0.0,0.9293676744351551,ridge
+Lebanon,2019-07-13,0.0,0.39784298949145713,ridge
+Lebanon,2019-07-14,0.0,0.15185081013668633,ridge
+Lebanon,2019-07-15,0.0,0.3809777696389286,ridge
+Lebanon,2019-07-16,0.0,0.915478128153785,ridge
+Lebanon,2019-07-17,0.0,1.3587691476592676,ridge
+Lebanon,2019-07-18,0.0,1.3811909376536877,ridge
+Lebanon,2019-07-19,0.0,0.9707929544179447,ridge
+Lebanon,2019-07-20,0.0,0.44167997061996267,ridge
+Lebanon,2019-07-21,0.0,0.19748336560841595,ridge
+Lebanon,2019-07-22,0.0,0.4274148945710704,ridge
+Lebanon,2019-07-23,0.0,0.9637904838332574,ridge
+Lebanon,2019-07-24,0.0,1.4082755884269127,ridge
+Lebanon,2019-07-25,0.0,1.4318566867518814,ridge
+Lebanon,2019-07-26,0.0,1.022580587380185,ridge
+Lebanon,2019-07-27,0.0,0.49455451539568973,ridge
+Lebanon,2019-07-28,0.0,0.2514132772218963,ridge
+Lebanon,2019-07-29,0.0,0.4823703291052185,ridge
+Lebanon,2019-07-30,0.0,1.018240945432673,ridge
+Lebanon,2019-07-31,0.0,1.4702083940092554,ridge
+Lebanon,2019-07-02,0.0,0.0,random_forest
+Lebanon,2019-07-03,0.0,0.0,random_forest
+Lebanon,2019-07-04,0.0,0.0,random_forest
+Lebanon,2019-07-05,0.0,0.0,random_forest
+Lebanon,2019-07-06,0.0,0.0,random_forest
+Lebanon,2019-07-07,0.0,0.0,random_forest
+Lebanon,2019-07-08,0.0,0.0,random_forest
+Lebanon,2019-07-09,0.0,0.0,random_forest
+Lebanon,2019-07-10,0.0,0.0,random_forest
+Lebanon,2019-07-11,0.0,0.0,random_forest
+Lebanon,2019-07-12,0.0,0.0,random_forest
+Lebanon,2019-07-13,0.0,0.0,random_forest
+Lebanon,2019-07-14,0.0,0.0,random_forest
+Lebanon,2019-07-15,0.0,0.0,random_forest
+Lebanon,2019-07-16,0.0,0.0,random_forest
+Lebanon,2019-07-17,0.0,0.0,random_forest
+Lebanon,2019-07-18,0.0,0.0,random_forest
+Lebanon,2019-07-19,0.0,0.0,random_forest
+Lebanon,2019-07-20,0.0,0.0,random_forest
+Lebanon,2019-07-21,0.0,0.0,random_forest
+Lebanon,2019-07-22,0.0,0.0,random_forest
+Lebanon,2019-07-23,0.0,0.0,random_forest
+Lebanon,2019-07-24,0.0,0.0,random_forest
+Lebanon,2019-07-25,0.0,0.0,random_forest
+Lebanon,2019-07-26,0.0,0.0,random_forest
+Lebanon,2019-07-27,0.0,0.0,random_forest
+Lebanon,2019-07-28,0.0,0.0,random_forest
+Lebanon,2019-07-29,0.0,0.0,random_forest
+Lebanon,2019-07-30,0.0,0.0,random_forest
+Lebanon,2019-07-31,0.0,0.0,random_forest
+Lebanon,2019-07-02,0.0,0.0,seasonal_naive
+Lebanon,2019-07-03,0.0,0.0,seasonal_naive
+Lebanon,2019-07-04,0.0,0.0,seasonal_naive
+Lebanon,2019-07-05,0.0,0.0,seasonal_naive
+Lebanon,2019-07-06,0.0,0.0,seasonal_naive
+Lebanon,2019-07-07,0.0,0.0,seasonal_naive
+Lebanon,2019-07-08,0.0,0.0,seasonal_naive
+Lebanon,2019-07-09,0.0,0.0,seasonal_naive
+Lebanon,2019-07-10,0.0,0.0,seasonal_naive
+Lebanon,2019-07-11,0.0,0.0,seasonal_naive
+Lebanon,2019-07-12,0.0,0.0,seasonal_naive
+Lebanon,2019-07-13,0.0,0.0,seasonal_naive
+Lebanon,2019-07-14,0.0,0.0,seasonal_naive
+Lebanon,2019-07-15,0.0,0.0,seasonal_naive
+Lebanon,2019-07-16,0.0,0.0,seasonal_naive
+Lebanon,2019-07-17,0.0,0.0,seasonal_naive
+Lebanon,2019-07-18,0.0,0.0,seasonal_naive
+Lebanon,2019-07-19,0.0,0.0,seasonal_naive
+Lebanon,2019-07-20,0.0,0.0,seasonal_naive
+Lebanon,2019-07-21,0.0,0.0,seasonal_naive
+Lebanon,2019-07-22,0.0,0.0,seasonal_naive
+Lebanon,2019-07-23,0.0,0.0,seasonal_naive
+Lebanon,2019-07-24,0.0,0.0,seasonal_naive
+Lebanon,2019-07-25,0.0,0.0,seasonal_naive
+Lebanon,2019-07-26,0.0,0.0,seasonal_naive
+Lebanon,2019-07-27,0.0,0.0,seasonal_naive
+Lebanon,2019-07-28,0.0,0.0,seasonal_naive
+Lebanon,2019-07-29,0.0,0.0,seasonal_naive
+Lebanon,2019-07-30,0.0,0.0,seasonal_naive
+Lebanon,2019-07-31,0.0,0.0,seasonal_naive
+Lithuania,2019-07-02,0.0,1.6447253673908395,ridge
+Lithuania,2019-07-03,0.0,1.758826370564825,ridge
+Lithuania,2019-07-04,0.0,1.653780650828124,ridge
+Lithuania,2019-07-05,0.0,1.4149441155835851,ridge
+Lithuania,2019-07-06,0.0,1.2315739281123979,ridge
+Lithuania,2019-07-07,0.0,1.2510799510055077,ridge
+Lithuania,2019-07-08,0.0,1.468024053996828,ridge
+Lithuania,2019-07-09,0.0,1.7245214091000904,ridge
+Lithuania,2019-07-10,0.0,1.8381597204375615,ridge
+Lithuania,2019-07-11,0.0,1.7297214191578163,ridge
+Lithuania,2019-07-12,0.0,1.4879523470841125,ridge
+Lithuania,2019-07-13,0.0,1.3018948306690161,ridge
+Lithuania,2019-07-14,0.0,1.3185336720944092,ridge
+Lithuania,2019-07-15,0.0,1.532108534254631,ridge
+Lithuania,2019-07-16,0.0,1.7876866664264908,ridge
+Lithuania,2019-07-17,0.0,1.900262706589659,ridge
+Lithuania,2019-07-18,0.0,1.7908248539036093,ridge
+Lithuania,2019-07-19,0.0,1.5480752515693341,ridge
+Lithuania,2019-07-20,0.0,1.3609675192002137,ridge
+Lithuania,2019-07-21,0.0,1.376419236420796,ridge
+Lithuania,2019-07-22,0.0,1.5886754298508072,ridge
+Lithuania,2019-07-23,0.0,1.8436411216099926,ridge
+Lithuania,2019-07-24,0.0,1.954905111193625,ridge
+Lithuania,2019-07-25,0.0,1.8441161339392953,ridge
+Lithuania,2019-07-26,0.0,1.5999738575748281,ridge
+Lithuania,2019-07-27,0.0,1.4114328464591508,ridge
+Lithuania,2019-07-28,0.0,1.4254118212627847,ridge
+Lithuania,2019-07-29,0.0,1.6361568545239935,ridge
+Lithuania,2019-07-30,0.0,1.889211159254375,ridge
+Lithuania,2019-07-31,0.0,2.0199388802291525,ridge
+Lithuania,2019-07-02,0.0,0.0,random_forest
+Lithuania,2019-07-03,0.0,7.03004861111111,random_forest
+Lithuania,2019-07-04,0.0,0.0,random_forest
+Lithuania,2019-07-05,0.0,0.9855208333333333,random_forest
+Lithuania,2019-07-06,0.0,2.9565625,random_forest
+Lithuania,2019-07-07,0.0,4.927604166666667,random_forest
+Lithuania,2019-07-08,0.0,7.2271527777777775,random_forest
+Lithuania,2019-07-09,0.0,8.80398611111111,random_forest
+Lithuania,2019-07-10,0.0,29.086943452380954,random_forest
+Lithuania,2019-07-11,0.0,33.47016468253969,random_forest
+Lithuania,2019-07-12,0.0,8.325304563492063,random_forest
+Lithuania,2019-07-13,0.0,6.61772123015873,random_forest
+Lithuania,2019-07-14,0.0,5.829304563492063,random_forest
+Lithuania,2019-07-15,0.0,4.81534623015873,random_forest
+Lithuania,2019-07-16,0.0,3.8298253968253966,random_forest
+Lithuania,2019-07-17,0.0,1.3738194444444443,random_forest
+Lithuania,2019-07-18,0.0,1.3519444444444444,random_forest
+Lithuania,2019-07-19,0.0,1.3519444444444444,random_forest
+Lithuania,2019-07-20,0.0,2.365902777777778,random_forest
+Lithuania,2019-07-21,0.0,2.365902777777778,random_forest
+Lithuania,2019-07-22,0.0,1.3519444444444444,random_forest
+Lithuania,2019-07-23,0.0,1.3519444444444444,random_forest
+Lithuania,2019-07-24,0.0,1.3738194444444443,random_forest
+Lithuania,2019-07-25,0.0,1.3519444444444444,random_forest
+Lithuania,2019-07-26,0.0,1.3519444444444444,random_forest
+Lithuania,2019-07-27,0.0,2.3768402777777777,random_forest
+Lithuania,2019-07-28,0.0,2.9589756944444443,random_forest
+Lithuania,2019-07-29,0.0,1.945017361111111,random_forest
+Lithuania,2019-07-30,0.0,6.000850694444444,random_forest
+Lithuania,2019-07-31,0.0,16.866503472222217,random_forest
+Lithuania,2019-07-02,0.0,0.0,seasonal_naive
+Lithuania,2019-07-03,0.0,0.0,seasonal_naive
+Lithuania,2019-07-04,0.0,0.0,seasonal_naive
+Lithuania,2019-07-05,0.0,0.0,seasonal_naive
+Lithuania,2019-07-06,0.0,0.0,seasonal_naive
+Lithuania,2019-07-07,0.0,0.0,seasonal_naive
+Lithuania,2019-07-08,0.0,0.0,seasonal_naive
+Lithuania,2019-07-09,0.0,0.0,seasonal_naive
+Lithuania,2019-07-10,0.0,0.0,seasonal_naive
+Lithuania,2019-07-11,0.0,0.0,seasonal_naive
+Lithuania,2019-07-12,0.0,0.0,seasonal_naive
+Lithuania,2019-07-13,0.0,0.0,seasonal_naive
+Lithuania,2019-07-14,0.0,0.0,seasonal_naive
+Lithuania,2019-07-15,0.0,0.0,seasonal_naive
+Lithuania,2019-07-16,0.0,0.0,seasonal_naive
+Lithuania,2019-07-17,0.0,0.0,seasonal_naive
+Lithuania,2019-07-18,0.0,0.0,seasonal_naive
+Lithuania,2019-07-19,0.0,0.0,seasonal_naive
+Lithuania,2019-07-20,0.0,0.0,seasonal_naive
+Lithuania,2019-07-21,0.0,0.0,seasonal_naive
+Lithuania,2019-07-22,0.0,0.0,seasonal_naive
+Lithuania,2019-07-23,0.0,0.0,seasonal_naive
+Lithuania,2019-07-24,0.0,0.0,seasonal_naive
+Lithuania,2019-07-25,0.0,0.0,seasonal_naive
+Lithuania,2019-07-26,0.0,0.0,seasonal_naive
+Lithuania,2019-07-27,0.0,0.0,seasonal_naive
+Lithuania,2019-07-28,0.0,0.0,seasonal_naive
+Lithuania,2019-07-29,0.0,0.0,seasonal_naive
+Lithuania,2019-07-30,0.0,0.0,seasonal_naive
+Lithuania,2019-07-31,0.0,0.0,seasonal_naive
+Malta,2019-07-02,0.0,25.49850609865966,ridge
+Malta,2019-07-03,0.0,15.267444353075525,ridge
+Malta,2019-07-04,0.0,3.048880235653826,ridge
+Malta,2019-07-05,0.0,0.0,ridge
+Malta,2019-07-06,0.0,0.0,ridge
+Malta,2019-07-07,0.0,11.445957728391576,ridge
+Malta,2019-07-08,0.0,25.071265432110863,ridge
+Malta,2019-07-09,0.0,28.05374850651774,ridge
+Malta,2019-07-10,0.0,19.025543846353685,ridge
+Malta,2019-07-11,0.0,4.648854750680446,ridge
+Malta,2019-07-12,0.0,0.0,ridge
+Malta,2019-07-13,0.0,0.0,ridge
+Malta,2019-07-14,0.0,12.963051478315933,ridge
+Malta,2019-07-15,0.0,26.034002853009856,ridge
+Malta,2019-07-16,0.0,28.999620782635258,ridge
+Malta,2019-07-17,0.0,19.93797143920321,ridge
+Malta,2019-07-18,0.0,5.663564914075138,ridge
+Malta,2019-07-19,0.0,0.0,ridge
+Malta,2019-07-20,0.0,0.47674117735633814,ridge
+Malta,2019-07-21,0.0,13.771766342400309,ridge
+Malta,2019-07-22,0.0,26.74218240363952,ridge
+Malta,2019-07-23,0.0,29.795866823062376,ridge
+Malta,2019-07-24,0.0,20.70505131630199,ridge
+Malta,2019-07-25,0.0,6.395202644099669,ridge
+Malta,2019-07-26,0.0,0.0,ridge
+Malta,2019-07-27,0.0,1.1943183433310516,ridge
+Malta,2019-07-28,0.0,14.434316589069898,ridge
+Malta,2019-07-29,0.0,27.381394963862935,ridge
+Malta,2019-07-30,0.0,30.271997994180172,ridge
+Malta,2019-07-31,0.0,21.40144833529664,ridge
+Malta,2019-07-02,0.0,5.945214533730159,random_forest
+Malta,2019-07-03,0.0,15.425443700396826,random_forest
+Malta,2019-07-04,0.0,0.5838727678571428,random_forest
+Malta,2019-07-05,0.0,0.4523189484126984,random_forest
+Malta,2019-07-06,0.0,0.22104414682539683,random_forest
+Malta,2019-07-07,0.0,0.19934275793650794,random_forest
+Malta,2019-07-08,0.0,0.23124379960317462,random_forest
+Malta,2019-07-09,0.0,2.893738839285714,random_forest
+Malta,2019-07-10,0.0,15.431954117063492,random_forest
+Malta,2019-07-11,0.0,0.5838727678571428,random_forest
+Malta,2019-07-12,0.0,0.4597594246031746,random_forest
+Malta,2019-07-13,0.0,0.22848462301587302,random_forest
+Malta,2019-07-14,0.0,0.2132936507936508,random_forest
+Malta,2019-07-15,0.0,0.2894655257936508,random_forest
+Malta,2019-07-16,0.0,2.975832093253968,random_forest
+Malta,2019-07-17,0.0,15.514047371031745,random_forest
+Malta,2019-07-18,0.0,0.7258618551587301,random_forest
+Malta,2019-07-19,0.0,0.5943080357142857,random_forest
+Malta,2019-07-20,0.0,0.5664930555555555,random_forest
+Malta,2019-07-21,0.0,0.5447916666666667,random_forest
+Malta,2019-07-22,0.0,0.5766927083333333,random_forest
+Malta,2019-07-23,0.0,4.347764136904762,random_forest
+Malta,2019-07-24,0.0,19.41323139880953,random_forest
+Malta,2019-07-25,0.0,5.3235126488095235,random_forest
+Malta,2019-07-26,0.0,8.4199310515873,random_forest
+Malta,2019-07-27,0.0,8.18865625,random_forest
+Malta,2019-07-28,0.0,8.16695486111111,random_forest
+Malta,2019-07-29,0.0,8.198855902777778,random_forest
+Malta,2019-07-30,0.0,10.861350942460318,random_forest
+Malta,2019-07-31,0.0,23.324541418650796,random_forest
+Malta,2019-07-02,0.0,0.0,seasonal_naive
+Malta,2019-07-03,0.0,0.0,seasonal_naive
+Malta,2019-07-04,0.0,0.0,seasonal_naive
+Malta,2019-07-05,0.0,0.0,seasonal_naive
+Malta,2019-07-06,0.0,0.0,seasonal_naive
+Malta,2019-07-07,0.0,0.0,seasonal_naive
+Malta,2019-07-08,0.0,0.0,seasonal_naive
+Malta,2019-07-09,0.0,0.0,seasonal_naive
+Malta,2019-07-10,0.0,0.0,seasonal_naive
+Malta,2019-07-11,0.0,0.0,seasonal_naive
+Malta,2019-07-12,0.0,0.0,seasonal_naive
+Malta,2019-07-13,0.0,0.0,seasonal_naive
+Malta,2019-07-14,0.0,0.0,seasonal_naive
+Malta,2019-07-15,0.0,0.0,seasonal_naive
+Malta,2019-07-16,0.0,0.0,seasonal_naive
+Malta,2019-07-17,0.0,0.0,seasonal_naive
+Malta,2019-07-18,0.0,0.0,seasonal_naive
+Malta,2019-07-19,0.0,0.0,seasonal_naive
+Malta,2019-07-20,0.0,0.0,seasonal_naive
+Malta,2019-07-21,0.0,0.0,seasonal_naive
+Malta,2019-07-22,0.0,0.0,seasonal_naive
+Malta,2019-07-23,0.0,0.0,seasonal_naive
+Malta,2019-07-24,0.0,0.0,seasonal_naive
+Malta,2019-07-25,0.0,0.0,seasonal_naive
+Malta,2019-07-26,0.0,0.0,seasonal_naive
+Malta,2019-07-27,0.0,0.0,seasonal_naive
+Malta,2019-07-28,0.0,0.0,seasonal_naive
+Malta,2019-07-29,0.0,0.0,seasonal_naive
+Malta,2019-07-30,0.0,0.0,seasonal_naive
+Malta,2019-07-31,0.0,0.0,seasonal_naive
+Netherlands,2019-07-02,0.0,31.98945778813046,ridge
+Netherlands,2019-07-03,0.0,32.93843467326148,ridge
+Netherlands,2019-07-04,0.0,28.590809124214537,ridge
+Netherlands,2019-07-05,0.0,17.708391534296545,ridge
+Netherlands,2019-07-06,0.0,7.924667806349028,ridge
+Netherlands,2019-07-07,0.0,6.365190044484393,ridge
+Netherlands,2019-07-08,0.0,13.814332247871839,ridge
+Netherlands,2019-07-09,0.0,31.720134256592083,ridge
+Netherlands,2019-07-10,0.0,30.637706004959558,ridge
+Netherlands,2019-07-11,0.0,26.773562720168066,ridge
+Netherlands,2019-07-12,0.0,16.07296551189812,ridge
+Netherlands,2019-07-13,0.0,6.444551426213266,ridge
+Netherlands,2019-07-14,0.0,5.3690613055116785,ridge
+Netherlands,2019-07-15,0.0,14.372675337642896,ridge
+Netherlands,2019-07-16,0.0,27.9478498779726,ridge
+Netherlands,2019-07-17,26.02,34.660122504949044,ridge
+Netherlands,2019-07-18,0.0,30.56667025665529,ridge
+Netherlands,2019-07-19,0.0,19.41704866581805,ridge
+Netherlands,2019-07-20,0.0,9.384112820798912,ridge
+Netherlands,2019-07-21,0.0,7.813880754032773,ridge
+Netherlands,2019-07-22,0.0,15.695750658966922,ridge
+Netherlands,2019-07-23,0.0,28.06250118387461,ridge
+Netherlands,2019-07-24,0.0,35.77634056596577,ridge
+Netherlands,2019-07-25,0.0,31.72782611790087,ridge
+Netherlands,2019-07-26,0.0,20.598436095537235,ridge
+Netherlands,2019-07-27,0.0,10.57688211356324,ridge
+Netherlands,2019-07-28,0.0,9.017104849849794,ridge
+Netherlands,2019-07-29,0.0,16.915503127775246,ridge
+Netherlands,2019-07-30,0.0,28.306647462727256,ridge
+Netherlands,2019-07-31,0.0,34.6367857318004,ridge
+Netherlands,2019-07-02,0.0,30.277370909457773,random_forest
+Netherlands,2019-07-03,0.0,46.36121552460819,random_forest
+Netherlands,2019-07-04,0.0,38.44252688819272,random_forest
+Netherlands,2019-07-05,0.0,29.84344823496497,random_forest
+Netherlands,2019-07-06,0.0,18.328064399142523,random_forest
+Netherlands,2019-07-07,0.0,22.083387315809187,random_forest
+Netherlands,2019-07-08,0.0,48.950859220227244,random_forest
+Netherlands,2019-07-09,0.0,32.76948342367965,random_forest
+Netherlands,2019-07-10,0.0,27.214008215532136,random_forest
+Netherlands,2019-07-11,0.0,18.083065755214673,random_forest
+Netherlands,2019-07-12,0.0,14.0761206283508,random_forest
+Netherlands,2019-07-13,0.0,20.218132355491726,random_forest
+Netherlands,2019-07-14,0.0,23.204666005291006,random_forest
+Netherlands,2019-07-15,0.0,43.24331733502911,random_forest
+Netherlands,2019-07-16,0.0,47.390266247638316,random_forest
+Netherlands,2019-07-17,26.02,45.73096496251679,random_forest
+Netherlands,2019-07-18,0.0,40.98333038545337,random_forest
+Netherlands,2019-07-19,0.0,26.81512480798126,random_forest
+Netherlands,2019-07-20,0.0,19.168195599539345,random_forest
+Netherlands,2019-07-21,0.0,21.379197087634584,random_forest
+Netherlands,2019-07-22,0.0,32.19884322246388,random_forest
+Netherlands,2019-07-23,0.0,32.98039135673762,random_forest
+Netherlands,2019-07-24,0.0,33.73316765948335,random_forest
+Netherlands,2019-07-25,0.0,24.936823160572683,random_forest
+Netherlands,2019-07-26,0.0,17.81359313005499,random_forest
+Netherlands,2019-07-27,0.0,19.463445100957042,random_forest
+Netherlands,2019-07-28,0.0,21.432039930555547,random_forest
+Netherlands,2019-07-29,0.0,44.21459433174167,random_forest
+Netherlands,2019-07-30,0.0,38.695270833523786,random_forest
+Netherlands,2019-07-31,0.0,32.578735949802855,random_forest
+Netherlands,2019-07-02,0.0,248.66,seasonal_naive
+Netherlands,2019-07-03,0.0,0.0,seasonal_naive
+Netherlands,2019-07-04,0.0,0.0,seasonal_naive
+Netherlands,2019-07-05,0.0,0.0,seasonal_naive
+Netherlands,2019-07-06,0.0,0.0,seasonal_naive
+Netherlands,2019-07-07,0.0,0.0,seasonal_naive
+Netherlands,2019-07-08,0.0,0.0,seasonal_naive
+Netherlands,2019-07-09,0.0,248.66,seasonal_naive
+Netherlands,2019-07-10,0.0,0.0,seasonal_naive
+Netherlands,2019-07-11,0.0,0.0,seasonal_naive
+Netherlands,2019-07-12,0.0,0.0,seasonal_naive
+Netherlands,2019-07-13,0.0,0.0,seasonal_naive
+Netherlands,2019-07-14,0.0,0.0,seasonal_naive
+Netherlands,2019-07-15,0.0,0.0,seasonal_naive
+Netherlands,2019-07-16,0.0,248.66,seasonal_naive
+Netherlands,2019-07-17,26.02,0.0,seasonal_naive
+Netherlands,2019-07-18,0.0,0.0,seasonal_naive
+Netherlands,2019-07-19,0.0,0.0,seasonal_naive
+Netherlands,2019-07-20,0.0,0.0,seasonal_naive
+Netherlands,2019-07-21,0.0,0.0,seasonal_naive
+Netherlands,2019-07-22,0.0,0.0,seasonal_naive
+Netherlands,2019-07-23,0.0,248.66,seasonal_naive
+Netherlands,2019-07-24,0.0,0.0,seasonal_naive
+Netherlands,2019-07-25,0.0,0.0,seasonal_naive
+Netherlands,2019-07-26,0.0,0.0,seasonal_naive
+Netherlands,2019-07-27,0.0,0.0,seasonal_naive
+Netherlands,2019-07-28,0.0,0.0,seasonal_naive
+Netherlands,2019-07-29,0.0,0.0,seasonal_naive
+Netherlands,2019-07-30,0.0,248.66,seasonal_naive
+Netherlands,2019-07-31,0.0,0.0,seasonal_naive
+Nigeria,2019-07-02,0.0,0.05690886149704233,ridge
+Nigeria,2019-07-03,0.0,0.20149568581814453,ridge
+Nigeria,2019-07-04,0.0,0.3433589015475754,ridge
+Nigeria,2019-07-05,0.0,0.37771838795194324,ridge
+Nigeria,2019-07-06,0.0,0.28072036073717505,ridge
+Nigeria,2019-07-07,0.0,0.12737583197931512,ridge
+Nigeria,2019-07-08,0.0,0.035075089729521225,ridge
+Nigeria,2019-07-09,0.0,0.0750828323155337,ridge
+Nigeria,2019-07-10,0.0,0.21897259388142587,ridge
+Nigeria,2019-07-11,0.0,0.36017322161807286,ridge
+Nigeria,2019-07-12,0.0,0.39412276785236994,ridge
+Nigeria,2019-07-13,0.0,0.29696767889619496,ridge
+Nigeria,2019-07-14,0.0,0.14352446110427347,ridge
+Nigeria,2019-07-15,0.0,0.05094069028135406,ridge
+Nigeria,2019-07-16,0.0,0.09035688790371899,ridge
+Nigeria,2019-07-17,0.0,0.23342362095278618,ridge
+Nigeria,2019-07-18,0.0,0.37380407626219614,ridge
+Nigeria,2019-07-19,0.0,0.4071624993568733,ridge
+Nigeria,2019-07-20,0.0,0.30969500252407356,ridge
+Nigeria,2019-07-21,0.0,0.15605395093514818,ridge
+Nigeria,2019-07-22,0.0,0.06313269967376267,ridge
+Nigeria,2019-07-23,0.0,0.10204248479880912,ridge
+Nigeria,2019-07-24,0.0,0.24456330802541515,ridge
+Nigeria,2019-07-25,0.0,0.3843931061274465,ridge
+Nigeria,2019-07-26,0.0,0.41719535761433335,ridge
+Nigeria,2019-07-27,0.0,0.319166358671434,ridge
+Nigeria,2019-07-28,0.0,0.1649595006730865,ridge
+Nigeria,2019-07-29,0.0,0.0714693667641847,ridge
+Nigeria,2019-07-30,0.0,0.10968176716540928,ridge
+Nigeria,2019-07-31,0.0,0.2517531727753224,ridge
+Nigeria,2019-07-02,0.0,0.0,random_forest
+Nigeria,2019-07-03,0.0,0.0,random_forest
+Nigeria,2019-07-04,0.0,0.0,random_forest
+Nigeria,2019-07-05,0.0,0.0,random_forest
+Nigeria,2019-07-06,0.0,0.0,random_forest
+Nigeria,2019-07-07,0.0,0.0,random_forest
+Nigeria,2019-07-08,0.0,0.0,random_forest
+Nigeria,2019-07-09,0.0,0.0,random_forest
+Nigeria,2019-07-10,0.0,0.0,random_forest
+Nigeria,2019-07-11,0.0,0.0,random_forest
+Nigeria,2019-07-12,0.0,0.0,random_forest
+Nigeria,2019-07-13,0.0,0.0,random_forest
+Nigeria,2019-07-14,0.0,0.0,random_forest
+Nigeria,2019-07-15,0.0,0.0,random_forest
+Nigeria,2019-07-16,0.0,0.0,random_forest
+Nigeria,2019-07-17,0.0,0.0,random_forest
+Nigeria,2019-07-18,0.0,0.0,random_forest
+Nigeria,2019-07-19,0.0,0.0,random_forest
+Nigeria,2019-07-20,0.0,0.0,random_forest
+Nigeria,2019-07-21,0.0,0.0,random_forest
+Nigeria,2019-07-22,0.0,0.0,random_forest
+Nigeria,2019-07-23,0.0,0.0,random_forest
+Nigeria,2019-07-24,0.0,0.0,random_forest
+Nigeria,2019-07-25,0.0,0.0,random_forest
+Nigeria,2019-07-26,0.0,0.0,random_forest
+Nigeria,2019-07-27,0.0,0.0,random_forest
+Nigeria,2019-07-28,0.0,0.0,random_forest
+Nigeria,2019-07-29,0.0,0.0,random_forest
+Nigeria,2019-07-30,0.0,0.0,random_forest
+Nigeria,2019-07-31,0.0,0.0,random_forest
+Nigeria,2019-07-02,0.0,0.0,seasonal_naive
+Nigeria,2019-07-03,0.0,0.0,seasonal_naive
+Nigeria,2019-07-04,0.0,0.0,seasonal_naive
+Nigeria,2019-07-05,0.0,0.0,seasonal_naive
+Nigeria,2019-07-06,0.0,0.0,seasonal_naive
+Nigeria,2019-07-07,0.0,0.0,seasonal_naive
+Nigeria,2019-07-08,0.0,0.0,seasonal_naive
+Nigeria,2019-07-09,0.0,0.0,seasonal_naive
+Nigeria,2019-07-10,0.0,0.0,seasonal_naive
+Nigeria,2019-07-11,0.0,0.0,seasonal_naive
+Nigeria,2019-07-12,0.0,0.0,seasonal_naive
+Nigeria,2019-07-13,0.0,0.0,seasonal_naive
+Nigeria,2019-07-14,0.0,0.0,seasonal_naive
+Nigeria,2019-07-15,0.0,0.0,seasonal_naive
+Nigeria,2019-07-16,0.0,0.0,seasonal_naive
+Nigeria,2019-07-17,0.0,0.0,seasonal_naive
+Nigeria,2019-07-18,0.0,0.0,seasonal_naive
+Nigeria,2019-07-19,0.0,0.0,seasonal_naive
+Nigeria,2019-07-20,0.0,0.0,seasonal_naive
+Nigeria,2019-07-21,0.0,0.0,seasonal_naive
+Nigeria,2019-07-22,0.0,0.0,seasonal_naive
+Nigeria,2019-07-23,0.0,0.0,seasonal_naive
+Nigeria,2019-07-24,0.0,0.0,seasonal_naive
+Nigeria,2019-07-25,0.0,0.0,seasonal_naive
+Nigeria,2019-07-26,0.0,0.0,seasonal_naive
+Nigeria,2019-07-27,0.0,0.0,seasonal_naive
+Nigeria,2019-07-28,0.0,0.0,seasonal_naive
+Nigeria,2019-07-29,0.0,0.0,seasonal_naive
+Nigeria,2019-07-30,0.0,0.0,seasonal_naive
+Nigeria,2019-07-31,0.0,0.0,seasonal_naive
+Norway,2019-07-02,0.0,0.0,ridge
+Norway,2019-07-03,0.0,0.0,ridge
+Norway,2019-07-04,0.0,0.0,ridge
+Norway,2019-07-05,0.0,4.682274296106186,ridge
+Norway,2019-07-06,0.0,0.0,ridge
+Norway,2019-07-07,0.0,0.0,ridge
+Norway,2019-07-08,0.0,0.0,ridge
+Norway,2019-07-09,0.0,0.0,ridge
+Norway,2019-07-10,0.0,0.0,ridge
+Norway,2019-07-11,0.0,0.0,ridge
+Norway,2019-07-12,0.0,0.0,ridge
+Norway,2019-07-13,0.0,0.0,ridge
+Norway,2019-07-14,0.0,0.0,ridge
+Norway,2019-07-15,0.0,0.0,ridge
+Norway,2019-07-16,0.0,0.0,ridge
+Norway,2019-07-17,0.0,0.0,ridge
+Norway,2019-07-18,0.0,0.0,ridge
+Norway,2019-07-19,168.63,0.0,ridge
+Norway,2019-07-20,0.0,0.0,ridge
+Norway,2019-07-21,0.0,0.0,ridge
+Norway,2019-07-22,0.0,0.0,ridge
+Norway,2019-07-23,0.0,0.0,ridge
+Norway,2019-07-24,0.0,0.0,ridge
+Norway,2019-07-25,0.0,0.0,ridge
+Norway,2019-07-26,0.0,0.0,ridge
+Norway,2019-07-27,0.0,0.0,ridge
+Norway,2019-07-28,0.0,0.0,ridge
+Norway,2019-07-29,0.0,0.0,ridge
+Norway,2019-07-30,0.0,0.0,ridge
+Norway,2019-07-31,0.0,0.0,ridge
+Norway,2019-07-02,0.0,20.18617708333333,random_forest
+Norway,2019-07-03,0.0,21.00242708333333,random_forest
+Norway,2019-07-04,0.0,13.407496527777775,random_forest
+Norway,2019-07-05,0.0,11.348868055555554,random_forest
+Norway,2019-07-06,0.0,8.934215277777776,random_forest
+Norway,2019-07-07,0.0,8.934215277777776,random_forest
+Norway,2019-07-08,0.0,29.579496527777778,random_forest
+Norway,2019-07-09,0.0,17.32170486111111,random_forest
+Norway,2019-07-10,0.0,19.948944444444443,random_forest
+Norway,2019-07-11,0.0,24.08745138888889,random_forest
+Norway,2019-07-12,0.0,24.38552430555556,random_forest
+Norway,2019-07-13,0.0,21.884413194444445,random_forest
+Norway,2019-07-14,0.0,21.884413194444445,random_forest
+Norway,2019-07-15,0.0,52.40995349326598,random_forest
+Norway,2019-07-16,0.0,37.85206807659933,random_forest
+Norway,2019-07-17,0.0,36.94657328493267,random_forest
+Norway,2019-07-18,0.0,24.687355902777778,random_forest
+Norway,2019-07-19,168.63,23.54487326388889,random_forest
+Norway,2019-07-20,0.0,21.043762152777777,random_forest
+Norway,2019-07-21,0.0,21.043762152777777,random_forest
+Norway,2019-07-22,0.0,33.23775868055556,random_forest
+Norway,2019-07-23,0.0,29.205272569444446,random_forest
+Norway,2019-07-24,0.0,27.88256423611112,random_forest
+Norway,2019-07-25,0.0,24.687355902777778,random_forest
+Norway,2019-07-26,0.0,23.54487326388889,random_forest
+Norway,2019-07-27,0.0,21.043762152777777,random_forest
+Norway,2019-07-28,0.0,22.93487326388889,random_forest
+Norway,2019-07-29,0.0,35.95951215277778,random_forest
+Norway,2019-07-30,0.0,27.06631423611111,random_forest
+Norway,2019-07-31,0.0,28.22506423611112,random_forest
+Norway,2019-07-02,0.0,0.0,seasonal_naive
+Norway,2019-07-03,0.0,0.0,seasonal_naive
+Norway,2019-07-04,0.0,0.0,seasonal_naive
+Norway,2019-07-05,0.0,0.0,seasonal_naive
+Norway,2019-07-06,0.0,0.0,seasonal_naive
+Norway,2019-07-07,0.0,0.0,seasonal_naive
+Norway,2019-07-08,0.0,0.0,seasonal_naive
+Norway,2019-07-09,0.0,0.0,seasonal_naive
+Norway,2019-07-10,0.0,0.0,seasonal_naive
+Norway,2019-07-11,0.0,0.0,seasonal_naive
+Norway,2019-07-12,0.0,0.0,seasonal_naive
+Norway,2019-07-13,0.0,0.0,seasonal_naive
+Norway,2019-07-14,0.0,0.0,seasonal_naive
+Norway,2019-07-15,0.0,0.0,seasonal_naive
+Norway,2019-07-16,0.0,0.0,seasonal_naive
+Norway,2019-07-17,0.0,0.0,seasonal_naive
+Norway,2019-07-18,0.0,0.0,seasonal_naive
+Norway,2019-07-19,168.63,0.0,seasonal_naive
+Norway,2019-07-20,0.0,0.0,seasonal_naive
+Norway,2019-07-21,0.0,0.0,seasonal_naive
+Norway,2019-07-22,0.0,0.0,seasonal_naive
+Norway,2019-07-23,0.0,0.0,seasonal_naive
+Norway,2019-07-24,0.0,0.0,seasonal_naive
+Norway,2019-07-25,0.0,0.0,seasonal_naive
+Norway,2019-07-26,0.0,0.0,seasonal_naive
+Norway,2019-07-27,0.0,0.0,seasonal_naive
+Norway,2019-07-28,0.0,0.0,seasonal_naive
+Norway,2019-07-29,0.0,0.0,seasonal_naive
+Norway,2019-07-30,0.0,0.0,seasonal_naive
+Norway,2019-07-31,0.0,0.0,seasonal_naive
+Poland,2019-07-02,0.0,6.9548103932854275,ridge
+Poland,2019-07-03,0.0,8.227386197544675,ridge
+Poland,2019-07-04,0.0,8.022130943733247,ridge
+Poland,2019-07-05,0.0,6.340405830634495,ridge
+Poland,2019-07-06,0.0,4.343794266414825,ridge
+Poland,2019-07-07,0.0,3.432925431555883,ridge
+Poland,2019-07-08,0.0,4.193116259585356,ridge
+Poland,2019-07-09,0.0,6.499679258043599,ridge
+Poland,2019-07-10,50.269999999999996,8.075598122993508,ridge
+Poland,2019-07-11,0.0,3.5269768865601656,ridge
+Poland,2019-07-12,107.82000000000001,6.882841982939016,ridge
+Poland,2019-07-13,0.0,4.812551406642488,ridge
+Poland,2019-07-14,0.0,3.9136350957098807,ridge
+Poland,2019-07-15,0.0,4.795633039015449,ridge
+Poland,2019-07-16,0.0,6.506315305608959,ridge
+Poland,2019-07-17,0.0,8.042261983255273,ridge
+Poland,2019-07-18,0.0,7.666649190250615,ridge
+Poland,2019-07-19,0.0,6.4065264671038875,ridge
+Poland,2019-07-20,0.0,4.47877150306593,ridge
+Poland,2019-07-21,0.0,3.6359920949643385,ridge
+Poland,2019-07-22,2.95,4.5088323979418465,ridge
+Poland,2019-07-23,0.0,6.395489579389999,ridge
+Poland,2019-07-24,0.0,7.913941834210407,ridge
+Poland,2019-07-25,0.0,8.057305020812423,ridge
+Poland,2019-07-26,0.0,6.289017687054777,ridge
+Poland,2019-07-27,0.0,4.369878263623166,ridge
+Poland,2019-07-28,0.0,3.5237840575073722,ridge
+Poland,2019-07-29,0.0,4.384800600990385,ridge
+Poland,2019-07-30,0.0,6.065587127809026,ridge
+Poland,2019-07-31,69.3,7.563423504110515,ridge
+Poland,2019-07-02,0.0,17.93119479875283,random_forest
+Poland,2019-07-03,0.0,19.176384920634916,random_forest
+Poland,2019-07-04,0.0,8.0682464437046,random_forest
+Poland,2019-07-05,0.0,5.214508017778674,random_forest
+Poland,2019-07-06,0.0,0.23345833333333332,random_forest
+Poland,2019-07-07,0.0,0.024083333333333335,random_forest
+Poland,2019-07-08,0.0,0.024083333333333335,random_forest
+Poland,2019-07-09,0.0,2.39309375,random_forest
+Poland,2019-07-10,50.269999999999996,18.902087159863942,random_forest
+Poland,2019-07-11,0.0,7.928663110371268,random_forest
+Poland,2019-07-12,107.82000000000001,18.165440557461213,random_forest
+Poland,2019-07-13,0.0,12.734739583333331,random_forest
+Poland,2019-07-14,0.0,12.734739583333331,random_forest
+Poland,2019-07-15,0.0,12.444128472222218,random_forest
+Poland,2019-07-16,0.0,15.038624999999996,random_forest
+Poland,2019-07-17,0.0,19.145759920634916,random_forest
+Poland,2019-07-18,0.0,8.643273725450632,random_forest
+Poland,2019-07-19,0.0,5.450160299524707,random_forest
+Poland,2019-07-20,0.0,1.2260625,random_forest
+Poland,2019-07-21,0.0,1.2621041666666668,random_forest
+Poland,2019-07-22,2.95,1.1510972222222222,random_forest
+Poland,2019-07-23,0.0,3.6311145833333334,random_forest
+Poland,2019-07-24,0.0,20.406700892857142,random_forest
+Poland,2019-07-25,0.0,8.480627892117301,random_forest
+Poland,2019-07-26,0.0,6.155476106403014,random_forest
+Poland,2019-07-27,0.0,1.1115833333333334,random_forest
+Poland,2019-07-28,0.0,1.2621041666666668,random_forest
+Poland,2019-07-29,0.0,1.1510972222222222,random_forest
+Poland,2019-07-30,0.0,3.6311145833333334,random_forest
+Poland,2019-07-31,69.3,20.005312003968253,random_forest
+Poland,2019-07-02,0.0,0.0,seasonal_naive
+Poland,2019-07-03,0.0,0.0,seasonal_naive
+Poland,2019-07-04,0.0,0.0,seasonal_naive
+Poland,2019-07-05,0.0,0.0,seasonal_naive
+Poland,2019-07-06,0.0,0.0,seasonal_naive
+Poland,2019-07-07,0.0,0.0,seasonal_naive
+Poland,2019-07-08,0.0,0.0,seasonal_naive
+Poland,2019-07-09,0.0,0.0,seasonal_naive
+Poland,2019-07-10,50.269999999999996,0.0,seasonal_naive
+Poland,2019-07-11,0.0,0.0,seasonal_naive
+Poland,2019-07-12,107.82000000000001,0.0,seasonal_naive
+Poland,2019-07-13,0.0,0.0,seasonal_naive
+Poland,2019-07-14,0.0,0.0,seasonal_naive
+Poland,2019-07-15,0.0,0.0,seasonal_naive
+Poland,2019-07-16,0.0,0.0,seasonal_naive
+Poland,2019-07-17,0.0,0.0,seasonal_naive
+Poland,2019-07-18,0.0,0.0,seasonal_naive
+Poland,2019-07-19,0.0,0.0,seasonal_naive
+Poland,2019-07-20,0.0,0.0,seasonal_naive
+Poland,2019-07-21,0.0,0.0,seasonal_naive
+Poland,2019-07-22,2.95,0.0,seasonal_naive
+Poland,2019-07-23,0.0,0.0,seasonal_naive
+Poland,2019-07-24,0.0,0.0,seasonal_naive
+Poland,2019-07-25,0.0,0.0,seasonal_naive
+Poland,2019-07-26,0.0,0.0,seasonal_naive
+Poland,2019-07-27,0.0,0.0,seasonal_naive
+Poland,2019-07-28,0.0,0.0,seasonal_naive
+Poland,2019-07-29,0.0,0.0,seasonal_naive
+Poland,2019-07-30,0.0,0.0,seasonal_naive
+Poland,2019-07-31,69.3,0.0,seasonal_naive
+Portugal,2019-07-02,0.0,94.5223635261282,ridge
+Portugal,2019-07-03,0.0,78.8596580778316,ridge
+Portugal,2019-07-04,0.0,59.57185718463445,ridge
+Portugal,2019-07-05,0.0,49.254225113574236,ridge
+Portugal,2019-07-06,0.0,55.712002452555495,ridge
+Portugal,2019-07-07,0.0,73.23633190754514,ridge
+Portugal,2019-07-08,0.0,87.98124412039903,ridge
+Portugal,2019-07-09,0.0,87.59179341823348,ridge
+Portugal,2019-07-10,150.72,71.55940004638286,ridge
+Portugal,2019-07-11,0.0,54.8500775159787,ridge
+Portugal,2019-07-12,0.0,45.346321273193546,ridge
+Portugal,2019-07-13,0.0,52.284730752239355,ridge
+Portugal,2019-07-14,0.0,70.35028935079205,ridge
+Portugal,2019-07-15,0.0,85.84281979990519,ridge
+Portugal,2019-07-16,0.0,85.90138544944271,ridge
+Portugal,2019-07-17,49.49,71.92367508559008,ridge
+Portugal,2019-07-18,0.0,53.178014635148315,ridge
+Portugal,2019-07-19,0.0,43.651369900212174,ridge
+Portugal,2019-07-20,0.0,50.56243839257596,ridge
+Portugal,2019-07-21,0.0,68.38294388190104,ridge
+Portugal,2019-07-22,0.0,83.67161235506225,ridge
+Portugal,2019-07-23,0.0,84.80758282884729,ridge
+Portugal,2019-07-24,0.0,70.79270114732843,ridge
+Portugal,2019-07-25,0.0,52.02662607375292,ridge
+Portugal,2019-07-26,0.0,42.55376545547929,ridge
+Portugal,2019-07-27,0.0,49.338530470819805,ridge
+Portugal,2019-07-28,0.0,67.13112472426111,ridge
+Portugal,2019-07-29,0.0,82.38705974996628,ridge
+Portugal,2019-07-30,0.0,81.80993077569974,ridge
+Portugal,2019-07-31,1.25,68.21128198964438,ridge
+Portugal,2019-07-02,0.0,5.6819228848368555,random_forest
+Portugal,2019-07-03,0.0,20.045794133771924,random_forest
+Portugal,2019-07-04,0.0,14.863414286953258,random_forest
+Portugal,2019-07-05,0.0,12.214113648614093,random_forest
+Portugal,2019-07-06,0.0,9.621067077784504,random_forest
+Portugal,2019-07-07,0.0,8.068693565879743,random_forest
+Portugal,2019-07-08,0.0,252.959554654444,random_forest
+Portugal,2019-07-09,0.0,9.81226273148148,random_forest
+Portugal,2019-07-10,150.72,19.44738392857143,random_forest
+Portugal,2019-07-11,0.0,5.5754761404147155,random_forest
+Portugal,2019-07-12,0.0,1.199322866605193,random_forest
+Portugal,2019-07-13,0.0,1.186432241605193,random_forest
+Portugal,2019-07-14,0.0,1.9318959512826117,random_forest
+Portugal,2019-07-15,0.0,246.790189812148,random_forest
+Portugal,2019-07-16,0.0,7.285109953703704,random_forest
+Portugal,2019-07-17,49.49,17.368442956349202,random_forest
+Portugal,2019-07-18,0.0,2.4851176774730885,random_forest
+Portugal,2019-07-19,0.0,0.4299116668041289,random_forest
+Portugal,2019-07-20,0.0,0.3607391039110471,random_forest
+Portugal,2019-07-21,0.0,0.3607391039110471,random_forest
+Portugal,2019-07-22,0.0,256.97530109126984,random_forest
+Portugal,2019-07-23,0.0,9.737422453703704,random_forest
+Portugal,2019-07-24,0.0,18.215732142857135,random_forest
+Portugal,2019-07-25,0.0,2.304007544019049,random_forest
+Portugal,2019-07-26,0.0,1.2962989604317994,random_forest
+Portugal,2019-07-27,0.0,0.6781680642053844,random_forest
+Portugal,2019-07-28,0.0,0.6781680642053844,random_forest
+Portugal,2019-07-29,0.0,257.178287202381,random_forest
+Portugal,2019-07-30,0.0,11.577211640211642,random_forest
+Portugal,2019-07-31,1.25,23.18782688492063,random_forest
+Portugal,2019-07-02,0.0,0.0,seasonal_naive
+Portugal,2019-07-03,0.0,0.0,seasonal_naive
+Portugal,2019-07-04,0.0,0.0,seasonal_naive
+Portugal,2019-07-05,0.0,0.0,seasonal_naive
+Portugal,2019-07-06,0.0,0.0,seasonal_naive
+Portugal,2019-07-07,0.0,0.0,seasonal_naive
+Portugal,2019-07-08,0.0,0.0,seasonal_naive
+Portugal,2019-07-09,0.0,0.0,seasonal_naive
+Portugal,2019-07-10,150.72,0.0,seasonal_naive
+Portugal,2019-07-11,0.0,0.0,seasonal_naive
+Portugal,2019-07-12,0.0,0.0,seasonal_naive
+Portugal,2019-07-13,0.0,0.0,seasonal_naive
+Portugal,2019-07-14,0.0,0.0,seasonal_naive
+Portugal,2019-07-15,0.0,0.0,seasonal_naive
+Portugal,2019-07-16,0.0,0.0,seasonal_naive
+Portugal,2019-07-17,49.49,0.0,seasonal_naive
+Portugal,2019-07-18,0.0,0.0,seasonal_naive
+Portugal,2019-07-19,0.0,0.0,seasonal_naive
+Portugal,2019-07-20,0.0,0.0,seasonal_naive
+Portugal,2019-07-21,0.0,0.0,seasonal_naive
+Portugal,2019-07-22,0.0,0.0,seasonal_naive
+Portugal,2019-07-23,0.0,0.0,seasonal_naive
+Portugal,2019-07-24,0.0,0.0,seasonal_naive
+Portugal,2019-07-25,0.0,0.0,seasonal_naive
+Portugal,2019-07-26,0.0,0.0,seasonal_naive
+Portugal,2019-07-27,0.0,0.0,seasonal_naive
+Portugal,2019-07-28,0.0,0.0,seasonal_naive
+Portugal,2019-07-29,0.0,0.0,seasonal_naive
+Portugal,2019-07-30,0.0,0.0,seasonal_naive
+Portugal,2019-07-31,1.25,0.0,seasonal_naive
+RSA,2019-07-02,0.0,12.008556569015369,ridge
+RSA,2019-07-03,0.0,3.86100604092175,ridge
+RSA,2019-07-04,0.0,0.0,ridge
+RSA,2019-07-05,0.0,0.0,ridge
+RSA,2019-07-06,0.0,3.936181000135143,ridge
+RSA,2019-07-07,0.0,12.591259202926508,ridge
+RSA,2019-07-08,0.0,16.79874309398555,ridge
+RSA,2019-07-09,0.0,13.48374444064904,ridge
+RSA,2019-07-10,0.0,5.497993787167925,ridge
+RSA,2019-07-11,0.0,0.0,ridge
+RSA,2019-07-12,0.0,0.0,ridge
+RSA,2019-07-13,0.0,5.591359296697661,ridge
+RSA,2019-07-14,0.0,14.124177526681134,ridge
+RSA,2019-07-15,0.0,18.21815608164035,ridge
+RSA,2019-07-16,0.0,14.918557777146017,ridge
+RSA,2019-07-17,0.0,6.957698467095678,ridge
+RSA,2019-07-18,0.0,0.4104850893028793,ridge
+RSA,2019-07-19,0.0,0.3872380586429891,ridge
+RSA,2019-07-20,0.0,7.066396319785571,ridge
+RSA,2019-07-21,0.0,15.550224944958057,ridge
+RSA,2019-07-22,0.0,19.62280975859572,ridge
+RSA,2019-07-23,0.0,16.374050323239288,ridge
+RSA,2019-07-24,0.0,8.404108363113886,ridge
+RSA,2019-07-25,0.0,1.865476570793061,ridge
+RSA,2019-07-26,0.0,1.8398098060921644,ridge
+RSA,2019-07-27,0.0,8.498587491256968,ridge
+RSA,2019-07-28,0.0,16.973356259135386,ridge
+RSA,2019-07-29,0.0,21.036209125500775,ridge
+RSA,2019-07-30,0.0,17.734518350229806,ridge
+RSA,2019-07-31,0.0,9.880486858554377,ridge
+RSA,2019-07-02,0.0,0.0,random_forest
+RSA,2019-07-03,0.0,0.0,random_forest
+RSA,2019-07-04,0.0,0.0,random_forest
+RSA,2019-07-05,0.0,0.0,random_forest
+RSA,2019-07-06,0.0,0.0,random_forest
+RSA,2019-07-07,0.0,0.0,random_forest
+RSA,2019-07-08,0.0,0.0,random_forest
+RSA,2019-07-09,0.0,0.0,random_forest
+RSA,2019-07-10,0.0,0.0,random_forest
+RSA,2019-07-11,0.0,0.0,random_forest
+RSA,2019-07-12,0.0,0.0,random_forest
+RSA,2019-07-13,0.0,0.0,random_forest
+RSA,2019-07-14,0.0,0.0,random_forest
+RSA,2019-07-15,0.0,0.0,random_forest
+RSA,2019-07-16,0.0,0.0,random_forest
+RSA,2019-07-17,0.0,0.0,random_forest
+RSA,2019-07-18,0.0,0.0,random_forest
+RSA,2019-07-19,0.0,0.0,random_forest
+RSA,2019-07-20,0.0,0.0,random_forest
+RSA,2019-07-21,0.0,0.0,random_forest
+RSA,2019-07-22,0.0,0.0,random_forest
+RSA,2019-07-23,0.0,0.0,random_forest
+RSA,2019-07-24,0.0,0.0,random_forest
+RSA,2019-07-25,0.0,0.0,random_forest
+RSA,2019-07-26,0.0,0.0,random_forest
+RSA,2019-07-27,0.0,0.0,random_forest
+RSA,2019-07-28,0.0,0.0,random_forest
+RSA,2019-07-29,0.0,0.0,random_forest
+RSA,2019-07-30,0.0,0.0,random_forest
+RSA,2019-07-31,0.0,0.0,random_forest
+RSA,2019-07-02,0.0,0.0,seasonal_naive
+RSA,2019-07-03,0.0,0.0,seasonal_naive
+RSA,2019-07-04,0.0,0.0,seasonal_naive
+RSA,2019-07-05,0.0,0.0,seasonal_naive
+RSA,2019-07-06,0.0,0.0,seasonal_naive
+RSA,2019-07-07,0.0,0.0,seasonal_naive
+RSA,2019-07-08,0.0,0.0,seasonal_naive
+RSA,2019-07-09,0.0,0.0,seasonal_naive
+RSA,2019-07-10,0.0,0.0,seasonal_naive
+RSA,2019-07-11,0.0,0.0,seasonal_naive
+RSA,2019-07-12,0.0,0.0,seasonal_naive
+RSA,2019-07-13,0.0,0.0,seasonal_naive
+RSA,2019-07-14,0.0,0.0,seasonal_naive
+RSA,2019-07-15,0.0,0.0,seasonal_naive
+RSA,2019-07-16,0.0,0.0,seasonal_naive
+RSA,2019-07-17,0.0,0.0,seasonal_naive
+RSA,2019-07-18,0.0,0.0,seasonal_naive
+RSA,2019-07-19,0.0,0.0,seasonal_naive
+RSA,2019-07-20,0.0,0.0,seasonal_naive
+RSA,2019-07-21,0.0,0.0,seasonal_naive
+RSA,2019-07-22,0.0,0.0,seasonal_naive
+RSA,2019-07-23,0.0,0.0,seasonal_naive
+RSA,2019-07-24,0.0,0.0,seasonal_naive
+RSA,2019-07-25,0.0,0.0,seasonal_naive
+RSA,2019-07-26,0.0,0.0,seasonal_naive
+RSA,2019-07-27,0.0,0.0,seasonal_naive
+RSA,2019-07-28,0.0,0.0,seasonal_naive
+RSA,2019-07-29,0.0,0.0,seasonal_naive
+RSA,2019-07-30,0.0,0.0,seasonal_naive
+RSA,2019-07-31,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-02,0.0,0.03108120800658823,ridge
+Saudi Arabia,2019-07-03,0.0,0.09462445625180559,ridge
+Saudi Arabia,2019-07-04,0.0,0.12204373654065538,ridge
+Saudi Arabia,2019-07-05,0.0,0.09211852097874305,ridge
+Saudi Arabia,2019-07-06,0.0,0.026731798167865792,ridge
+Saudi Arabia,2019-07-07,0.0,0.0,ridge
+Saudi Arabia,2019-07-08,0.0,0.0,ridge
+Saudi Arabia,2019-07-09,0.0,0.028963762712563026,ridge
+Saudi Arabia,2019-07-10,0.0,0.10103505057047905,ridge
+Saudi Arabia,2019-07-11,0.0,0.13227546613713936,ridge
+Saudi Arabia,2019-07-12,0.0,0.09871428261538841,ridge
+Saudi Arabia,2019-07-13,0.0,0.02504668562386432,ridge
+Saudi Arabia,2019-07-14,0.0,0.0,ridge
+Saudi Arabia,2019-07-15,0.0,0.0,ridge
+Saudi Arabia,2019-07-16,0.0,0.02322451917824503,ridge
+Saudi Arabia,2019-07-17,0.0,0.09503257675267117,ridge
+Saudi Arabia,2019-07-18,0.0,0.1262792740972558,ridge
+Saudi Arabia,2019-07-19,0.0,0.09317246681882364,ridge
+Saudi Arabia,2019-07-20,0.0,0.020217766427600856,ridge
+Saudi Arabia,2019-07-21,0.0,0.0,ridge
+Saudi Arabia,2019-07-22,0.0,0.0,ridge
+Saudi Arabia,2019-07-23,0.0,0.019008937596115688,ridge
+Saudi Arabia,2019-07-24,0.0,0.09075025931256069,ridge
+Saudi Arabia,2019-07-25,0.0,0.12206357168028618,ridge
+Saudi Arabia,2019-07-26,0.0,0.08926664005416275,ridge
+Saudi Arabia,2019-07-27,0.0,0.016769726991007566,ridge
+Saudi Arabia,2019-07-28,0.0,0.0,ridge
+Saudi Arabia,2019-07-29,0.0,0.0,ridge
+Saudi Arabia,2019-07-30,0.0,0.01595541911371924,ridge
+Saudi Arabia,2019-07-31,0.0,0.08749254516820186,ridge
+Saudi Arabia,2019-07-02,0.0,0.0,random_forest
+Saudi Arabia,2019-07-03,0.0,0.0,random_forest
+Saudi Arabia,2019-07-04,0.0,0.0,random_forest
+Saudi Arabia,2019-07-05,0.0,0.0,random_forest
+Saudi Arabia,2019-07-06,0.0,0.0,random_forest
+Saudi Arabia,2019-07-07,0.0,0.0,random_forest
+Saudi Arabia,2019-07-08,0.0,0.0,random_forest
+Saudi Arabia,2019-07-09,0.0,0.0,random_forest
+Saudi Arabia,2019-07-10,0.0,0.0,random_forest
+Saudi Arabia,2019-07-11,0.0,0.0,random_forest
+Saudi Arabia,2019-07-12,0.0,0.0,random_forest
+Saudi Arabia,2019-07-13,0.0,0.0,random_forest
+Saudi Arabia,2019-07-14,0.0,0.0,random_forest
+Saudi Arabia,2019-07-15,0.0,0.0,random_forest
+Saudi Arabia,2019-07-16,0.0,0.0,random_forest
+Saudi Arabia,2019-07-17,0.0,0.0,random_forest
+Saudi Arabia,2019-07-18,0.0,0.0,random_forest
+Saudi Arabia,2019-07-19,0.0,0.0,random_forest
+Saudi Arabia,2019-07-20,0.0,0.0,random_forest
+Saudi Arabia,2019-07-21,0.0,0.0,random_forest
+Saudi Arabia,2019-07-22,0.0,0.0,random_forest
+Saudi Arabia,2019-07-23,0.0,0.0,random_forest
+Saudi Arabia,2019-07-24,0.0,0.0,random_forest
+Saudi Arabia,2019-07-25,0.0,0.0,random_forest
+Saudi Arabia,2019-07-26,0.0,0.0,random_forest
+Saudi Arabia,2019-07-27,0.0,0.0,random_forest
+Saudi Arabia,2019-07-28,0.0,0.0,random_forest
+Saudi Arabia,2019-07-29,0.0,0.0,random_forest
+Saudi Arabia,2019-07-30,0.0,0.0,random_forest
+Saudi Arabia,2019-07-31,0.0,0.0,random_forest
+Saudi Arabia,2019-07-02,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-03,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-04,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-05,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-06,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-07,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-08,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-09,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-10,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-11,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-12,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-13,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-14,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-15,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-16,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-17,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-18,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-19,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-20,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-21,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-22,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-23,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-24,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-25,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-26,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-27,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-28,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-29,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-30,0.0,0.0,seasonal_naive
+Saudi Arabia,2019-07-31,0.0,0.0,seasonal_naive
+Singapore,2019-07-02,0.0,95.05641857077784,ridge
+Singapore,2019-07-03,0.0,56.94743541688739,ridge
+Singapore,2019-07-04,0.0,24.498701562503086,ridge
+Singapore,2019-07-05,0.0,22.12704604860592,ridge
+Singapore,2019-07-06,0.0,50.85319917777751,ridge
+Singapore,2019-07-07,0.0,88.28203493183793,ridge
+Singapore,2019-07-08,0.0,105.47180719457872,ridge
+Singapore,2019-07-09,0.0,88.24357397438489,ridge
+Singapore,2019-07-10,0.0,49.549435013710095,ridge
+Singapore,2019-07-11,0.0,17.282039143256803,ridge
+Singapore,2019-07-12,0.0,14.96997364681171,ridge
+Singapore,2019-07-13,0.0,43.59944951731603,ridge
+Singapore,2019-07-14,0.0,80.86538079408871,ridge
+Singapore,2019-07-15,230.46,97.96760691428015,ridge
+Singapore,2019-07-16,0.0,80.89270761241808,ridge
+Singapore,2019-07-17,0.0,42.446106679892935,ridge
+Singapore,2019-07-18,0.0,10.399006472816396,ridge
+Singapore,2019-07-19,0.0,8.178492364670817,ridge
+Singapore,2019-07-20,0.0,36.76684637005626,ridge
+Singapore,2019-07-21,0.0,73.955607604239,ridge
+Singapore,2019-07-22,0.0,91.06902176164566,ridge
+Singapore,2019-07-23,0.0,74.56170219282362,ridge
+Singapore,2019-07-24,0.0,36.20419738261826,ridge
+Singapore,2019-07-25,0.0,4.240448023467607,ridge
+Singapore,2019-07-26,0.0,2.105131473606832,ridge
+Singapore,2019-07-27,0.0,30.78082886967647,ridge
+Singapore,2019-07-28,0.0,68.05828263338692,ridge
+Singapore,2019-07-29,0.0,85.26049912369393,ridge
+Singapore,2019-07-30,0.0,68.43708702474946,ridge
+Singapore,2019-07-31,0.0,31.051234827608383,ridge
+Singapore,2019-07-02,0.0,0.0,random_forest
+Singapore,2019-07-03,0.0,0.0,random_forest
+Singapore,2019-07-04,0.0,0.0,random_forest
+Singapore,2019-07-05,0.0,0.0,random_forest
+Singapore,2019-07-06,0.0,0.0,random_forest
+Singapore,2019-07-07,0.0,0.0,random_forest
+Singapore,2019-07-08,0.0,0.0,random_forest
+Singapore,2019-07-09,0.0,0.0,random_forest
+Singapore,2019-07-10,0.0,0.0,random_forest
+Singapore,2019-07-11,0.0,0.0,random_forest
+Singapore,2019-07-12,0.0,0.0,random_forest
+Singapore,2019-07-13,0.0,0.0,random_forest
+Singapore,2019-07-14,0.0,0.0,random_forest
+Singapore,2019-07-15,230.46,0.0,random_forest
+Singapore,2019-07-16,0.0,0.0,random_forest
+Singapore,2019-07-17,0.0,0.0,random_forest
+Singapore,2019-07-18,0.0,0.0,random_forest
+Singapore,2019-07-19,0.0,0.0,random_forest
+Singapore,2019-07-20,0.0,0.0,random_forest
+Singapore,2019-07-21,0.0,0.0,random_forest
+Singapore,2019-07-22,0.0,0.0,random_forest
+Singapore,2019-07-23,0.0,0.0,random_forest
+Singapore,2019-07-24,0.0,0.0,random_forest
+Singapore,2019-07-25,0.0,0.0,random_forest
+Singapore,2019-07-26,0.0,0.0,random_forest
+Singapore,2019-07-27,0.0,0.0,random_forest
+Singapore,2019-07-28,0.0,0.0,random_forest
+Singapore,2019-07-29,0.0,0.0,random_forest
+Singapore,2019-07-30,0.0,0.0,random_forest
+Singapore,2019-07-31,0.0,0.0,random_forest
+Singapore,2019-07-02,0.0,0.0,seasonal_naive
+Singapore,2019-07-03,0.0,0.0,seasonal_naive
+Singapore,2019-07-04,0.0,0.0,seasonal_naive
+Singapore,2019-07-05,0.0,0.0,seasonal_naive
+Singapore,2019-07-06,0.0,0.0,seasonal_naive
+Singapore,2019-07-07,0.0,0.0,seasonal_naive
+Singapore,2019-07-08,0.0,0.0,seasonal_naive
+Singapore,2019-07-09,0.0,0.0,seasonal_naive
+Singapore,2019-07-10,0.0,0.0,seasonal_naive
+Singapore,2019-07-11,0.0,0.0,seasonal_naive
+Singapore,2019-07-12,0.0,0.0,seasonal_naive
+Singapore,2019-07-13,0.0,0.0,seasonal_naive
+Singapore,2019-07-14,0.0,0.0,seasonal_naive
+Singapore,2019-07-15,230.46,0.0,seasonal_naive
+Singapore,2019-07-16,0.0,0.0,seasonal_naive
+Singapore,2019-07-17,0.0,0.0,seasonal_naive
+Singapore,2019-07-18,0.0,0.0,seasonal_naive
+Singapore,2019-07-19,0.0,0.0,seasonal_naive
+Singapore,2019-07-20,0.0,0.0,seasonal_naive
+Singapore,2019-07-21,0.0,0.0,seasonal_naive
+Singapore,2019-07-22,0.0,0.0,seasonal_naive
+Singapore,2019-07-23,0.0,0.0,seasonal_naive
+Singapore,2019-07-24,0.0,0.0,seasonal_naive
+Singapore,2019-07-25,0.0,0.0,seasonal_naive
+Singapore,2019-07-26,0.0,0.0,seasonal_naive
+Singapore,2019-07-27,0.0,0.0,seasonal_naive
+Singapore,2019-07-28,0.0,0.0,seasonal_naive
+Singapore,2019-07-29,0.0,0.0,seasonal_naive
+Singapore,2019-07-30,0.0,0.0,seasonal_naive
+Singapore,2019-07-31,0.0,0.0,seasonal_naive
+Spain,2019-07-02,0.0,18.235667874502894,ridge
+Spain,2019-07-03,42.5,30.89878814708907,ridge
+Spain,2019-07-04,139.0,25.420899953160543,ridge
+Spain,2019-07-05,0.0,7.063287801035553,ridge
+Spain,2019-07-06,0.0,0.0,ridge
+Spain,2019-07-07,0.0,0.0,ridge
+Spain,2019-07-08,180.74,0.0,ridge
+Spain,2019-07-09,0.0,18.737582081526746,ridge
+Spain,2019-07-10,0.0,29.952779251823976,ridge
+Spain,2019-07-11,0.0,24.35089002309115,ridge
+Spain,2019-07-12,0.0,6.463234755967779,ridge
+Spain,2019-07-13,0.0,0.0,ridge
+Spain,2019-07-14,0.0,0.0,ridge
+Spain,2019-07-15,0.0,0.0,ridge
+Spain,2019-07-16,0.0,17.641587608460423,ridge
+Spain,2019-07-17,45.09,28.4026568681993,ridge
+Spain,2019-07-18,0.0,23.562520421447914,ridge
+Spain,2019-07-19,0.0,6.841792507508554,ridge
+Spain,2019-07-20,0.0,0.0,ridge
+Spain,2019-07-21,0.0,0.0,ridge
+Spain,2019-07-22,164.82999999999998,0.0,ridge
+Spain,2019-07-23,0.0,18.82636356525148,ridge
+Spain,2019-07-24,0.0,29.723789015228398,ridge
+Spain,2019-07-25,45.4,24.941879665764365,ridge
+Spain,2019-07-26,0.0,8.22723776037419,ridge
+Spain,2019-07-27,0.0,0.0,ridge
+Spain,2019-07-28,0.0,0.0,ridge
+Spain,2019-07-29,0.0,1.5655017345212237,ridge
+Spain,2019-07-30,0.0,20.380641928080536,ridge
+Spain,2019-07-31,0.0,31.24831599345461,ridge
+Spain,2019-07-02,0.0,8.745799605291625,random_forest
+Spain,2019-07-03,42.5,10.382878308995325,random_forest
+Spain,2019-07-04,139.0,19.308069633488607,random_forest
+Spain,2019-07-05,0.0,28.96100444654405,random_forest
+Spain,2019-07-06,0.0,26.416075810185188,random_forest
+Spain,2019-07-07,0.0,23.626516451719578,random_forest
+Spain,2019-07-08,180.74,17.280193708067774,random_forest
+Spain,2019-07-09,0.0,10.979876656020856,random_forest
+Spain,2019-07-10,0.0,12.616955359724559,random_forest
+Spain,2019-07-11,0.0,21.351561862789268,random_forest
+Spain,2019-07-12,0.0,44.654329164247905,random_forest
+Spain,2019-07-13,0.0,26.416075810185188,random_forest
+Spain,2019-07-14,0.0,32.48535532407407,random_forest
+Spain,2019-07-15,0.0,42.24934308151041,random_forest
+Spain,2019-07-16,0.0,41.24213523384725,random_forest
+Spain,2019-07-17,45.09,36.613240888609155,random_forest
+Spain,2019-07-18,0.0,45.14832986035578,random_forest
+Spain,2019-07-19,0.0,24.795768013494495,random_forest
+Spain,2019-07-20,0.0,27.9221923776455,random_forest
+Spain,2019-07-21,0.0,31.663108052248674,random_forest
+Spain,2019-07-22,164.82999999999998,23.323198574876784,random_forest
+Spain,2019-07-23,0.0,13.355449046593248,random_forest
+Spain,2019-07-24,0.0,14.395664324371024,random_forest
+Spain,2019-07-25,45.4,27.19074783976845,random_forest
+Spain,2019-07-26,0.0,18.51023720514844,random_forest
+Spain,2019-07-27,0.0,28.889416335978826,random_forest
+Spain,2019-07-28,0.0,26.959247788525133,random_forest
+Spain,2019-07-29,0.0,20.209124419346516,random_forest
+Spain,2019-07-30,0.0,15.138314812865035,random_forest
+Spain,2019-07-31,0.0,15.011219905457624,random_forest
+Spain,2019-07-02,0.0,0.0,seasonal_naive
+Spain,2019-07-03,42.5,0.0,seasonal_naive
+Spain,2019-07-04,139.0,0.0,seasonal_naive
+Spain,2019-07-05,0.0,0.0,seasonal_naive
+Spain,2019-07-06,0.0,0.0,seasonal_naive
+Spain,2019-07-07,0.0,0.0,seasonal_naive
+Spain,2019-07-08,180.74,30.07,seasonal_naive
+Spain,2019-07-09,0.0,0.0,seasonal_naive
+Spain,2019-07-10,0.0,0.0,seasonal_naive
+Spain,2019-07-11,0.0,0.0,seasonal_naive
+Spain,2019-07-12,0.0,0.0,seasonal_naive
+Spain,2019-07-13,0.0,0.0,seasonal_naive
+Spain,2019-07-14,0.0,0.0,seasonal_naive
+Spain,2019-07-15,0.0,30.07,seasonal_naive
+Spain,2019-07-16,0.0,0.0,seasonal_naive
+Spain,2019-07-17,45.09,0.0,seasonal_naive
+Spain,2019-07-18,0.0,0.0,seasonal_naive
+Spain,2019-07-19,0.0,0.0,seasonal_naive
+Spain,2019-07-20,0.0,0.0,seasonal_naive
+Spain,2019-07-21,0.0,0.0,seasonal_naive
+Spain,2019-07-22,164.82999999999998,30.07,seasonal_naive
+Spain,2019-07-23,0.0,0.0,seasonal_naive
+Spain,2019-07-24,0.0,0.0,seasonal_naive
+Spain,2019-07-25,45.4,0.0,seasonal_naive
+Spain,2019-07-26,0.0,0.0,seasonal_naive
+Spain,2019-07-27,0.0,0.0,seasonal_naive
+Spain,2019-07-28,0.0,0.0,seasonal_naive
+Spain,2019-07-29,0.0,30.07,seasonal_naive
+Spain,2019-07-30,0.0,0.0,seasonal_naive
+Spain,2019-07-31,0.0,0.0,seasonal_naive
+Sweden,2019-07-02,0.0,18.46992265787427,ridge
+Sweden,2019-07-03,38.09,22.08236307929515,ridge
+Sweden,2019-07-04,0.0,15.033620470239352,ridge
+Sweden,2019-07-05,0.0,1.651675541299113,ridge
+Sweden,2019-07-06,0.0,0.0,ridge
+Sweden,2019-07-07,0.0,0.0,ridge
+Sweden,2019-07-08,0.0,5.619472488541941,ridge
+Sweden,2019-07-09,0.0,17.44415646516043,ridge
+Sweden,2019-07-10,0.0,20.88128715269258,ridge
+Sweden,2019-07-11,0.0,13.217881641427166,ridge
+Sweden,2019-07-12,0.0,0.06710867307320711,ridge
+Sweden,2019-07-13,0.0,0.0,ridge
+Sweden,2019-07-14,0.0,0.0,ridge
+Sweden,2019-07-15,0.0,3.8588390825765693,ridge
+Sweden,2019-07-16,0.0,15.90082661964226,ridge
+Sweden,2019-07-17,0.0,19.358397150192044,ridge
+Sweden,2019-07-18,0.0,11.264476147230766,ridge
+Sweden,2019-07-19,0.0,0.0,ridge
+Sweden,2019-07-20,0.0,0.0,ridge
+Sweden,2019-07-21,0.0,0.0,ridge
+Sweden,2019-07-22,0.0,2.9029421218014555,ridge
+Sweden,2019-07-23,0.0,14.913469897550858,ridge
+Sweden,2019-07-24,0.0,18.37295485605014,ridge
+Sweden,2019-07-25,0.0,10.670168473253593,ridge
+Sweden,2019-07-26,0.0,0.0,ridge
+Sweden,2019-07-27,0.0,0.0,ridge
+Sweden,2019-07-28,130.77,0.0,ridge
+Sweden,2019-07-29,0.0,1.134280574785528,ridge
+Sweden,2019-07-30,0.0,13.093282915415305,ridge
+Sweden,2019-07-31,0.0,16.690511277313938,ridge
+Sweden,2019-07-02,0.0,3.5915962396304786,random_forest
+Sweden,2019-07-03,38.09,6.385285223574932,random_forest
+Sweden,2019-07-04,0.0,64.82790921933092,random_forest
+Sweden,2019-07-05,0.0,1.384415381851487,random_forest
+Sweden,2019-07-06,0.0,0.790700278312206,random_forest
+Sweden,2019-07-07,0.0,0.7698341066383598,random_forest
+Sweden,2019-07-08,0.0,2.313445217749471,random_forest
+Sweden,2019-07-09,0.0,3.6278455918662185,random_forest
+Sweden,2019-07-10,0.0,6.5022694195850415,random_forest
+Sweden,2019-07-11,0.0,7.369531618623973,random_forest
+Sweden,2019-07-12,0.0,6.340337504867359,random_forest
+Sweden,2019-07-13,0.0,3.4969642001872394,random_forest
+Sweden,2019-07-14,0.0,2.022868861846726,random_forest
+Sweden,2019-07-15,0.0,3.8963046714337284,random_forest
+Sweden,2019-07-16,0.0,19.978842929603292,random_forest
+Sweden,2019-07-17,0.0,19.82085739044086,random_forest
+Sweden,2019-07-18,0.0,248.61452113858368,random_forest
+Sweden,2019-07-19,0.0,21.000709516081177,random_forest
+Sweden,2019-07-20,0.0,17.53636788430291,random_forest
+Sweden,2019-07-21,0.0,16.76577760652513,random_forest
+Sweden,2019-07-22,0.0,20.45060647557275,random_forest
+Sweden,2019-07-23,0.0,21.778916457567643,random_forest
+Sweden,2019-07-24,0.0,22.067242690826337,random_forest
+Sweden,2019-07-25,0.0,23.768633197242576,random_forest
+Sweden,2019-07-26,0.0,59.9273341059336,random_forest
+Sweden,2019-07-27,0.0,22.60159048525078,random_forest
+Sweden,2019-07-28,130.77,23.210934235250786,random_forest
+Sweden,2019-07-29,0.0,23.620582120351788,random_forest
+Sweden,2019-07-30,0.0,20.177878747335914,random_forest
+Sweden,2019-07-31,0.0,21.002930190826337,random_forest
+Sweden,2019-07-02,0.0,0.0,seasonal_naive
+Sweden,2019-07-03,38.09,0.0,seasonal_naive
+Sweden,2019-07-04,0.0,0.0,seasonal_naive
+Sweden,2019-07-05,0.0,0.0,seasonal_naive
+Sweden,2019-07-06,0.0,0.0,seasonal_naive
+Sweden,2019-07-07,0.0,0.0,seasonal_naive
+Sweden,2019-07-08,0.0,0.0,seasonal_naive
+Sweden,2019-07-09,0.0,0.0,seasonal_naive
+Sweden,2019-07-10,0.0,0.0,seasonal_naive
+Sweden,2019-07-11,0.0,0.0,seasonal_naive
+Sweden,2019-07-12,0.0,0.0,seasonal_naive
+Sweden,2019-07-13,0.0,0.0,seasonal_naive
+Sweden,2019-07-14,0.0,0.0,seasonal_naive
+Sweden,2019-07-15,0.0,0.0,seasonal_naive
+Sweden,2019-07-16,0.0,0.0,seasonal_naive
+Sweden,2019-07-17,0.0,0.0,seasonal_naive
+Sweden,2019-07-18,0.0,0.0,seasonal_naive
+Sweden,2019-07-19,0.0,0.0,seasonal_naive
+Sweden,2019-07-20,0.0,0.0,seasonal_naive
+Sweden,2019-07-21,0.0,0.0,seasonal_naive
+Sweden,2019-07-22,0.0,0.0,seasonal_naive
+Sweden,2019-07-23,0.0,0.0,seasonal_naive
+Sweden,2019-07-24,0.0,0.0,seasonal_naive
+Sweden,2019-07-25,0.0,0.0,seasonal_naive
+Sweden,2019-07-26,0.0,0.0,seasonal_naive
+Sweden,2019-07-27,0.0,0.0,seasonal_naive
+Sweden,2019-07-28,130.77,0.0,seasonal_naive
+Sweden,2019-07-29,0.0,0.0,seasonal_naive
+Sweden,2019-07-30,0.0,0.0,seasonal_naive
+Sweden,2019-07-31,0.0,0.0,seasonal_naive
+Switzerland,2019-07-02,0.0,25.22477750697752,ridge
+Switzerland,2019-07-03,0.0,26.295725317847058,ridge
+Switzerland,2019-07-04,0.0,25.861496798553908,ridge
+Switzerland,2019-07-05,109.06,16.200001361798755,ridge
+Switzerland,2019-07-06,0.0,14.111937102560754,ridge
+Switzerland,2019-07-07,0.0,17.140864091470206,ridge
+Switzerland,2019-07-08,0.0,18.99438512852594,ridge
+Switzerland,2019-07-09,0.0,28.178811396724115,ridge
+Switzerland,2019-07-10,0.0,31.58584043783481,ridge
+Switzerland,2019-07-11,0.0,28.53885334968303,ridge
+Switzerland,2019-07-12,0.85,22.528750210780604,ridge
+Switzerland,2019-07-13,0.0,14.99476977313872,ridge
+Switzerland,2019-07-14,108.51,15.001760364647652,ridge
+Switzerland,2019-07-15,0.0,20.770458284054477,ridge
+Switzerland,2019-07-16,0.0,29.273133088582654,ridge
+Switzerland,2019-07-17,0.0,32.81884018479755,ridge
+Switzerland,2019-07-18,0.0,29.626303156357018,ridge
+Switzerland,2019-07-19,0.0,19.59652003021784,ridge
+Switzerland,2019-07-20,0.0,16.049756446955424,ridge
+Switzerland,2019-07-21,0.0,13.0378135282315,ridge
+Switzerland,2019-07-22,99.41,22.518840166975853,ridge
+Switzerland,2019-07-23,126.58,30.408195465301752,ridge
+Switzerland,2019-07-24,0.0,34.03574001468224,ridge
+Switzerland,2019-07-25,0.0,30.74057146574937,ridge
+Switzerland,2019-07-26,0.0,21.502241264251175,ridge
+Switzerland,2019-07-27,0.0,16.932320730693217,ridge
+Switzerland,2019-07-28,156.95,16.619320889044367,ridge
+Switzerland,2019-07-29,0.0,22.915862194359384,ridge
+Switzerland,2019-07-30,667.94,30.024252398576067,ridge
+Switzerland,2019-07-31,4.15,33.7632164221689,ridge
+Switzerland,2019-07-02,0.0,21.075361187784534,random_forest
+Switzerland,2019-07-03,0.0,36.47677348988128,random_forest
+Switzerland,2019-07-04,0.0,27.227331793060415,random_forest
+Switzerland,2019-07-05,109.06,74.32469141101953,random_forest
+Switzerland,2019-07-06,0.0,6.350770276115253,random_forest
+Switzerland,2019-07-07,0.0,63.681387049475546,random_forest
+Switzerland,2019-07-08,0.0,15.82944313323548,random_forest
+Switzerland,2019-07-09,0.0,12.741711308818964,random_forest
+Switzerland,2019-07-10,0.0,11.285666169930074,random_forest
+Switzerland,2019-07-11,0.0,22.923615306985297,random_forest
+Switzerland,2019-07-12,0.85,29.18170223046381,random_forest
+Switzerland,2019-07-13,0.0,8.6602135205784,random_forest
+Switzerland,2019-07-14,108.51,6.9915397152170975,random_forest
+Switzerland,2019-07-15,0.0,11.846656188076103,random_forest
+Switzerland,2019-07-16,0.0,14.447924625418992,random_forest
+Switzerland,2019-07-17,0.0,15.588581186809925,random_forest
+Switzerland,2019-07-18,0.0,21.85625315771152,random_forest
+Switzerland,2019-07-19,0.0,69.30358888541333,random_forest
+Switzerland,2019-07-20,0.0,24.29295650459726,random_forest
+Switzerland,2019-07-21,0.0,23.516095621563395,random_forest
+Switzerland,2019-07-22,99.41,14.408291948381931,random_forest
+Switzerland,2019-07-23,126.58,15.760108798320104,random_forest
+Switzerland,2019-07-24,0.0,15.19069718215849,random_forest
+Switzerland,2019-07-25,0.0,25.36969390120453,random_forest
+Switzerland,2019-07-26,0.0,33.53215929690525,random_forest
+Switzerland,2019-07-27,0.0,35.4461522141716,random_forest
+Switzerland,2019-07-28,156.95,32.50631989507903,random_forest
+Switzerland,2019-07-29,0.0,35.090047625934496,random_forest
+Switzerland,2019-07-30,667.94,36.8975978856217,random_forest
+Switzerland,2019-07-31,4.15,33.80183210279342,random_forest
+Switzerland,2019-07-02,0.0,0.0,seasonal_naive
+Switzerland,2019-07-03,0.0,0.0,seasonal_naive
+Switzerland,2019-07-04,0.0,0.0,seasonal_naive
+Switzerland,2019-07-05,109.06,47.55,seasonal_naive
+Switzerland,2019-07-06,0.0,0.0,seasonal_naive
+Switzerland,2019-07-07,0.0,0.0,seasonal_naive
+Switzerland,2019-07-08,0.0,0.0,seasonal_naive
+Switzerland,2019-07-09,0.0,0.0,seasonal_naive
+Switzerland,2019-07-10,0.0,0.0,seasonal_naive
+Switzerland,2019-07-11,0.0,0.0,seasonal_naive
+Switzerland,2019-07-12,0.85,47.55,seasonal_naive
+Switzerland,2019-07-13,0.0,0.0,seasonal_naive
+Switzerland,2019-07-14,108.51,0.0,seasonal_naive
+Switzerland,2019-07-15,0.0,0.0,seasonal_naive
+Switzerland,2019-07-16,0.0,0.0,seasonal_naive
+Switzerland,2019-07-17,0.0,0.0,seasonal_naive
+Switzerland,2019-07-18,0.0,0.0,seasonal_naive
+Switzerland,2019-07-19,0.0,47.55,seasonal_naive
+Switzerland,2019-07-20,0.0,0.0,seasonal_naive
+Switzerland,2019-07-21,0.0,0.0,seasonal_naive
+Switzerland,2019-07-22,99.41,0.0,seasonal_naive
+Switzerland,2019-07-23,126.58,0.0,seasonal_naive
+Switzerland,2019-07-24,0.0,0.0,seasonal_naive
+Switzerland,2019-07-25,0.0,0.0,seasonal_naive
+Switzerland,2019-07-26,0.0,47.55,seasonal_naive
+Switzerland,2019-07-27,0.0,0.0,seasonal_naive
+Switzerland,2019-07-28,156.95,0.0,seasonal_naive
+Switzerland,2019-07-29,0.0,0.0,seasonal_naive
+Switzerland,2019-07-30,667.94,0.0,seasonal_naive
+Switzerland,2019-07-31,4.15,0.0,seasonal_naive
+Thailand,2019-07-02,0.0,1.4354457739198343,ridge
+Thailand,2019-07-03,0.0,0.7792425549805009,ridge
+Thailand,2019-07-04,0.0,0.25843170792897374,ridge
+Thailand,2019-07-05,0.0,0.25548313694108216,ridge
+Thailand,2019-07-06,0.0,0.7689245270630589,ridge
+Thailand,2019-07-07,0.0,1.4082149728454492,ridge
+Thailand,2019-07-08,0.0,1.6878530880027454,ridge
+Thailand,2019-07-09,0.0,1.385845896052283,ridge
+Thailand,2019-07-10,0.0,0.7363856101657537,ridge
+Thailand,2019-07-11,0.0,0.21585113235534048,ridge
+Thailand,2019-07-12,0.0,0.2109695697989189,ridge
+Thailand,2019-07-13,0.0,0.7199332210023153,ridge
+Thailand,2019-07-14,0.0,1.353816229884258,ridge
+Thailand,2019-07-15,0.0,1.6294445093949317,ridge
+Thailand,2019-07-16,0.0,1.4126161766885457,ridge
+Thailand,2019-07-17,0.0,0.7243273341149121,ridge
+Thailand,2019-07-18,0.0,0.17317243471771793,ridge
+Thailand,2019-07-19,0.0,0.16648021235118793,ridge
+Thailand,2019-07-20,0.0,0.7021002126865916,ridge
+Thailand,2019-07-21,0.0,1.3693251607897219,ridge
+Thailand,2019-07-22,0.0,1.6581672310476296,ridge
+Thailand,2019-07-23,0.0,1.342603160654419,ridge
+Thailand,2019-07-24,0.0,0.6536049139231845,ridge
+Thailand,2019-07-25,0.0,0.1010284458741959,ridge
+Thailand,2019-07-26,0.0,0.09268524609278139,ridge
+Thailand,2019-07-27,0.0,0.6263893752075955,ridge
+Thailand,2019-07-28,0.0,1.2916145818778946,ridge
+Thailand,2019-07-29,0.0,1.5786308583374236,ridge
+Thailand,2019-07-30,0.0,1.256290003861388,ridge
+Thailand,2019-07-31,0.0,0.5790524854305417,ridge
+Thailand,2019-07-02,0.0,43.97402777777777,random_forest
+Thailand,2019-07-03,0.0,24.322083333333328,random_forest
+Thailand,2019-07-04,0.0,1.4944444444444445,random_forest
+Thailand,2019-07-05,0.0,0.0,random_forest
+Thailand,2019-07-06,0.0,0.0,random_forest
+Thailand,2019-07-07,0.0,0.0,random_forest
+Thailand,2019-07-08,0.0,0.33698611111111115,random_forest
+Thailand,2019-07-09,0.0,0.0,random_forest
+Thailand,2019-07-10,0.0,0.0,random_forest
+Thailand,2019-07-11,0.0,0.0,random_forest
+Thailand,2019-07-12,0.0,0.0,random_forest
+Thailand,2019-07-13,0.0,0.0,random_forest
+Thailand,2019-07-14,0.0,0.0,random_forest
+Thailand,2019-07-15,0.0,1.0812693452380953,random_forest
+Thailand,2019-07-16,0.0,0.0,random_forest
+Thailand,2019-07-17,0.0,0.0,random_forest
+Thailand,2019-07-18,0.0,0.0,random_forest
+Thailand,2019-07-19,0.0,0.0,random_forest
+Thailand,2019-07-20,0.0,0.0,random_forest
+Thailand,2019-07-21,0.0,0.0,random_forest
+Thailand,2019-07-22,0.0,0.0,random_forest
+Thailand,2019-07-23,0.0,0.0,random_forest
+Thailand,2019-07-24,0.0,0.0,random_forest
+Thailand,2019-07-25,0.0,0.0,random_forest
+Thailand,2019-07-26,0.0,0.0,random_forest
+Thailand,2019-07-27,0.0,0.0,random_forest
+Thailand,2019-07-28,0.0,0.0,random_forest
+Thailand,2019-07-29,0.0,0.0,random_forest
+Thailand,2019-07-30,0.0,0.0,random_forest
+Thailand,2019-07-31,0.0,0.0,random_forest
+Thailand,2019-07-02,0.0,0.0,seasonal_naive
+Thailand,2019-07-03,0.0,0.0,seasonal_naive
+Thailand,2019-07-04,0.0,0.0,seasonal_naive
+Thailand,2019-07-05,0.0,0.0,seasonal_naive
+Thailand,2019-07-06,0.0,0.0,seasonal_naive
+Thailand,2019-07-07,0.0,0.0,seasonal_naive
+Thailand,2019-07-08,0.0,0.0,seasonal_naive
+Thailand,2019-07-09,0.0,0.0,seasonal_naive
+Thailand,2019-07-10,0.0,0.0,seasonal_naive
+Thailand,2019-07-11,0.0,0.0,seasonal_naive
+Thailand,2019-07-12,0.0,0.0,seasonal_naive
+Thailand,2019-07-13,0.0,0.0,seasonal_naive
+Thailand,2019-07-14,0.0,0.0,seasonal_naive
+Thailand,2019-07-15,0.0,0.0,seasonal_naive
+Thailand,2019-07-16,0.0,0.0,seasonal_naive
+Thailand,2019-07-17,0.0,0.0,seasonal_naive
+Thailand,2019-07-18,0.0,0.0,seasonal_naive
+Thailand,2019-07-19,0.0,0.0,seasonal_naive
+Thailand,2019-07-20,0.0,0.0,seasonal_naive
+Thailand,2019-07-21,0.0,0.0,seasonal_naive
+Thailand,2019-07-22,0.0,0.0,seasonal_naive
+Thailand,2019-07-23,0.0,0.0,seasonal_naive
+Thailand,2019-07-24,0.0,0.0,seasonal_naive
+Thailand,2019-07-25,0.0,0.0,seasonal_naive
+Thailand,2019-07-26,0.0,0.0,seasonal_naive
+Thailand,2019-07-27,0.0,0.0,seasonal_naive
+Thailand,2019-07-28,0.0,0.0,seasonal_naive
+Thailand,2019-07-29,0.0,0.0,seasonal_naive
+Thailand,2019-07-30,0.0,0.0,seasonal_naive
+Thailand,2019-07-31,0.0,0.0,seasonal_naive
+USA,2019-07-02,0.0,3.330142102422304,ridge
+USA,2019-07-03,0.0,2.0128497867070103,ridge
+USA,2019-07-04,0.0,0.0,ridge
+USA,2019-07-05,0.0,0.0,ridge
+USA,2019-07-06,0.0,0.0,ridge
+USA,2019-07-07,0.0,0.7395304820034898,ridge
+USA,2019-07-08,0.0,2.8059911443004784,ridge
+USA,2019-07-09,0.0,3.299410428422403,ridge
+USA,2019-07-10,0.0,2.0716764794520404,ridge
+USA,2019-07-11,0.0,0.0,ridge
+USA,2019-07-12,0.0,0.0,ridge
+USA,2019-07-13,0.0,0.0,ridge
+USA,2019-07-14,0.0,0.7794127709223924,ridge
+USA,2019-07-15,0.0,2.720892859335243,ridge
+USA,2019-07-16,0.0,3.1753028452735443,ridge
+USA,2019-07-17,0.0,1.9705027450492998,ridge
+USA,2019-07-18,0.0,0.0,ridge
+USA,2019-07-19,0.0,0.0,ridge
+USA,2019-07-20,0.0,0.0,ridge
+USA,2019-07-21,0.0,0.6888947031318304,ridge
+USA,2019-07-22,0.0,2.589872708813904,ridge
+USA,2019-07-23,0.0,3.10830556330258,ridge
+USA,2019-07-24,0.0,1.89790967617138,ridge
+USA,2019-07-25,0.0,0.0,ridge
+USA,2019-07-26,0.0,0.0,ridge
+USA,2019-07-27,0.0,0.0,ridge
+USA,2019-07-28,0.0,0.6069735902511777,ridge
+USA,2019-07-29,0.0,2.5160252135091548,ridge
+USA,2019-07-30,0.0,2.9678456360711736,ridge
+USA,2019-07-31,0.0,1.8114228229981229,ridge
+USA,2019-07-02,0.0,0.6770833333333334,random_forest
+USA,2019-07-03,0.0,0.26614583333333336,random_forest
+USA,2019-07-04,0.0,0.0,random_forest
+USA,2019-07-05,0.0,0.0,random_forest
+USA,2019-07-06,0.0,0.0,random_forest
+USA,2019-07-07,0.0,2.951388888888889,random_forest
+USA,2019-07-08,0.0,4.437934027777778,random_forest
+USA,2019-07-09,0.0,1.7398437500000001,random_forest
+USA,2019-07-10,0.0,1.24921875,random_forest
+USA,2019-07-11,0.0,0.38567708333333334,random_forest
+USA,2019-07-12,0.0,0.38567708333333334,random_forest
+USA,2019-07-13,0.0,0.0796875,random_forest
+USA,2019-07-14,0.0,11.88360416666667,random_forest
+USA,2019-07-15,0.0,12.251034722222224,random_forest
+USA,2019-07-16,0.0,0.9430208333333333,random_forest
+USA,2019-07-17,0.0,0.9579166666666666,random_forest
+USA,2019-07-18,0.0,0.2659375,random_forest
+USA,2019-07-19,0.0,0.2659375,random_forest
+USA,2019-07-20,0.0,0.2659375,random_forest
+USA,2019-07-21,0.0,12.516972222222224,random_forest
+USA,2019-07-22,0.0,12.251034722222224,random_forest
+USA,2019-07-23,0.0,0.9430208333333333,random_forest
+USA,2019-07-24,0.0,2.1037500000000002,random_forest
+USA,2019-07-25,0.0,2.5576041666666662,random_forest
+USA,2019-07-26,0.0,7.159427083333334,random_forest
+USA,2019-07-27,0.0,21.813736772486774,random_forest
+USA,2019-07-28,0.0,11.680236111111112,random_forest
+USA,2019-07-29,0.0,10.152458333333334,random_forest
+USA,2019-07-30,0.0,2.165486111111111,random_forest
+USA,2019-07-31,0.0,1.3783333333333332,random_forest
+USA,2019-07-02,0.0,0.0,seasonal_naive
+USA,2019-07-03,0.0,0.0,seasonal_naive
+USA,2019-07-04,0.0,0.0,seasonal_naive
+USA,2019-07-05,0.0,0.0,seasonal_naive
+USA,2019-07-06,0.0,0.0,seasonal_naive
+USA,2019-07-07,0.0,0.0,seasonal_naive
+USA,2019-07-08,0.0,0.0,seasonal_naive
+USA,2019-07-09,0.0,0.0,seasonal_naive
+USA,2019-07-10,0.0,0.0,seasonal_naive
+USA,2019-07-11,0.0,0.0,seasonal_naive
+USA,2019-07-12,0.0,0.0,seasonal_naive
+USA,2019-07-13,0.0,0.0,seasonal_naive
+USA,2019-07-14,0.0,0.0,seasonal_naive
+USA,2019-07-15,0.0,0.0,seasonal_naive
+USA,2019-07-16,0.0,0.0,seasonal_naive
+USA,2019-07-17,0.0,0.0,seasonal_naive
+USA,2019-07-18,0.0,0.0,seasonal_naive
+USA,2019-07-19,0.0,0.0,seasonal_naive
+USA,2019-07-20,0.0,0.0,seasonal_naive
+USA,2019-07-21,0.0,0.0,seasonal_naive
+USA,2019-07-22,0.0,0.0,seasonal_naive
+USA,2019-07-23,0.0,0.0,seasonal_naive
+USA,2019-07-24,0.0,0.0,seasonal_naive
+USA,2019-07-25,0.0,0.0,seasonal_naive
+USA,2019-07-26,0.0,0.0,seasonal_naive
+USA,2019-07-27,0.0,0.0,seasonal_naive
+USA,2019-07-28,0.0,0.0,seasonal_naive
+USA,2019-07-29,0.0,0.0,seasonal_naive
+USA,2019-07-30,0.0,0.0,seasonal_naive
+USA,2019-07-31,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-02,0.0,0.0,ridge
+United Arab Emirates,2019-07-03,0.0,0.0,ridge
+United Arab Emirates,2019-07-04,0.0,0.0,ridge
+United Arab Emirates,2019-07-05,0.0,0.0,ridge
+United Arab Emirates,2019-07-06,0.0,0.0,ridge
+United Arab Emirates,2019-07-07,0.0,0.0,ridge
+United Arab Emirates,2019-07-08,0.0,0.0,ridge
+United Arab Emirates,2019-07-09,0.0,0.0,ridge
+United Arab Emirates,2019-07-10,0.0,0.0,ridge
+United Arab Emirates,2019-07-11,0.0,0.0,ridge
+United Arab Emirates,2019-07-12,0.0,0.0,ridge
+United Arab Emirates,2019-07-13,0.0,0.0,ridge
+United Arab Emirates,2019-07-14,0.0,0.0,ridge
+United Arab Emirates,2019-07-15,0.0,0.0,ridge
+United Arab Emirates,2019-07-16,0.0,0.0,ridge
+United Arab Emirates,2019-07-17,0.0,0.0,ridge
+United Arab Emirates,2019-07-18,0.0,0.0,ridge
+United Arab Emirates,2019-07-19,0.0,0.0,ridge
+United Arab Emirates,2019-07-20,0.0,0.0,ridge
+United Arab Emirates,2019-07-21,0.0,0.0,ridge
+United Arab Emirates,2019-07-22,0.0,0.0,ridge
+United Arab Emirates,2019-07-23,0.0,0.0,ridge
+United Arab Emirates,2019-07-24,0.0,0.0,ridge
+United Arab Emirates,2019-07-25,0.0,0.0,ridge
+United Arab Emirates,2019-07-26,0.0,0.0,ridge
+United Arab Emirates,2019-07-27,0.0,0.0,ridge
+United Arab Emirates,2019-07-28,0.0,0.0,ridge
+United Arab Emirates,2019-07-29,0.0,0.0,ridge
+United Arab Emirates,2019-07-30,0.0,0.0,ridge
+United Arab Emirates,2019-07-31,0.0,0.0,ridge
+United Arab Emirates,2019-07-02,0.0,0.0,random_forest
+United Arab Emirates,2019-07-03,0.0,0.0,random_forest
+United Arab Emirates,2019-07-04,0.0,0.0,random_forest
+United Arab Emirates,2019-07-05,0.0,0.0,random_forest
+United Arab Emirates,2019-07-06,0.0,0.0,random_forest
+United Arab Emirates,2019-07-07,0.0,0.0,random_forest
+United Arab Emirates,2019-07-08,0.0,1.3467013888888892,random_forest
+United Arab Emirates,2019-07-09,0.0,0.0,random_forest
+United Arab Emirates,2019-07-10,0.0,0.0,random_forest
+United Arab Emirates,2019-07-11,0.0,0.0,random_forest
+United Arab Emirates,2019-07-12,0.0,0.0,random_forest
+United Arab Emirates,2019-07-13,0.0,0.0,random_forest
+United Arab Emirates,2019-07-14,0.0,0.0,random_forest
+United Arab Emirates,2019-07-15,0.0,1.3467013888888892,random_forest
+United Arab Emirates,2019-07-16,0.0,0.0,random_forest
+United Arab Emirates,2019-07-17,0.0,0.0,random_forest
+United Arab Emirates,2019-07-18,0.0,0.0,random_forest
+United Arab Emirates,2019-07-19,0.0,0.0,random_forest
+United Arab Emirates,2019-07-20,0.0,0.0,random_forest
+United Arab Emirates,2019-07-21,0.0,0.0,random_forest
+United Arab Emirates,2019-07-22,0.0,1.3467013888888892,random_forest
+United Arab Emirates,2019-07-23,0.0,0.0,random_forest
+United Arab Emirates,2019-07-24,0.0,0.0,random_forest
+United Arab Emirates,2019-07-25,0.0,0.0,random_forest
+United Arab Emirates,2019-07-26,0.0,0.0,random_forest
+United Arab Emirates,2019-07-27,0.0,0.0,random_forest
+United Arab Emirates,2019-07-28,0.0,0.0,random_forest
+United Arab Emirates,2019-07-29,0.0,1.3467013888888892,random_forest
+United Arab Emirates,2019-07-30,0.0,0.0,random_forest
+United Arab Emirates,2019-07-31,0.0,0.0,random_forest
+United Arab Emirates,2019-07-02,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-03,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-04,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-05,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-06,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-07,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-08,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-09,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-10,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-11,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-12,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-13,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-14,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-15,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-16,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-17,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-18,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-19,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-20,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-21,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-22,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-23,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-24,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-25,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-26,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-27,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-28,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-29,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-30,0.0,0.0,seasonal_naive
+United Arab Emirates,2019-07-31,0.0,0.0,seasonal_naive
+United Kingdom,2019-07-02,9084.94,7658.828548513371,ridge
+United Kingdom,2019-07-03,4832.23,8009.846386821855,ridge
+United Kingdom,2019-07-04,6223.27,6552.086630252281,ridge
+United Kingdom,2019-07-05,6792.05,6311.857895745448,ridge
+United Kingdom,2019-07-06,0.0,3059.7560806531665,ridge
+United Kingdom,2019-07-07,1976.14,4011.5565733039566,ridge
+United Kingdom,2019-07-08,3823.84,6439.356504578114,ridge
+United Kingdom,2019-07-09,6185.21,8548.193872783031,ridge
+United Kingdom,2019-07-10,15525.800000000001,8937.218404301464,ridge
+United Kingdom,2019-07-11,4781.37,7316.237823221551,ridge
+United Kingdom,2019-07-12,3947.09,4777.173077906942,ridge
+United Kingdom,2019-07-13,0.0,3193.5516950648525,ridge
+United Kingdom,2019-07-14,3153.55,4104.857837714686,ridge
+United Kingdom,2019-07-15,26946.8,6808.199418322805,ridge
+United Kingdom,2019-07-16,3879.86,8809.688195065151,ridge
+United Kingdom,2019-07-17,10670.4,9021.534049955153,ridge
+United Kingdom,2019-07-18,6162.87,7481.361515335891,ridge
+United Kingdom,2019-07-19,3866.32,5507.2290202707845,ridge
+United Kingdom,2019-07-20,0.0,3594.5719292913027,ridge
+United Kingdom,2019-07-21,2974.19,4432.389287230721,ridge
+United Kingdom,2019-07-22,7403.85,6845.365809552381,ridge
+United Kingdom,2019-07-23,3888.371,9011.048716831356,ridge
+United Kingdom,2019-07-24,3477.53,9362.692221580455,ridge
+United Kingdom,2019-07-25,3967.2400000000002,7714.53512876516,ridge
+United Kingdom,2019-07-26,3378.21,5183.169050468339,ridge
+United Kingdom,2019-07-27,0.0,3664.8332326019126,ridge
+United Kingdom,2019-07-28,2656.7,4481.5496845110465,ridge
+United Kingdom,2019-07-29,4124.82,7086.6440423061695,ridge
+United Kingdom,2019-07-30,15260.12,9246.256595868264,ridge
+United Kingdom,2019-07-31,4844.04,9639.110646555382,ridge
+United Kingdom,2019-07-02,9084.94,7870.972472444093,random_forest
+United Kingdom,2019-07-03,4832.23,8136.001618511599,random_forest
+United Kingdom,2019-07-04,6223.27,6705.371314286985,random_forest
+United Kingdom,2019-07-05,6792.05,8499.259064886422,random_forest
+United Kingdom,2019-07-06,0.0,0.0,random_forest
+United Kingdom,2019-07-07,1976.14,2486.275878947659,random_forest
+United Kingdom,2019-07-08,3823.84,11185.89303001325,random_forest
+United Kingdom,2019-07-09,6185.21,11450.118063075985,random_forest
+United Kingdom,2019-07-10,15525.800000000001,8437.982996544924,random_forest
+United Kingdom,2019-07-11,4781.37,9992.769827562011,random_forest
+United Kingdom,2019-07-12,3947.09,7303.623960609583,random_forest
+United Kingdom,2019-07-13,0.0,0.0,random_forest
+United Kingdom,2019-07-14,3153.55,2209.109399303434,random_forest
+United Kingdom,2019-07-15,26946.8,8823.320041008506,random_forest
+United Kingdom,2019-07-16,3879.86,11005.983146478395,random_forest
+United Kingdom,2019-07-17,10670.4,9064.929011799733,random_forest
+United Kingdom,2019-07-18,6162.87,11265.512949693437,random_forest
+United Kingdom,2019-07-19,3866.32,12429.933972489293,random_forest
+United Kingdom,2019-07-20,0.0,0.0,random_forest
+United Kingdom,2019-07-21,2974.19,2720.4461618748855,random_forest
+United Kingdom,2019-07-22,7403.85,9310.109565235052,random_forest
+United Kingdom,2019-07-23,3888.371,11259.762061989844,random_forest
+United Kingdom,2019-07-24,3477.53,10002.598479708782,random_forest
+United Kingdom,2019-07-25,3967.2400000000002,10566.962665313722,random_forest
+United Kingdom,2019-07-26,3378.21,10511.129639971376,random_forest
+United Kingdom,2019-07-27,0.0,0.0,random_forest
+United Kingdom,2019-07-28,2656.7,3107.8224060838916,random_forest
+United Kingdom,2019-07-29,4124.82,10659.933866857167,random_forest
+United Kingdom,2019-07-30,15260.12,10888.219513539158,random_forest
+United Kingdom,2019-07-31,4844.04,10121.231290297665,random_forest
+United Kingdom,2019-07-02,9084.94,4991.26,seasonal_naive
+United Kingdom,2019-07-03,4832.23,4611.0,seasonal_naive
+United Kingdom,2019-07-04,6223.27,5128.0199999999995,seasonal_naive
+United Kingdom,2019-07-05,6792.05,3096.2,seasonal_naive
+United Kingdom,2019-07-06,0.0,0.0,seasonal_naive
+United Kingdom,2019-07-07,1976.14,1793.98,seasonal_naive
+United Kingdom,2019-07-08,3823.84,8135.05,seasonal_naive
+United Kingdom,2019-07-09,6185.21,4991.26,seasonal_naive
+United Kingdom,2019-07-10,15525.800000000001,4611.0,seasonal_naive
+United Kingdom,2019-07-11,4781.37,5128.0199999999995,seasonal_naive
+United Kingdom,2019-07-12,3947.09,3096.2,seasonal_naive
+United Kingdom,2019-07-13,0.0,0.0,seasonal_naive
+United Kingdom,2019-07-14,3153.55,1793.98,seasonal_naive
+United Kingdom,2019-07-15,26946.8,8135.05,seasonal_naive
+United Kingdom,2019-07-16,3879.86,4991.26,seasonal_naive
+United Kingdom,2019-07-17,10670.4,4611.0,seasonal_naive
+United Kingdom,2019-07-18,6162.87,5128.0199999999995,seasonal_naive
+United Kingdom,2019-07-19,3866.32,3096.2,seasonal_naive
+United Kingdom,2019-07-20,0.0,0.0,seasonal_naive
+United Kingdom,2019-07-21,2974.19,1793.98,seasonal_naive
+United Kingdom,2019-07-22,7403.85,8135.05,seasonal_naive
+United Kingdom,2019-07-23,3888.371,4991.26,seasonal_naive
+United Kingdom,2019-07-24,3477.53,4611.0,seasonal_naive
+United Kingdom,2019-07-25,3967.2400000000002,5128.0199999999995,seasonal_naive
+United Kingdom,2019-07-26,3378.21,3096.2,seasonal_naive
+United Kingdom,2019-07-27,0.0,0.0,seasonal_naive
+United Kingdom,2019-07-28,2656.7,1793.98,seasonal_naive
+United Kingdom,2019-07-29,4124.82,8135.05,seasonal_naive
+United Kingdom,2019-07-30,15260.12,4991.26,seasonal_naive
+United Kingdom,2019-07-31,4844.04,4611.0,seasonal_naive
+Unspecified,2019-07-02,0.0,12.687102511680132,ridge
+Unspecified,2019-07-03,0.0,14.052691905671306,ridge
+Unspecified,2019-07-04,0.0,10.717911524889203,ridge
+Unspecified,2019-07-05,167.97,5.596671379777247,ridge
+Unspecified,2019-07-06,0.0,2.5330259115024063,ridge
+Unspecified,2019-07-07,0.0,3.796979192583569,ridge
+Unspecified,2019-07-08,0.0,8.397438501287656,ridge
+Unspecified,2019-07-09,0.0,12.772695422680876,ridge
+Unspecified,2019-07-10,0.0,13.665579360439024,ridge
+Unspecified,2019-07-11,51.91,10.328874627059943,ridge
+Unspecified,2019-07-12,0.0,5.235907737050267,ridge
+Unspecified,2019-07-13,0.0,2.1859173341315046,ridge
+Unspecified,2019-07-14,0.0,3.438990050844434,ridge
+Unspecified,2019-07-15,0.0,7.67855508540452,ridge
+Unspecified,2019-07-16,0.0,12.790639276105946,ridge
+Unspecified,2019-07-17,0.0,13.703117168176338,ridge
+Unspecified,2019-07-18,0.0,10.377090245482131,ridge
+Unspecified,2019-07-19,0.0,5.307073891394506,ridge
+Unspecified,2019-07-20,0.0,2.2652811712467074,ridge
+Unspecified,2019-07-21,0.0,3.4937701401116117,ridge
+Unspecified,2019-07-22,0.0,8.019344110913599,ridge
+Unspecified,2019-07-23,0.0,12.378488941434133,ridge
+Unspecified,2019-07-24,0.0,13.24244077237724,ridge
+Unspecified,2019-07-25,407.17,9.904734683059234,ridge
+Unspecified,2019-07-26,0.0,4.8249190360036085,ridge
+Unspecified,2019-07-27,0.0,1.7736831953914578,ridge
+Unspecified,2019-07-28,0.0,2.993134488576448,ridge
+Unspecified,2019-07-29,0.0,7.510887962329845,ridge
+Unspecified,2019-07-30,0.0,11.75824665643688,ridge
+Unspecified,2019-07-31,0.0,12.739429170096281,ridge
+Unspecified,2019-07-02,0.0,5.049766414141413,random_forest
+Unspecified,2019-07-03,0.0,4.232023358585859,random_forest
+Unspecified,2019-07-04,0.0,2.4148800505050505,random_forest
+Unspecified,2019-07-05,167.97,1.989409722222222,random_forest
+Unspecified,2019-07-06,0.0,2.5426041666666666,random_forest
+Unspecified,2019-07-07,0.0,5.841993055555555,random_forest
+Unspecified,2019-07-08,0.0,7.378208333333334,random_forest
+Unspecified,2019-07-09,0.0,14.084523358585857,random_forest
+Unspecified,2019-07-10,0.0,12.493705071548822,random_forest
+Unspecified,2019-07-11,51.91,6.197231406325156,random_forest
+Unspecified,2019-07-12,0.0,5.172096726190476,random_forest
+Unspecified,2019-07-13,0.0,5.1366701388888885,random_forest
+Unspecified,2019-07-14,0.0,6.026652777777777,random_forest
+Unspecified,2019-07-15,0.0,6.6008657407407405,random_forest
+Unspecified,2019-07-16,0.0,6.968556712962964,random_forest
+Unspecified,2019-07-17,0.0,1.989409722222222,random_forest
+Unspecified,2019-07-18,0.0,2.9142996933621936,random_forest
+Unspecified,2019-07-19,0.0,2.171016865079365,random_forest
+Unspecified,2019-07-20,0.0,2.1355902777777778,random_forest
+Unspecified,2019-07-21,0.0,2.2817708333333333,random_forest
+Unspecified,2019-07-22,0.0,2.82625,random_forest
+Unspecified,2019-07-23,0.0,2.9418229166666663,random_forest
+Unspecified,2019-07-24,0.0,1.989409722222222,random_forest
+Unspecified,2019-07-25,407.17,2.9142996933621936,random_forest
+Unspecified,2019-07-26,0.0,2.171016865079365,random_forest
+Unspecified,2019-07-27,0.0,2.1355902777777778,random_forest
+Unspecified,2019-07-28,0.0,2.2817708333333333,random_forest
+Unspecified,2019-07-29,0.0,2.5741319444444444,random_forest
+Unspecified,2019-07-30,0.0,2.9418229166666663,random_forest
+Unspecified,2019-07-31,0.0,1.989409722222222,random_forest
+Unspecified,2019-07-02,0.0,0.0,seasonal_naive
+Unspecified,2019-07-03,0.0,0.0,seasonal_naive
+Unspecified,2019-07-04,0.0,0.0,seasonal_naive
+Unspecified,2019-07-05,167.97,0.0,seasonal_naive
+Unspecified,2019-07-06,0.0,0.0,seasonal_naive
+Unspecified,2019-07-07,0.0,0.0,seasonal_naive
+Unspecified,2019-07-08,0.0,0.0,seasonal_naive
+Unspecified,2019-07-09,0.0,0.0,seasonal_naive
+Unspecified,2019-07-10,0.0,0.0,seasonal_naive
+Unspecified,2019-07-11,51.91,0.0,seasonal_naive
+Unspecified,2019-07-12,0.0,0.0,seasonal_naive
+Unspecified,2019-07-13,0.0,0.0,seasonal_naive
+Unspecified,2019-07-14,0.0,0.0,seasonal_naive
+Unspecified,2019-07-15,0.0,0.0,seasonal_naive
+Unspecified,2019-07-16,0.0,0.0,seasonal_naive
+Unspecified,2019-07-17,0.0,0.0,seasonal_naive
+Unspecified,2019-07-18,0.0,0.0,seasonal_naive
+Unspecified,2019-07-19,0.0,0.0,seasonal_naive
+Unspecified,2019-07-20,0.0,0.0,seasonal_naive
+Unspecified,2019-07-21,0.0,0.0,seasonal_naive
+Unspecified,2019-07-22,0.0,0.0,seasonal_naive
+Unspecified,2019-07-23,0.0,0.0,seasonal_naive
+Unspecified,2019-07-24,0.0,0.0,seasonal_naive
+Unspecified,2019-07-25,407.17,0.0,seasonal_naive
+Unspecified,2019-07-26,0.0,0.0,seasonal_naive
+Unspecified,2019-07-27,0.0,0.0,seasonal_naive
+Unspecified,2019-07-28,0.0,0.0,seasonal_naive
+Unspecified,2019-07-29,0.0,0.0,seasonal_naive
+Unspecified,2019-07-30,0.0,0.0,seasonal_naive
+Unspecified,2019-07-31,0.0,0.0,seasonal_naive
+West Indies,2019-07-02,0.0,0.8773738464330022,ridge
+West Indies,2019-07-03,0.0,0.5100891849998292,ridge
+West Indies,2019-07-04,0.0,0.2207507694679139,ridge
+West Indies,2019-07-05,0.0,0.22712362445770373,ridge
+West Indies,2019-07-06,0.0,0.5277092575749083,ridge
+West Indies,2019-07-07,0.0,0.8993388876172707,ridge
+West Indies,2019-07-08,0.0,1.065234715002298,ridge
+West Indies,2019-07-09,0.0,0.8993094967951699,ridge
+West Indies,2019-07-10,0.0,0.5358539214861611,ridge
+West Indies,2019-07-11,0.0,0.24659849365950398,ridge
+West Indies,2019-07-12,0.0,0.25179072329736985,ridge
+West Indies,2019-07-13,0.0,0.5498060694505958,ridge
+West Indies,2019-07-14,0.0,0.918400625294431,ridge
+West Indies,2019-07-15,0.0,1.0820641947305396,ridge
+West Indies,2019-07-16,0.0,0.915811745125042,ridge
+West Indies,2019-07-17,0.0,0.5528046917570271,ridge
+West Indies,2019-07-18,0.0,0.26366184804408527,ridge
+West Indies,2019-07-19,0.0,0.267711086366477,ridge
+West Indies,2019-07-20,0.0,0.5633484369611392,ridge
+West Indies,2019-07-21,0.0,0.9292751210843828,ridge
+West Indies,2019-07-22,0.0,1.0911391993801092,ridge
+West Indies,2019-07-23,0.0,0.9281620908073009,ridge
+West Indies,2019-07-24,0.0,0.563962552360629,ridge
+West Indies,2019-07-25,0.0,0.27365289612932137,ridge
+West Indies,2019-07-26,0.0,0.2765401254902632,ridge
+West Indies,2019-07-27,0.0,0.5710216323270966,ridge
+West Indies,2019-07-28,0.0,0.9357911478132808,ridge
+West Indies,2019-07-29,0.0,1.0964864609882308,ridge
+West Indies,2019-07-30,0.0,0.9288755743506929,ridge
+West Indies,2019-07-31,0.0,0.5721605949822899,ridge
+West Indies,2019-07-02,0.0,0.0,random_forest
+West Indies,2019-07-03,0.0,0.0,random_forest
+West Indies,2019-07-04,0.0,0.0,random_forest
+West Indies,2019-07-05,0.0,0.0,random_forest
+West Indies,2019-07-06,0.0,0.0,random_forest
+West Indies,2019-07-07,0.0,0.0,random_forest
+West Indies,2019-07-08,0.0,0.0,random_forest
+West Indies,2019-07-09,0.0,0.0,random_forest
+West Indies,2019-07-10,0.0,0.0,random_forest
+West Indies,2019-07-11,0.0,0.0,random_forest
+West Indies,2019-07-12,0.0,0.0,random_forest
+West Indies,2019-07-13,0.0,0.0,random_forest
+West Indies,2019-07-14,0.0,0.0,random_forest
+West Indies,2019-07-15,0.0,0.8525694444444444,random_forest
+West Indies,2019-07-16,0.0,0.0,random_forest
+West Indies,2019-07-17,0.0,0.0,random_forest
+West Indies,2019-07-18,0.0,0.0,random_forest
+West Indies,2019-07-19,0.0,0.0,random_forest
+West Indies,2019-07-20,0.0,0.0,random_forest
+West Indies,2019-07-21,0.0,0.0,random_forest
+West Indies,2019-07-22,0.0,0.8525694444444444,random_forest
+West Indies,2019-07-23,0.0,0.0,random_forest
+West Indies,2019-07-24,0.0,0.0,random_forest
+West Indies,2019-07-25,0.0,0.0,random_forest
+West Indies,2019-07-26,0.0,0.0,random_forest
+West Indies,2019-07-27,0.0,0.0,random_forest
+West Indies,2019-07-28,0.0,0.0,random_forest
+West Indies,2019-07-29,0.0,0.8525694444444444,random_forest
+West Indies,2019-07-30,0.0,0.0,random_forest
+West Indies,2019-07-31,0.0,0.0,random_forest
+West Indies,2019-07-02,0.0,0.0,seasonal_naive
+West Indies,2019-07-03,0.0,0.0,seasonal_naive
+West Indies,2019-07-04,0.0,0.0,seasonal_naive
+West Indies,2019-07-05,0.0,0.0,seasonal_naive
+West Indies,2019-07-06,0.0,0.0,seasonal_naive
+West Indies,2019-07-07,0.0,0.0,seasonal_naive
+West Indies,2019-07-08,0.0,0.0,seasonal_naive
+West Indies,2019-07-09,0.0,0.0,seasonal_naive
+West Indies,2019-07-10,0.0,0.0,seasonal_naive
+West Indies,2019-07-11,0.0,0.0,seasonal_naive
+West Indies,2019-07-12,0.0,0.0,seasonal_naive
+West Indies,2019-07-13,0.0,0.0,seasonal_naive
+West Indies,2019-07-14,0.0,0.0,seasonal_naive
+West Indies,2019-07-15,0.0,0.0,seasonal_naive
+West Indies,2019-07-16,0.0,0.0,seasonal_naive
+West Indies,2019-07-17,0.0,0.0,seasonal_naive
+West Indies,2019-07-18,0.0,0.0,seasonal_naive
+West Indies,2019-07-19,0.0,0.0,seasonal_naive
+West Indies,2019-07-20,0.0,0.0,seasonal_naive
+West Indies,2019-07-21,0.0,0.0,seasonal_naive
+West Indies,2019-07-22,0.0,0.0,seasonal_naive
+West Indies,2019-07-23,0.0,0.0,seasonal_naive
+West Indies,2019-07-24,0.0,0.0,seasonal_naive
+West Indies,2019-07-25,0.0,0.0,seasonal_naive
+West Indies,2019-07-26,0.0,0.0,seasonal_naive
+West Indies,2019-07-27,0.0,0.0,seasonal_naive
+West Indies,2019-07-28,0.0,0.0,seasonal_naive
+West Indies,2019-07-29,0.0,0.0,seasonal_naive
+West Indies,2019-07-30,0.0,0.0,seasonal_naive
+West Indies,2019-07-31,0.0,0.0,seasonal_naive
